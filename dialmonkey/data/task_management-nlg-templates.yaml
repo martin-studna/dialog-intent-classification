@@ -1,0 +1,20 @@
+greet(): Hello, what can I do for you, Sir?
+greet(): Hello, my name is virtual assistant Alfred. How can you help you, Sir?  
+greet(): Hello, is there anything I can help with? 
+exit(): Good bye, Sir.
+request_more(): Is there anything else I can do for you, Sir? 
+task_created(name={name},time={time}): All done, Sir. I have scheduled the {name} at {time}.
+task_created(name={name},time={time}): Ok, Sir. The {name} is scheduled at {time}.
+task_created(name={name},time={time}): The {name} is scheduled at {time}.
+task_created(name={name}): The {name} has been created. Is there anything else I can help with?
+task_created(name={name}): The task {name} has been created. Is there anything else I can do for you?
+task_created(name={name}): I have just created the {name} in your personal journal. Is there anything else I can do for you?
+task_deleted(name={name}): Ok, Sir. I have just deleted the {name}.
+task_deleted(name={name}): The {name} has been just deleted.
+error(not_understood):  I apologize, Sir, I have not understood to your question.
+error(not_understood):  Please, can you repeat it again?
+error(task={error}): I apologize, Sir. There must have been some problem with our system.
+tasks_info(time={time},list={list}): "These tasks: {list:list} have been scheduled for {time}."
+tasks_info(time={time},list={list}): "I have found these tasks {list:list} scheduled for {time}."
+tasks_info(list={list}): I have found {list:list}.
+task_info(name={name},date_added={date_added},time={time}): I have found in the system that you have {name} at {time} which you have created in {date_added}.

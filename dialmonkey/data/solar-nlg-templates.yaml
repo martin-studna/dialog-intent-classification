@@ -1,0 +1,44 @@
+---
+greet(): Hello, this is the Solar System dialogue assistant. How can I help you?
+greet(): Hello, this is the Solar System dialogue assistant. Ask me about a planet. 
+greet(): Hello, I am the Solar System dialogue assistant. Ask me about a planet or a Solar body. 
+inform(life=yes,name={name}): There is a life on {name}.
+inform(life=no,name={name}): There is no life on {name}.
+inform(habitable=yes): It does support life.
+inform(habitable=no): It does not support life.  
+inform(could_support_life=yes): It could support life.
+inform(could_support_life=no): It could not support life.
+inform(name={name},humans_landed=yes): Humans have landed on {name}.
+inform(name={name},humans_landed=no): Humans have never landed on {name}.
+inform(minimal_distance={minimal},maximal_distance={maximal}): "The minimal distance is {minimal}, the maximal distance is {maximal}."
+inform(mean_distance={mean}): "The average distance is {mean}."
+inform(habitable_bodies={bodies},habitable_bodies_count={count}): "There are {count} habitable Solar bodies. These are {bodies:and_list}."
+inform(life_supportable_bodies={bodies}): "Some Solar bodies that could be theoretically make habitable by humans are {bodies:and_list}"
+inform(name={name},filter={filter},object={object}): "The {filter} {object} is {name}."
+inform(mass={value}): "Its mass is {value}."
+inform(radius={value}): "Its radius is {value}."
+inform(meanRadius={value}): "Its mean radius is {value}."
+inform(gravity={value}): "Its gravity is {value}."
+inform(mean_distance={value}): "The average distance is {value}."
+inform(name={name},mass={mass}): "The mass of {name} is {mass}."
+inform(from={from},to={to},mean_distance={mean}): "The average distance between {from} and {to} is {mean}."
+error(not_implemented): "This functionality is not implemented yet."
+exit(): "Goodbye"
+inform(min_gravity={value}): "The minimal gravity is {value}."
+inform(max_gravity={value}): "The minimal gravity is {value}."
+inform(min_radius={value}): "The minimal radius is {value}."
+inform(max_radius={value}): "The minimal radius is {value}."
+inform(single_name={name},object={object},count={count}): "There is only one {object} - {name}."
+inform(count={count},object={object}): "There are {count} {object}s."
+inform(names={names}): "They are {names:and_list}."
+ask(what_to_list): "What do you want to list?"
+inform(name={name},discovered_by={dby}): "{name} was discovered by {dby}."
+inform(name={name},size={value}): "{name} has the radius of {value}."
+inform(name={name},radius={value}): "{name} has the radius of {value}."
+inform(name={name},gravity={value}): "{name} has the gravity of {value}."
+inform(name={name},mass={value}): "{name} has the mass of {value}."
+question_granted(): "You can ask me any question about the Solar system."
+error(not_found,name={name}): "A solar body with name {name} was not found."
+error(not_understood): "I do not understand your question. Could you rephrase it differently?"
+request(property): "What property do you want?"
+request(name): "What is its name?"

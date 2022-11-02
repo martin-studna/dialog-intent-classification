@@ -1,0 +1,4 @@
+data/public_transport_cs/cities.expanded.txt filter=lfs diff=lfs merge=lfs -text
+data/public_transport_cs/stops.expanded.txt filter=lfs diff=lfs merge=lfs -text
+data/public_transport_cs/train_names.expanded.txt filter=lfs diff=lfs merge=lfs -text
+data/public_transport_cs/nlu_test_data.json filter=lfs diff=lfs merge=lfs -text

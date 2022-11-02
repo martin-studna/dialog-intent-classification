@@ -1,0 +1,46 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "training",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/hw4/train_classifier.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "task management",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_dialmonkey.py",
+      "args": ["--conf", "conf/dst_task_management.yaml"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "solar",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_dialmonkey.py",
+      "args": ["--conf", "conf/solar_conf.yaml"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "dstc2",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_dialmonkey.py",
+      "args": ["--conf", "conf/dst_dstc2.yaml"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

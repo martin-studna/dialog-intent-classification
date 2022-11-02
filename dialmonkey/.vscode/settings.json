@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "venv/bin/python3.7",
+  "editor.insertSpaces": false,
+  "python.formatting.autopep8Args": [
+    "--ignore",
+    "E402"
+  ],
+  "editor.comments.insertSpace": false
+}
