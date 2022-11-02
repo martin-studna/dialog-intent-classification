@@ -1,0 +1,82 @@
+[
+  {
+    "usr": "turkish",
+    "DA": "inform(food=turkish)"
+  },
+  {
+    "usr": "moderate",
+    "DA": "inform(pricerange=moderate)"
+  },
+  {
+    "usr": "unintelligible",
+    "DA": "null()"
+  },
+  {
+    "usr": "where are they located",
+    "DA": "request(area)"
+  },
+  {
+    "usr": "what is their address",
+    "DA": "request(addr)"
+  },
+  {
+    "usr": "thank you good bye",
+    "DA": "thankyou()|bye()"
+  },
+  {
+    "usr": "unintelligible",
+    "DA": "null()"
+  },
+  {
+    "usr": "i dont care",
+    "DA": "inform(=dontcare)"
+  },
+  {
+    "usr": "unintelligible",
+    "DA": "null()"
+  },
+  {
+    "usr": "spanish",
+    "DA": "inform(food=spanish)"
+  },
+  {
+    "usr": "spanish",
+    "DA": "inform(food=spanish)"
+  },
+  {
+    "usr": "moderate",
+    "DA": "inform(pricerange=moderate)"
+  },
+  {
+    "usr": "address",
+    "DA": "request(addr)"
+  },
+  {
+    "usr": "phone number",
+    "DA": "request(phone)"
+  },
+  {
+    "usr": "post code",
+    "DA": "request(postcode)"
+  },
+  {
+    "usr": "thank you good bye",
+    "DA": "thankyou()|bye()"
+  },
+  {
+    "usr": "moderately priced",
+    "DA": "inform(pricerange=moderate)"
+  },
+  {
+    "usr": "south",
+    "DA": "inform(area=south)"
+  },
+  {
+    "usr": "yes",
+    "DA": "affirm()"
+  },
+  {
+    "usr": "any kind",
+    "DA": "inform(=dontcare)"
+  }
+]

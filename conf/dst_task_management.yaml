@@ -1,0 +1,19 @@
+# A config useful for testing NLU systems -- now set up with the
+# dummy NLU. Replace the NLU model with your NLU to test it on
+# the console.
+---
+logging_level: "WARN"
+user_stream: "dialmonkey.input.console_input.ConsoleInput"
+#user_stream_type: "dialmonkey.input.text.SimpleJSONInput"
+output_stream_type: "dialmonkey.output.text.ConsoleOutput"
+#input_file: "data/nlu_task_management_data.json"
+#user_stream: "dialmonkey.output.text.ConsoleOutput" # not strictly required
+output_file: "data/task_management_outputs.txt"
+components:
+  - "dialmonkey.nlu.task_management.TaskManagementNLU"
+  - "dialmonkey.dst.rule_generic.GenericRuleDST"
+  - "dialmonkey.policy.task_management.TaskManagementPolicy"
+  - "dialmonkey.nlg.task_management.TaskManagementNLG"
+break_words:
+  - "quit"
+  - "exit"

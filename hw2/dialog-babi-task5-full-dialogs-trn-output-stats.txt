@@ -1,0 +1,7993 @@
+The number of words in a turn for each dialog statistics:
+Dialog 1
+Word mean: 9.033333333333333
+User word mean: 6.733333333333333
+Bot word mean: 11.333333333333334
+Word std: 698.9666666666667
+User word std: 108.93333333333334
+Bot word std: 431.33333333333337
+
+Dialog 2
+Word mean: 9.461538461538462
+User word mean: 7.0
+Bot word mean: 11.923076923076923
+Word std: 734.4615384615383
+User word std: 168.0
+Bot word std: 408.9230769230769
+
+Dialog 3
+Word mean: 9.5
+User word mean: 7.3076923076923075
+Bot word mean: 11.692307692307692
+Word std: 780.5
+User word std: 238.76923076923083
+Bot word std: 416.7692307692307
+
+Dialog 4
+Word mean: 8.944444444444445
+User word mean: 6.888888888888889
+Bot word mean: 11.0
+Word std: 518.9444444444445
+User word std: 158.88888888888886
+Bot word std: 284.0
+
+Dialog 5
+Word mean: 9.633333333333333
+User word mean: 7.2
+Bot word mean: 12.066666666666666
+Word std: 858.9666666666666
+User word std: 186.39999999999998
+Bot word std: 494.93333333333334
+
+Dialog 6
+Word mean: 9.076923076923077
+User word mean: 6.461538461538462
+Bot word mean: 11.692307692307692
+Word std: 749.8461538461538
+User word std: 137.23076923076925
+Bot word std: 434.7692307692307
+
+Dialog 7
+Word mean: 9.142857142857142
+User word mean: 6.785714285714286
+Bot word mean: 11.5
+Word std: 757.4285714285712
+User word std: 160.3571428571429
+Bot word std: 441.5
+
+Dialog 8
+Word mean: 9.615384615384615
+User word mean: 7.230769230769231
+Bot word mean: 12.0
+Word std: 740.153846153846
+User word std: 182.3076923076923
+Bot word std: 410.0
+
+Dialog 9
+Word mean: 9.09375
+User word mean: 6.625
+Bot word mean: 11.5625
+Word std: 816.71875
+User word std: 87.75
+Bot word std: 533.9375
+
+Dialog 10
+Word mean: 8.727272727272727
+User word mean: 7.0
+Bot word mean: 10.454545454545455
+Word std: 572.3636363636365
+User word std: 194.0
+Bot word std: 312.72727272727275
+
+Dialog 11
+Word mean: 9.045454545454545
+User word mean: 6.818181818181818
+Bot word mean: 11.272727272727273
+Word std: 648.9545454545455
+User word std: 185.63636363636365
+Bot word std: 354.1818181818182
+
+Dialog 12
+Word mean: 8.35
+User word mean: 6.5
+Bot word mean: 10.2
+Word std: 580.5500000000001
+User word std: 206.5
+Bot word std: 305.6
+
+Dialog 13
+Word mean: 9.607142857142858
+User word mean: 7.642857142857143
+Bot word mean: 11.571428571428571
+Word std: 778.6785714285713
+User word std: 227.21428571428575
+Bot word std: 443.42857142857144
+
+Dialog 14
+Word mean: 9.25
+User word mean: 7.0
+Bot word mean: 11.5
+Word std: 741.25
+User word std: 158.0
+Bot word std: 441.5
+
+Dialog 15
+Word mean: 9.294117647058824
+User word mean: 7.176470588235294
+Bot word mean: 11.411764705882353
+Word std: 821.0588235294117
+User word std: 128.47058823529412
+Bot word std: 540.1176470588235
+
+Dialog 16
+Word mean: 9.25
+User word mean: 6.857142857142857
+Bot word mean: 11.642857142857142
+Word std: 705.25
+User word std: 121.71428571428572
+Bot word std: 423.2142857142858
+
+Dialog 17
+Word mean: 9.0
+User word mean: 6.75
+Bot word mean: 11.25
+Word std: 568.0
+User word std: 86.25
+Bot word std: 360.25
+
+Dialog 18
+Word mean: 8.23076923076923
+User word mean: 6.230769230769231
+Bot word mean: 10.23076923076923
+Word std: 520.6153846153846
+User word std: 106.3076923076923
+Bot word std: 310.3076923076924
+
+Dialog 19
+Word mean: 8.681818181818182
+User word mean: 7.0
+Bot word mean: 10.363636363636363
+Word std: 580.7727272727275
+User word std: 228.0
+Bot word std: 290.54545454545456
+
+Dialog 20
+Word mean: 9.333333333333334
+User word mean: 7.266666666666667
+Bot word mean: 11.4
+Word std: 736.6666666666669
+User word std: 164.93333333333334
+Bot word std: 443.6
+
+Dialog 21
+Word mean: 8.733333333333333
+User word mean: 7.0
+Bot word mean: 10.466666666666667
+Word std: 595.8666666666666
+User word std: 116.0
+Bot word std: 389.73333333333335
+
+Dialog 22
+Word mean: 8.964285714285714
+User word mean: 6.642857142857143
+Bot word mean: 11.285714285714286
+Word std: 766.9642857142859
+User word std: 151.21428571428575
+Bot word std: 464.8571428571429
+
+Dialog 23
+Word mean: 9.692307692307692
+User word mean: 7.461538461538462
+Bot word mean: 11.923076923076923
+Word std: 713.5384615384614
+User word std: 175.23076923076923
+Bot word std: 408.9230769230769
+
+Dialog 24
+Word mean: 8.9
+User word mean: 6.533333333333333
+Bot word mean: 11.266666666666667
+Word std: 710.6999999999999
+User word std: 89.73333333333335
+Bot word std: 452.93333333333334
+
+Dialog 25
+Word mean: 9.6
+User word mean: 7.4
+Bot word mean: 11.8
+Word std: 867.2
+User word std: 219.60000000000005
+Bot word std: 502.3999999999999
+
+Dialog 26
+Word mean: 8.55
+User word mean: 6.6
+Bot word mean: 10.5
+Word std: 544.95
+User word std: 180.39999999999998
+Bot word std: 288.5
+
+Dialog 27
+Word mean: 8.909090909090908
+User word mean: 6.545454545454546
+Bot word mean: 11.272727272727273
+Word std: 657.8181818181818
+User word std: 162.7272727272727
+Bot word std: 372.1818181818182
+
+Dialog 28
+Word mean: 8.291666666666666
+User word mean: 6.666666666666667
+Bot word mean: 9.916666666666666
+Word std: 502.9583333333333
+User word std: 128.66666666666666
+Bot word std: 310.91666666666674
+
+Dialog 29
+Word mean: 9.0
+User word mean: 7.3076923076923075
+Bot word mean: 10.692307692307692
+Word std: 670.0
+User word std: 212.76923076923083
+Bot word std: 382.7692307692307
+
+Dialog 30
+Word mean: 8.85
+User word mean: 7.1
+Bot word mean: 10.6
+Word std: 562.5500000000001
+User word std: 190.89999999999995
+Bot word std: 310.40000000000003
+
+Dialog 31
+Word mean: 9.625
+User word mean: 7.166666666666667
+Bot word mean: 12.083333333333334
+Word std: 655.625
+User word std: 109.66666666666666
+Bot word std: 400.91666666666663
+
+Dialog 32
+Word mean: 8.6
+User word mean: 6.6
+Bot word mean: 10.6
+Word std: 524.8
+User word std: 158.4
+Bot word std: 286.4
+
+Dialog 33
+Word mean: 8.041666666666666
+User word mean: 6.0
+Bot word mean: 10.083333333333334
+Word std: 516.9583333333333
+User word std: 92.0
+Bot word std: 324.91666666666663
+
+Dialog 34
+Word mean: 8.375
+User word mean: 6.583333333333333
+Bot word mean: 10.166666666666666
+Word std: 485.625
+User word std: 94.91666666666666
+Bot word std: 313.66666666666663
+
+Dialog 35
+Word mean: 9.464285714285714
+User word mean: 7.428571428571429
+Bot word mean: 11.5
+Word std: 758.9642857142859
+User word std: 201.42857142857136
+Bot word std: 441.5
+
+Dialog 36
+Word mean: 8.714285714285714
+User word mean: 6.428571428571429
+Bot word mean: 11.0
+Word std: 585.7142857142857
+User word std: 73.42857142857143
+Bot word std: 366.0
+
+Dialog 37
+Word mean: 8.045454545454545
+User word mean: 5.818181818181818
+Bot word mean: 10.272727272727273
+Word std: 494.9545454545454
+User word std: 73.63636363636364
+Bot word std: 312.18181818181813
+
+Dialog 38
+Word mean: 9.653846153846153
+User word mean: 7.3076923076923075
+Bot word mean: 12.0
+Word std: 731.8846153846155
+User word std: 178.7692307692308
+Bot word std: 410.0
+
+Dialog 39
+Word mean: 8.833333333333334
+User word mean: 7.333333333333333
+Bot word mean: 10.333333333333334
+Word std: 577.3333333333333
+User word std: 208.6666666666667
+Bot word std: 314.6666666666667
+
+Dialog 40
+Word mean: 8.821428571428571
+User word mean: 7.0
+Bot word mean: 10.642857142857142
+Word std: 648.1071428571429
+User word std: 172.0
+Bot word std: 383.2142857142857
+
+Dialog 41
+Word mean: 8.681818181818182
+User word mean: 7.0
+Bot word mean: 10.363636363636363
+Word std: 502.7727272727272
+User word std: 124.0
+Bot word std: 316.54545454545456
+
+Dialog 42
+Word mean: 9.384615384615385
+User word mean: 7.076923076923077
+Bot word mean: 11.692307692307692
+Word std: 742.1538461538464
+User word std: 168.9230769230769
+Bot word std: 434.7692307692307
+
+Dialog 43
+Word mean: 9.535714285714286
+User word mean: 7.071428571428571
+Bot word mean: 12.0
+Word std: 860.9642857142857
+User word std: 196.9285714285714
+Bot word std: 494.0
+
+Dialog 44
+Word mean: 9.384615384615385
+User word mean: 6.846153846153846
+Bot word mean: 11.923076923076923
+Word std: 706.1538461538462
+User word std: 121.6923076923077
+Bot word std: 416.9230769230769
+
+Dialog 45
+Word mean: 8.375
+User word mean: 6.416666666666667
+Bot word mean: 10.333333333333334
+Word std: 505.625
+User word std: 104.91666666666667
+Bot word std: 308.6666666666667
+
+Dialog 46
+Word mean: 9.772727272727273
+User word mean: 7.0
+Bot word mean: 12.545454545454545
+Word std: 751.8636363636365
+User word std: 194.0
+Bot word std: 388.72727272727275
+
+Dialog 47
+Word mean: 8.833333333333334
+User word mean: 6.777777777777778
+Bot word mean: 10.88888888888889
+Word std: 498.49999999999994
+User word std: 139.55555555555554
+Bot word std: 282.88888888888886
+
+Dialog 48
+Word mean: 8.733333333333333
+User word mean: 6.266666666666667
+Bot word mean: 11.2
+Word std: 769.8666666666666
+User word std: 120.93333333333334
+Bot word std: 466.4
+
+Dialog 49
+Word mean: 8.583333333333334
+User word mean: 6.916666666666667
+Bot word mean: 10.25
+Word std: 517.8333333333334
+User word std: 132.91666666666669
+Bot word std: 318.25
+
+Dialog 50
+Word mean: 9.964285714285714
+User word mean: 7.571428571428571
+Bot word mean: 12.357142857142858
+Word std: 784.9642857142857
+User word std: 167.42857142857144
+Bot word std: 457.21428571428567
+
+Dialog 51
+Word mean: 9.346153846153847
+User word mean: 6.923076923076923
+Bot word mean: 11.76923076923077
+Word std: 717.8846153846154
+User word std: 152.9230769230769
+Bot word std: 412.30769230769226
+
+Dialog 52
+Word mean: 8.583333333333334
+User word mean: 6.583333333333333
+Bot word mean: 10.583333333333334
+Word std: 517.8333333333333
+User word std: 130.91666666666666
+Bot word std: 290.9166666666667
+
+Dialog 53
+Word mean: 9.0
+User word mean: 7.0625
+Bot word mean: 10.9375
+Word std: 722.0
+User word std: 122.9375
+Bot word std: 478.9375
+
+Dialog 54
+Word mean: 8.545454545454545
+User word mean: 6.818181818181818
+Bot word mean: 10.272727272727273
+Word std: 491.4545454545454
+User word std: 119.63636363636367
+Bot word std: 306.18181818181813
+
+Dialog 55
+Word mean: 9.708333333333334
+User word mean: 7.416666666666667
+Bot word mean: 12.0
+Word std: 742.9583333333334
+User word std: 188.91666666666669
+Bot word std: 428.0
+
+Dialog 56
+Word mean: 8.590909090909092
+User word mean: 6.545454545454546
+Bot word mean: 10.636363636363637
+Word std: 497.31818181818187
+User word std: 106.72727272727273
+Bot word std: 298.5454545454545
+
+Dialog 57
+Word mean: 9.458333333333334
+User word mean: 7.0
+Bot word mean: 11.916666666666666
+Word std: 741.9583333333337
+User word std: 170.0
+Bot word std: 426.9166666666667
+
+Dialog 58
+Word mean: 9.318181818181818
+User word mean: 7.454545454545454
+Bot word mean: 11.181818181818182
+Word std: 606.7727272727271
+User word std: 158.72727272727272
+Bot word std: 371.6363636363637
+
+Dialog 59
+Word mean: 8.785714285714286
+User word mean: 6.357142857142857
+Bot word mean: 11.214285714285714
+Word std: 704.7142857142856
+User word std: 69.2142857142857
+Bot word std: 470.3571428571429
+
+Dialog 60
+Word mean: 8.625
+User word mean: 7.25
+Bot word mean: 10.0
+Word std: 541.625
+User word std: 188.25
+Bot word std: 308.0
+
+Dialog 61
+Word mean: 8.55
+User word mean: 6.7
+Bot word mean: 10.4
+Word std: 524.95
+User word std: 152.10000000000002
+Bot word std: 304.4
+
+Dialog 62
+Word mean: 9.392857142857142
+User word mean: 7.142857142857143
+Bot word mean: 11.642857142857142
+Word std: 702.6785714285714
+User word std: 137.71428571428572
+Bot word std: 423.2142857142858
+
+Dialog 63
+Word mean: 8.291666666666666
+User word mean: 6.583333333333333
+Bot word mean: 10.0
+Word std: 538.9583333333335
+User word std: 142.9166666666667
+Bot word std: 326.0
+
+Dialog 64
+Word mean: 9.416666666666666
+User word mean: 6.75
+Bot word mean: 12.083333333333334
+Word std: 711.8333333333335
+User word std: 140.25
+Bot word std: 400.91666666666663
+
+Dialog 65
+Word mean: 9.033333333333333
+User word mean: 6.733333333333333
+Bot word mean: 11.333333333333334
+Word std: 698.9666666666666
+User word std: 90.93333333333332
+Bot word std: 449.33333333333337
+
+Dialog 66
+Word mean: 9.178571428571429
+User word mean: 6.642857142857143
+Bot word mean: 11.714285714285714
+Word std: 684.107142857143
+User word std: 85.21428571428571
+Bot word std: 418.8571428571429
+
+Dialog 67
+Word mean: 9.25
+User word mean: 7.166666666666667
+Bot word mean: 11.333333333333334
+Word std: 638.5
+User word std: 179.66666666666666
+Bot word std: 354.66666666666663
+
+Dialog 68
+Word mean: 8.333333333333334
+User word mean: 6.5
+Bot word mean: 10.166666666666666
+Word std: 497.3333333333333
+User word std: 103.0
+Bot word std: 313.66666666666663
+
+Dialog 69
+Word mean: 8.458333333333334
+User word mean: 5.833333333333333
+Bot word mean: 11.083333333333334
+Word std: 579.9583333333333
+User word std: 53.66666666666667
+Bot word std: 360.9166666666667
+
+Dialog 70
+Word mean: 8.5
+User word mean: 6.230769230769231
+Bot word mean: 10.76923076923077
+Word std: 660.5
+User word std: 128.3076923076923
+Bot word std: 398.3076923076923
+
+Dialog 71
+Word mean: 8.964285714285714
+User word mean: 6.5
+Bot word mean: 11.428571428571429
+Word std: 708.9642857142858
+User word std: 91.5
+Bot word std: 447.4285714285714
+
+Dialog 72
+Word mean: 8.833333333333334
+User word mean: 6.333333333333333
+Bot word mean: 11.333333333333334
+Word std: 714.1666666666666
+User word std: 77.33333333333333
+Bot word std: 449.33333333333337
+
+Dialog 73
+Word mean: 8.5
+User word mean: 6.2
+Bot word mean: 10.8
+Word std: 489.0
+User word std: 87.60000000000001
+Bot word std: 295.6
+
+Dialog 74
+Word mean: 9.178571428571429
+User word mean: 6.785714285714286
+Bot word mean: 11.571428571428571
+Word std: 726.1071428571432
+User word std: 146.3571428571429
+Bot word std: 419.42857142857144
+
+Dialog 75
+Word mean: 8.681818181818182
+User word mean: 7.2727272727272725
+Bot word mean: 10.090909090909092
+Word std: 584.7727272727274
+User word std: 234.18181818181813
+Bot word std: 306.9090909090909
+
+Dialog 76
+Word mean: 9.272727272727273
+User word mean: 7.363636363636363
+Bot word mean: 11.181818181818182
+Word std: 594.3636363636363
+User word std: 142.54545454545453
+Bot word std: 371.6363636363637
+
+Dialog 77
+Word mean: 8.785714285714286
+User word mean: 6.142857142857143
+Bot word mean: 11.428571428571429
+Word std: 716.7142857142854
+User word std: 73.71428571428571
+Bot word std: 447.4285714285714
+
+Dialog 78
+Word mean: 9.428571428571429
+User word mean: 7.142857142857143
+Bot word mean: 11.714285714285714
+Word std: 690.8571428571429
+User word std: 119.7142857142857
+Bot word std: 424.8571428571429
+
+Dialog 79
+Word mean: 9.115384615384615
+User word mean: 6.6923076923076925
+Bot word mean: 11.538461538461538
+Word std: 736.6538461538463
+User word std: 146.76923076923077
+Bot word std: 437.2307692307692
+
+Dialog 80
+Word mean: 8.461538461538462
+User word mean: 6.153846153846154
+Bot word mean: 10.76923076923077
+Word std: 632.4615384615386
+User word std: 95.6923076923077
+Bot word std: 398.3076923076923
+
+Dialog 81
+Word mean: 8.65
+User word mean: 6.7
+Bot word mean: 10.6
+Word std: 540.55
+User word std: 154.09999999999997
+Bot word std: 310.40000000000003
+
+Dialog 82
+Word mean: 8.846153846153847
+User word mean: 6.076923076923077
+Bot word mean: 11.615384615384615
+Word std: 725.3846153846154
+User word std: 84.9230769230769
+Bot word std: 441.07692307692304
+
+Dialog 83
+Word mean: 9.25
+User word mean: 6.928571428571429
+Bot word mean: 11.571428571428571
+Word std: 719.25
+User word std: 148.92857142857144
+Bot word std: 419.42857142857144
+
+Dialog 84
+Word mean: 8.583333333333334
+User word mean: 6.916666666666667
+Bot word mean: 10.25
+Word std: 527.8333333333333
+User word std: 150.91666666666666
+Bot word std: 310.25
+
+Dialog 85
+Word mean: 9.038461538461538
+User word mean: 6.461538461538462
+Bot word mean: 11.615384615384615
+Word std: 714.9615384615387
+User word std: 101.23076923076924
+Bot word std: 441.07692307692304
+
+Dialog 86
+Word mean: 8.785714285714286
+User word mean: 6.142857142857143
+Bot word mean: 11.428571428571429
+Word std: 718.7142857142856
+User word std: 75.71428571428571
+Bot word std: 447.4285714285714
+
+Dialog 87
+Word mean: 9.045454545454545
+User word mean: 6.818181818181818
+Bot word mean: 11.272727272727273
+Word std: 640.9545454545454
+User word std: 159.63636363636365
+Bot word std: 372.1818181818182
+
+Dialog 88
+Word mean: 9.25
+User word mean: 6.6875
+Bot word mean: 11.8125
+Word std: 810.0
+User word std: 89.4375
+Bot word std: 510.4375
+
+Dialog 89
+Word mean: 9.73076923076923
+User word mean: 7.538461538461538
+Bot word mean: 11.923076923076923
+Word std: 721.1153846153846
+User word std: 187.23076923076923
+Bot word std: 408.9230769230769
+
+Dialog 90
+Word mean: 9.25
+User word mean: 6.285714285714286
+Bot word mean: 12.214285714285714
+Word std: 815.25
+User word std: 100.85714285714286
+Bot word std: 468.3571428571429
+
+Dialog 91
+Word mean: 9.3
+User word mean: 6.866666666666666
+Bot word mean: 11.733333333333333
+Word std: 810.3000000000002
+User word std: 123.73333333333333
+Bot word std: 508.93333333333334
+
+Dialog 92
+Word mean: 8.71875
+User word mean: 6.5
+Bot word mean: 10.9375
+Word std: 726.46875
+User word std: 90.0
+Bot word std: 478.9375
+
+Dialog 93
+Word mean: 8.6
+User word mean: 6.8
+Bot word mean: 10.4
+Word std: 500.79999999999984
+User word std: 131.6
+Bot word std: 304.4
+
+Dialog 94
+Word mean: 8.178571428571429
+User word mean: 6.5
+Bot word mean: 9.857142857142858
+Word std: 514.107142857143
+User word std: 123.5
+Bot word std: 311.7142857142858
+
+Dialog 95
+Word mean: 8.2
+User word mean: 6.0
+Bot word mean: 10.4
+Word std: 473.20000000000005
+User word std: 84.0
+Bot word std: 292.4
+
+Dialog 96
+Word mean: 9.0
+User word mean: 6.923076923076923
+Bot word mean: 11.076923076923077
+Word std: 596.0
+User word std: 118.92307692307692
+Bot word std: 364.92307692307696
+
+Dialog 97
+Word mean: 8.384615384615385
+User word mean: 6.615384615384615
+Bot word mean: 10.153846153846153
+Word std: 506.1538461538462
+User word std: 111.07692307692307
+Bot word std: 313.69230769230774
+
+Dialog 98
+Word mean: 8.73076923076923
+User word mean: 6.6923076923076925
+Bot word mean: 10.76923076923077
+Word std: 645.1153846153846
+User word std: 156.7692307692308
+Bot word std: 380.3076923076923
+
+Dialog 99
+Word mean: 9.375
+User word mean: 6.666666666666667
+Bot word mean: 12.083333333333334
+Word std: 669.625
+User word std: 86.66666666666667
+Bot word std: 406.91666666666663
+
+Dialog 100
+Word mean: 9.071428571428571
+User word mean: 6.857142857142857
+Bot word mean: 11.285714285714286
+Word std: 757.8571428571429
+User word std: 155.71428571428572
+Bot word std: 464.8571428571429
+
+Dialog 101
+Word mean: 9.285714285714286
+User word mean: 7.071428571428571
+Bot word mean: 11.5
+Word std: 761.7142857142858
+User word std: 182.92857142857144
+Bot word std: 441.5
+
+Dialog 102
+Word mean: 8.75
+User word mean: 7.333333333333333
+Bot word mean: 10.166666666666666
+Word std: 510.5
+User word std: 154.66666666666669
+Bot word std: 307.66666666666663
+
+Dialog 103
+Word mean: 9.714285714285714
+User word mean: 7.214285714285714
+Bot word mean: 12.214285714285714
+Word std: 843.7142857142857
+User word std: 202.35714285714283
+Bot word std: 466.3571428571429
+
+Dialog 104
+Word mean: 8.115384615384615
+User word mean: 6.076923076923077
+Bot word mean: 10.153846153846153
+Word std: 488.653846153846
+User word std: 66.92307692307692
+Bot word std: 313.69230769230774
+
+Dialog 105
+Word mean: 9.5
+User word mean: 7.153846153846154
+Bot word mean: 11.846153846153847
+Word std: 698.5
+User word std: 145.6923076923077
+Bot word std: 409.6923076923076
+
+Dialog 106
+Word mean: 8.857142857142858
+User word mean: 6.285714285714286
+Bot word mean: 11.428571428571429
+Word std: 721.4285714285716
+User word std: 88.85714285714285
+Bot word std: 447.4285714285714
+
+Dialog 107
+Word mean: 8.25
+User word mean: 6.583333333333333
+Bot word mean: 9.916666666666666
+Word std: 490.5
+User word std: 94.91666666666667
+Bot word std: 328.9166666666667
+
+Dialog 108
+Word mean: 9.423076923076923
+User word mean: 7.0
+Bot word mean: 11.846153846153847
+Word std: 700.3461538461537
+User word std: 132.0
+Bot word std: 415.6923076923076
+
+Dialog 109
+Word mean: 9.5
+User word mean: 7.076923076923077
+Bot word mean: 11.923076923076923
+Word std: 686.5
+User word std: 116.92307692307693
+Bot word std: 416.9230769230769
+
+Dialog 110
+Word mean: 9.409090909090908
+User word mean: 6.636363636363637
+Bot word mean: 12.181818181818182
+Word std: 755.318181818182
+User word std: 186.5454545454545
+Bot word std: 399.6363636363636
+
+Dialog 111
+Word mean: 8.6
+User word mean: 6.4
+Bot word mean: 10.8
+Word std: 502.79999999999995
+User word std: 110.40000000000002
+Bot word std: 295.6
+
+Dialog 112
+Word mean: 8.961538461538462
+User word mean: 6.538461538461538
+Bot word mean: 11.384615384615385
+Word std: 712.9615384615382
+User word std: 113.23076923076921
+Bot word std: 447.07692307692304
+
+Dialog 113
+Word mean: 9.464285714285714
+User word mean: 6.857142857142857
+Bot word mean: 12.071428571428571
+Word std: 836.9642857142858
+User word std: 157.71428571428572
+Bot word std: 488.92857142857133
+
+Dialog 114
+Word mean: 9.821428571428571
+User word mean: 7.428571428571429
+Bot word mean: 12.214285714285714
+Word std: 816.107142857143
+User word std: 171.4285714285714
+Bot word std: 484.35714285714283
+
+Dialog 115
+Word mean: 9.178571428571429
+User word mean: 6.642857142857143
+Bot word mean: 11.714285714285714
+Word std: 696.107142857143
+User word std: 97.21428571428571
+Bot word std: 418.8571428571429
+
+Dialog 116
+Word mean: 9.3
+User word mean: 7.2
+Bot word mean: 11.4
+Word std: 718.3000000000001
+User word std: 142.4
+Bot word std: 443.6
+
+Dialog 117
+Word mean: 9.142857142857142
+User word mean: 6.785714285714286
+Bot word mean: 11.5
+Word std: 685.4285714285713
+User word std: 104.35714285714285
+Bot word std: 425.5
+
+Dialog 118
+Word mean: 8.933333333333334
+User word mean: 6.533333333333333
+Bot word mean: 11.333333333333334
+Word std: 709.8666666666663
+User word std: 87.73333333333332
+Bot word std: 449.33333333333337
+
+Dialog 119
+Word mean: 8.8
+User word mean: 7.1
+Bot word mean: 10.5
+Word std: 539.2
+User word std: 174.9
+Bot word std: 306.5
+
+Dialog 120
+Word mean: 8.866666666666667
+User word mean: 6.666666666666667
+Bot word mean: 11.066666666666666
+Word std: 721.4666666666667
+User word std: 101.33333333333333
+Bot word std: 474.93333333333334
+
+Dialog 121
+Word mean: 8.857142857142858
+User word mean: 6.928571428571429
+Bot word mean: 10.785714285714286
+Word std: 591.4285714285716
+User word std: 100.92857142857143
+Bot word std: 386.35714285714283
+
+Dialog 122
+Word mean: 8.653846153846153
+User word mean: 6.615384615384615
+Bot word mean: 10.692307692307692
+Word std: 603.8846153846154
+User word std: 111.07692307692307
+Bot word std: 384.7692307692307
+
+Dialog 123
+Word mean: 8.9375
+User word mean: 6.875
+Bot word mean: 11.0
+Word std: 697.875
+User word std: 103.75
+Bot word std: 458.0
+
+Dialog 124
+Word mean: 9.090909090909092
+User word mean: 6.818181818181818
+Bot word mean: 11.363636363636363
+Word std: 677.8181818181818
+User word std: 189.63636363636363
+Bot word std: 374.54545454545456
+
+Dialog 125
+Word mean: 8.833333333333334
+User word mean: 6.466666666666667
+Bot word mean: 11.2
+Word std: 736.1666666666666
+User word std: 101.73333333333332
+Bot word std: 466.4
+
+Dialog 126
+Word mean: 8.25
+User word mean: 6.5
+Bot word mean: 10.0
+Word std: 550.5
+User word std: 151.0
+Bot word std: 326.0
+
+Dialog 127
+Word mean: 9.26923076923077
+User word mean: 6.769230769230769
+Bot word mean: 11.76923076923077
+Word std: 733.115384615385
+User word std: 158.30769230769226
+Bot word std: 412.30769230769226
+
+Dialog 128
+Word mean: 8.571428571428571
+User word mean: 6.571428571428571
+Bot word mean: 10.571428571428571
+Word std: 610.8571428571429
+User word std: 111.42857142857142
+Bot word std: 387.42857142857144
+
+Dialog 129
+Word mean: 8.71875
+User word mean: 6.4375
+Bot word mean: 11.0
+Word std: 718.46875
+User word std: 93.9375
+Bot word std: 458.0
+
+Dialog 130
+Word mean: 9.964285714285714
+User word mean: 7.428571428571429
+Bot word mean: 12.5
+Word std: 848.9642857142858
+User word std: 213.42857142857142
+Bot word std: 455.5
+
+Dialog 131
+Word mean: 8.71875
+User word mean: 6.5
+Bot word mean: 10.9375
+Word std: 734.46875
+User word std: 98.0
+Bot word std: 478.9375
+
+Dialog 132
+Word mean: 9.357142857142858
+User word mean: 6.571428571428571
+Bot word mean: 12.142857142857142
+Word std: 812.4285714285713
+User word std: 103.42857142857144
+Bot word std: 491.7142857142857
+
+Dialog 133
+Word mean: 8.863636363636363
+User word mean: 7.0
+Bot word mean: 10.727272727272727
+Word std: 568.5909090909091
+User word std: 198.0
+Bot word std: 294.1818181818182
+
+Dialog 134
+Word mean: 8.642857142857142
+User word mean: 6.714285714285714
+Bot word mean: 10.571428571428571
+Word std: 676.4285714285713
+User word std: 168.85714285714286
+Bot word std: 403.42857142857144
+
+Dialog 135
+Word mean: 9.115384615384615
+User word mean: 6.615384615384615
+Bot word mean: 11.615384615384615
+Word std: 698.6538461538464
+User word std: 113.0769230769231
+Bot word std: 423.0769230769231
+
+Dialog 136
+Word mean: 9.384615384615385
+User word mean: 7.0
+Bot word mean: 11.76923076923077
+Word std: 760.1538461538463
+User word std: 176.0
+Bot word std: 436.30769230769226
+
+Dialog 137
+Word mean: 8.26923076923077
+User word mean: 6.615384615384615
+Bot word mean: 9.923076923076923
+Word std: 469.1153846153845
+User word std: 87.07692307692307
+Bot word std: 310.9230769230769
+
+Dialog 138
+Word mean: 8.423076923076923
+User word mean: 6.846153846153846
+Bot word mean: 10.0
+Word std: 530.3461538461538
+User word std: 157.69230769230768
+Bot word std: 308.0
+
+Dialog 139
+Word mean: 8.923076923076923
+User word mean: 7.153846153846154
+Bot word mean: 10.692307692307692
+Word std: 673.8461538461538
+User word std: 209.6923076923077
+Bot word std: 382.7692307692307
+
+Dialog 140
+Word mean: 9.535714285714286
+User word mean: 7.571428571428571
+Bot word mean: 11.5
+Word std: 766.9642857142856
+User word std: 217.42857142857136
+Bot word std: 441.5
+
+Dialog 141
+Word mean: 9.076923076923077
+User word mean: 7.230769230769231
+Bot word mean: 10.923076923076923
+Word std: 653.8461538461538
+User word std: 184.30769230769226
+Bot word std: 380.9230769230769
+
+Dialog 142
+Word mean: 8.636363636363637
+User word mean: 6.909090909090909
+Bot word mean: 10.363636363636363
+Word std: 547.0909090909092
+User word std: 172.9090909090909
+Bot word std: 308.54545454545456
+
+Dialog 143
+Word mean: 9.136363636363637
+User word mean: 7.0
+Bot word mean: 11.272727272727273
+Word std: 630.5909090909092
+User word std: 176.0
+Bot word std: 354.1818181818182
+
+Dialog 144
+Word mean: 8.75
+User word mean: 6.583333333333333
+Bot word mean: 10.916666666666666
+Word std: 660.5
+User word std: 170.9166666666667
+Bot word std: 376.91666666666663
+
+Dialog 145
+Word mean: 9.5
+User word mean: 7.3076923076923075
+Bot word mean: 11.692307692307692
+Word std: 746.5
+User word std: 186.7692307692308
+Bot word std: 434.7692307692307
+
+Dialog 146
+Word mean: 8.55
+User word mean: 6.3
+Bot word mean: 10.8
+Word std: 506.95000000000005
+User word std: 110.1
+Bot word std: 295.6
+
+Dialog 147
+Word mean: 9.346153846153847
+User word mean: 7.0
+Bot word mean: 11.692307692307692
+Word std: 703.8846153846154
+User word std: 118.0
+Bot word std: 442.7692307692307
+
+Dialog 148
+Word mean: 9.083333333333334
+User word mean: 7.083333333333333
+Bot word mean: 11.083333333333334
+Word std: 635.8333333333335
+User word std: 162.91666666666669
+Bot word std: 376.91666666666663
+
+Dialog 149
+Word mean: 9.115384615384615
+User word mean: 7.3076923076923075
+Bot word mean: 10.923076923076923
+Word std: 608.6538461538462
+User word std: 134.76923076923077
+Bot word std: 388.9230769230769
+
+Dialog 150
+Word mean: 9.153846153846153
+User word mean: 6.6923076923076925
+Bot word mean: 11.615384615384615
+Word std: 727.3846153846154
+User word std: 146.7692307692308
+Bot word std: 423.0769230769231
+
+Dialog 151
+Word mean: 8.55
+User word mean: 6.7
+Bot word mean: 10.4
+Word std: 494.95
+User word std: 134.1
+Bot word std: 292.4
+
+Dialog 152
+Word mean: 9.166666666666666
+User word mean: 6.916666666666667
+Bot word mean: 11.416666666666666
+Word std: 683.3333333333335
+User word std: 204.9166666666667
+Bot word std: 356.9166666666667
+
+Dialog 153
+Word mean: 8.964285714285714
+User word mean: 6.428571428571429
+Bot word mean: 11.5
+Word std: 692.9642857142857
+User word std: 87.42857142857143
+Bot word std: 425.5
+
+Dialog 154
+Word mean: 8.458333333333334
+User word mean: 6.75
+Bot word mean: 10.166666666666666
+Word std: 473.95833333333337
+User word std: 90.25
+Bot word std: 313.66666666666663
+
+Dialog 155
+Word mean: 8.375
+User word mean: 6.25
+Bot word mean: 10.5
+Word std: 475.625
+User word std: 72.25
+Bot word std: 295.0
+
+Dialog 156
+Word mean: 8.964285714285714
+User word mean: 6.214285714285714
+Bot word mean: 11.714285714285714
+Word std: 694.9642857142857
+User word std: 64.35714285714286
+Bot word std: 418.8571428571429
+
+Dialog 157
+Word mean: 9.321428571428571
+User word mean: 7.357142857142857
+Bot word mean: 11.285714285714286
+Word std: 778.1071428571429
+User word std: 223.2142857142857
+Bot word std: 446.8571428571429
+
+Dialog 158
+Word mean: 9.5
+User word mean: 7.153846153846154
+Bot word mean: 11.846153846153847
+Word std: 694.5
+User word std: 141.6923076923077
+Bot word std: 409.6923076923076
+
+Dialog 159
+Word mean: 9.5
+User word mean: 7.083333333333333
+Bot word mean: 11.916666666666666
+Word std: 736.0
+User word std: 168.91666666666674
+Bot word std: 426.9166666666667
+
+Dialog 160
+Word mean: 8.958333333333334
+User word mean: 7.75
+Bot word mean: 10.166666666666666
+Word std: 486.9583333333333
+User word std: 144.25
+Bot word std: 307.66666666666663
+
+Dialog 161
+Word mean: 9.125
+User word mean: 6.25
+Bot word mean: 12.0
+Word std: 744.625
+User word std: 142.25
+Bot word std: 404.0
+
+Dialog 162
+Word mean: 9.166666666666666
+User word mean: 7.5
+Bot word mean: 10.833333333333334
+Word std: 665.3333333333335
+User word std: 219.0
+Bot word std: 379.6666666666667
+
+Dialog 163
+Word mean: 8.923076923076923
+User word mean: 6.230769230769231
+Bot word mean: 11.615384615384615
+Word std: 701.8461538461539
+User word std: 72.30769230769228
+Bot word std: 441.07692307692304
+
+Dialog 164
+Word mean: 8.666666666666666
+User word mean: 6.75
+Bot word mean: 10.583333333333334
+Word std: 515.3333333333335
+User word std: 136.25
+Bot word std: 290.9166666666667
+
+Dialog 165
+Word mean: 9.666666666666666
+User word mean: 6.733333333333333
+Bot word mean: 12.6
+Word std: 902.6666666666665
+User word std: 108.93333333333332
+Bot word std: 535.6
+
+Dialog 166
+Word mean: 8.666666666666666
+User word mean: 6.916666666666667
+Bot word mean: 10.416666666666666
+Word std: 511.33333333333337
+User word std: 140.91666666666666
+Bot word std: 296.91666666666663
+
+Dialog 167
+Word mean: 8.583333333333334
+User word mean: 6.916666666666667
+Bot word mean: 10.25
+Word std: 541.8333333333334
+User word std: 164.91666666666666
+Bot word std: 310.25
+
+Dialog 168
+Word mean: 10.1875
+User word mean: 7.3125
+Bot word mean: 13.0625
+Word std: 1030.875
+User word std: 201.4375
+Bot word std: 564.9375
+
+Dialog 169
+Word mean: 9.0
+User word mean: 6.076923076923077
+Bot word mean: 11.923076923076923
+Word std: 688.0
+User word std: 54.92307692307693
+Bot word std: 410.9230769230769
+
+Dialog 170
+Word mean: 8.423076923076923
+User word mean: 6.615384615384615
+Bot word mean: 10.23076923076923
+Word std: 508.34615384615387
+User word std: 113.07692307692308
+Bot word std: 310.3076923076924
+
+Dialog 171
+Word mean: 9.153846153846153
+User word mean: 6.384615384615385
+Bot word mean: 11.923076923076923
+Word std: 681.3846153846154
+User word std: 71.07692307692308
+Bot word std: 410.9230769230769
+
+Dialog 172
+Word mean: 9.392857142857142
+User word mean: 7.357142857142857
+Bot word mean: 11.428571428571429
+Word std: 722.6785714285716
+User word std: 165.2142857142857
+Bot word std: 441.42857142857144
+
+Dialog 173
+Word mean: 9.357142857142858
+User word mean: 7.0
+Bot word mean: 11.714285714285714
+Word std: 692.4285714285714
+User word std: 112.0
+Bot word std: 424.8571428571429
+
+Dialog 174
+Word mean: 8.5
+User word mean: 6.636363636363637
+Bot word mean: 10.363636363636363
+Word std: 533.5
+User word std: 148.5454545454545
+Bot word std: 308.54545454545456
+
+Dialog 175
+Word mean: 8.576923076923077
+User word mean: 6.3076923076923075
+Bot word mean: 10.846153846153847
+Word std: 616.3461538461539
+User word std: 96.76923076923079
+Bot word std: 385.6923076923077
+
+Dialog 176
+Word mean: 8.409090909090908
+User word mean: 6.454545454545454
+Bot word mean: 10.363636363636363
+Word std: 507.3181818181819
+User word std: 106.72727272727275
+Bot word std: 316.54545454545456
+
+Dialog 177
+Word mean: 9.133333333333333
+User word mean: 7.133333333333334
+Bot word mean: 11.133333333333333
+Word std: 781.4666666666667
+User word std: 191.73333333333338
+Bot word std: 469.73333333333335
+
+Dialog 178
+Word mean: 9.833333333333334
+User word mean: 7.733333333333333
+Bot word mean: 11.933333333333334
+Word std: 794.166666666667
+User word std: 166.9333333333333
+Bot word std: 494.93333333333334
+
+Dialog 179
+Word mean: 9.133333333333333
+User word mean: 6.733333333333333
+Bot word mean: 11.533333333333333
+Word std: 711.4666666666668
+User word std: 112.93333333333334
+Bot word std: 425.7333333333333
+
+Dialog 180
+Word mean: 8.666666666666666
+User word mean: 6.25
+Bot word mean: 11.083333333333334
+Word std: 581.3333333333335
+User word std: 80.25
+Bot word std: 360.9166666666667
+
+Dialog 181
+Word mean: 9.125
+User word mean: 7.166666666666667
+Bot word mean: 11.083333333333334
+Word std: 644.625
+User word std: 175.66666666666666
+Bot word std: 376.91666666666663
+
+Dialog 182
+Word mean: 9.25
+User word mean: 6.428571428571429
+Bot word mean: 12.071428571428571
+Word std: 841.25
+User word std: 129.4285714285714
+Bot word std: 488.92857142857133
+
+Dialog 183
+Word mean: 8.8
+User word mean: 6.4
+Bot word mean: 11.2
+Word std: 742.8000000000002
+User word std: 103.60000000000002
+Bot word std: 466.4
+
+Dialog 184
+Word mean: 8.428571428571429
+User word mean: 6.214285714285714
+Bot word mean: 10.642857142857142
+Word std: 632.8571428571428
+User word std: 94.35714285714286
+Bot word std: 401.2142857142857
+
+Dialog 185
+Word mean: 8.178571428571429
+User word mean: 6.571428571428571
+Bot word mean: 9.785714285714286
+Word std: 498.10714285714295
+User word std: 95.42857142857143
+Bot word std: 330.35714285714283
+
+Dialog 186
+Word mean: 9.4375
+User word mean: 6.375
+Bot word mean: 12.5
+Word std: 957.875
+User word std: 123.75
+Bot word std: 534.0
+
+Dialog 187
+Word mean: 8.583333333333334
+User word mean: 7.166666666666667
+Bot word mean: 10.0
+Word std: 543.8333333333334
+User word std: 187.66666666666669
+Bot word std: 308.0
+
+Dialog 188
+Word mean: 9.208333333333334
+User word mean: 6.75
+Bot word mean: 11.666666666666666
+Word std: 775.9583333333331
+User word std: 196.25
+Bot word std: 434.66666666666663
+
+Dialog 189
+Word mean: 8.961538461538462
+User word mean: 6.6923076923076925
+Bot word mean: 11.23076923076923
+Word std: 628.9615384615383
+User word std: 138.76923076923075
+Bot word std: 356.3076923076923
+
+Dialog 190
+Word mean: 9.714285714285714
+User word mean: 6.928571428571429
+Bot word mean: 12.5
+Word std: 801.7142857142857
+User word std: 134.92857142857144
+Bot word std: 449.5
+
+Dialog 191
+Word mean: 8.954545454545455
+User word mean: 7.2727272727272725
+Bot word mean: 10.636363636363637
+Word std: 522.9545454545456
+User word std: 170.18181818181813
+Bot word std: 290.5454545454545
+
+Dialog 192
+Word mean: 9.25
+User word mean: 7.0
+Bot word mean: 11.5
+Word std: 709.25
+User word std: 118.0
+Bot word std: 449.5
+
+Dialog 193
+Word mean: 9.133333333333333
+User word mean: 6.466666666666667
+Bot word mean: 11.8
+Word std: 821.4666666666667
+User word std: 103.73333333333333
+Bot word std: 504.3999999999999
+
+Dialog 194
+Word mean: 8.733333333333333
+User word mean: 6.4
+Bot word mean: 11.066666666666666
+Word std: 711.8666666666668
+User word std: 73.60000000000001
+Bot word std: 474.93333333333334
+
+Dialog 195
+Word mean: 9.166666666666666
+User word mean: 6.466666666666667
+Bot word mean: 11.866666666666667
+Word std: 862.166666666667
+User word std: 127.73333333333333
+Bot word std: 515.7333333333333
+
+Dialog 196
+Word mean: 8.846153846153847
+User word mean: 7.0
+Bot word mean: 10.692307692307692
+Word std: 703.3846153846154
+User word std: 232.0
+Bot word std: 382.7692307692307
+
+Dialog 197
+Word mean: 9.133333333333333
+User word mean: 7.0
+Bot word mean: 11.266666666666667
+Word std: 689.4666666666667
+User word std: 100.0
+Bot word std: 452.9333333333334
+
+Dialog 198
+Word mean: 9.653846153846153
+User word mean: 6.846153846153846
+Bot word mean: 12.461538461538462
+Word std: 865.8846153846154
+User word std: 205.69230769230768
+Bot word std: 455.2307692307692
+
+Dialog 199
+Word mean: 8.958333333333334
+User word mean: 6.916666666666667
+Bot word mean: 11.0
+Word std: 580.9583333333334
+User word std: 98.91666666666667
+Bot word std: 382.0
+
+Dialog 200
+Word mean: 8.708333333333334
+User word mean: 6.083333333333333
+Bot word mean: 11.333333333333334
+Word std: 588.9583333333334
+User word std: 66.91666666666667
+Bot word std: 356.66666666666663
+
+Dialog 201
+Word mean: 9.3
+User word mean: 6.866666666666666
+Bot word mean: 11.733333333333333
+Word std: 804.3000000000002
+User word std: 117.73333333333335
+Bot word std: 508.93333333333334
+
+Dialog 202
+Word mean: 9.285714285714286
+User word mean: 6.928571428571429
+Bot word mean: 11.642857142857142
+Word std: 687.7142857142858
+User word std: 108.92857142857143
+Bot word std: 423.2142857142858
+
+Dialog 203
+Word mean: 9.545454545454545
+User word mean: 6.636363636363637
+Bot word mean: 12.454545454545455
+Word std: 747.4545454545455
+User word std: 172.54545454545453
+Bot word std: 388.72727272727275
+
+Dialog 204
+Word mean: 9.107142857142858
+User word mean: 6.714285714285714
+Bot word mean: 11.5
+Word std: 710.6785714285713
+User word std: 124.85714285714286
+Bot word std: 425.5
+
+Dialog 205
+Word mean: 8.65
+User word mean: 6.4
+Bot word mean: 10.9
+Word std: 496.55
+User word std: 110.40000000000002
+Bot word std: 284.90000000000003
+
+Dialog 206
+Word mean: 8.884615384615385
+User word mean: 6.076923076923077
+Bot word mean: 11.692307692307692
+Word std: 690.6538461538462
+User word std: 66.92307692307693
+Bot word std: 418.7692307692307
+
+Dialog 207
+Word mean: 9.464285714285714
+User word mean: 6.928571428571429
+Bot word mean: 12.0
+Word std: 884.9642857142859
+User word std: 210.92857142857147
+Bot word std: 494.0
+
+Dialog 208
+Word mean: 8.807692307692308
+User word mean: 6.769230769230769
+Bot word mean: 10.846153846153847
+Word std: 610.0384615384613
+User word std: 116.3076923076923
+Bot word std: 385.6923076923077
+
+Dialog 209
+Word mean: 9.035714285714286
+User word mean: 6.571428571428571
+Bot word mean: 11.5
+Word std: 704.9642857142858
+User word std: 91.42857142857142
+Bot word std: 443.5
+
+Dialog 210
+Word mean: 8.291666666666666
+User word mean: 6.416666666666667
+Bot word mean: 10.166666666666666
+Word std: 494.95833333333337
+User word std: 96.91666666666666
+Bot word std: 313.66666666666663
+
+Dialog 211
+Word mean: 9.764705882352942
+User word mean: 7.470588235294118
+Bot word mean: 12.058823529411764
+Word std: 948.1176470588235
+User word std: 190.23529411764707
+Bot word std: 578.9411764705883
+
+Dialog 212
+Word mean: 8.9375
+User word mean: 6.6875
+Bot word mean: 11.1875
+Word std: 705.875
+User word std: 89.4375
+Bot word std: 454.4375
+
+Dialog 213
+Word mean: 7.961538461538462
+User word mean: 5.923076923076923
+Bot word mean: 10.0
+Word std: 532.9615384615385
+User word std: 98.9230769230769
+Bot word std: 326.0
+
+Dialog 214
+Word mean: 9.0
+User word mean: 6.5
+Bot word mean: 11.5
+Word std: 764.0
+User word std: 147.5
+Bot word std: 441.5
+
+Dialog 215
+Word mean: 9.166666666666666
+User word mean: 6.416666666666667
+Bot word mean: 11.916666666666666
+Word std: 753.3333333333336
+User word std: 144.91666666666663
+Bot word std: 426.9166666666667
+
+Dialog 216
+Word mean: 9.0
+User word mean: 6.466666666666667
+Bot word mean: 11.533333333333333
+Word std: 696.0
+User word std: 77.73333333333333
+Bot word std: 425.7333333333333
+
+Dialog 217
+Word mean: 9.5
+User word mean: 7.5
+Bot word mean: 11.5
+Word std: 741.0
+User word std: 187.5
+Bot word std: 441.5
+
+Dialog 218
+Word mean: 8.666666666666666
+User word mean: 7.166666666666667
+Bot word mean: 10.166666666666666
+Word std: 509.33333333333337
+User word std: 147.66666666666669
+Bot word std: 307.66666666666663
+
+Dialog 219
+Word mean: 8.090909090909092
+User word mean: 5.7272727272727275
+Bot word mean: 10.454545454545455
+Word std: 527.8181818181818
+User word std: 98.18181818181817
+Bot word std: 306.7272727272727
+
+Dialog 220
+Word mean: 9.25
+User word mean: 6.25
+Bot word mean: 12.25
+Word std: 738.5
+User word std: 128.25
+Bot word std: 394.25
+
+Dialog 221
+Word mean: 9.066666666666666
+User word mean: 6.933333333333334
+Bot word mean: 11.2
+Word std: 761.8666666666667
+User word std: 176.93333333333334
+Bot word std: 448.4
+
+Dialog 222
+Word mean: 8.884615384615385
+User word mean: 6.769230769230769
+Bot word mean: 11.0
+Word std: 634.653846153846
+User word std: 140.30769230769226
+Bot word std: 378.0
+
+Dialog 223
+Word mean: 8.346153846153847
+User word mean: 6.769230769230769
+Bot word mean: 9.923076923076923
+Word std: 491.8846153846154
+User word std: 116.3076923076923
+Bot word std: 310.9230769230769
+
+Dialog 224
+Word mean: 9.192307692307692
+User word mean: 7.0
+Bot word mean: 11.384615384615385
+Word std: 706.0384615384614
+User word std: 134.0
+Bot word std: 447.07692307692304
+
+Dialog 225
+Word mean: 8.857142857142858
+User word mean: 6.285714285714286
+Bot word mean: 11.428571428571429
+Word std: 713.4285714285714
+User word std: 80.85714285714283
+Bot word std: 447.4285714285714
+
+Dialog 226
+Word mean: 9.3
+User word mean: 6.666666666666667
+Bot word mean: 11.933333333333334
+Word std: 798.3000000000002
+User word std: 89.33333333333334
+Bot word std: 500.93333333333334
+
+Dialog 227
+Word mean: 9.214285714285714
+User word mean: 7.214285714285714
+Bot word mean: 11.214285714285714
+Word std: 712.7142857142858
+User word std: 148.35714285714286
+Bot word std: 452.3571428571429
+
+Dialog 228
+Word mean: 8.590909090909092
+User word mean: 5.909090909090909
+Bot word mean: 11.272727272727273
+Word std: 671.3181818181816
+User word std: 140.9090909090909
+Bot word std: 372.1818181818182
+
+Dialog 229
+Word mean: 8.666666666666666
+User word mean: 6.75
+Bot word mean: 10.583333333333334
+Word std: 501.33333333333337
+User word std: 122.25
+Bot word std: 290.9166666666667
+
+Dialog 230
+Word mean: 8.375
+User word mean: 6.583333333333333
+Bot word mean: 10.166666666666666
+Word std: 459.625
+User word std: 86.91666666666667
+Bot word std: 295.66666666666663
+
+Dialog 231
+Word mean: 8.5
+User word mean: 6.153846153846154
+Bot word mean: 10.846153846153847
+Word std: 608.5
+User word std: 79.69230769230768
+Bot word std: 385.6923076923077
+
+Dialog 232
+Word mean: 9.038461538461538
+User word mean: 6.538461538461538
+Bot word mean: 11.538461538461538
+Word std: 764.9615384615387
+User word std: 165.23076923076925
+Bot word std: 437.2307692307692
+
+Dialog 233
+Word mean: 9.083333333333334
+User word mean: 6.5
+Bot word mean: 11.666666666666666
+Word std: 779.8333333333334
+User word std: 185.0
+Bot word std: 434.66666666666663
+
+Dialog 234
+Word mean: 9.75
+User word mean: 7.25
+Bot word mean: 12.25
+Word std: 722.5
+User word std: 172.25
+Bot word std: 400.25
+
+Dialog 235
+Word mean: 9.4
+User word mean: 6.9
+Bot word mean: 11.9
+Word std: 644.8
+User word std: 176.89999999999998
+Bot word std: 342.90000000000003
+
+Dialog 236
+Word mean: 9.192307692307692
+User word mean: 6.538461538461538
+Bot word mean: 11.846153846153847
+Word std: 694.0384615384615
+User word std: 95.23076923076923
+Bot word std: 415.6923076923076
+
+Dialog 237
+Word mean: 9.26923076923077
+User word mean: 6.923076923076923
+Bot word mean: 11.615384615384615
+Word std: 703.1153846153848
+User word std: 118.92307692307693
+Bot word std: 441.0769230769231
+
+Dialog 238
+Word mean: 8.458333333333334
+User word mean: 5.833333333333333
+Bot word mean: 11.083333333333334
+Word std: 597.9583333333333
+User word std: 71.66666666666667
+Bot word std: 360.9166666666667
+
+Dialog 239
+Word mean: 9.25
+User word mean: 7.0
+Bot word mean: 11.5
+Word std: 759.25
+User word std: 176.0
+Bot word std: 441.5
+
+Dialog 240
+Word mean: 8.571428571428571
+User word mean: 6.357142857142857
+Bot word mean: 10.785714285714286
+Word std: 596.8571428571429
+User word std: 91.21428571428572
+Bot word std: 368.35714285714283
+
+Dialog 241
+Word mean: 8.954545454545455
+User word mean: 6.454545454545454
+Bot word mean: 11.454545454545455
+Word std: 580.9545454545455
+User word std: 88.72727272727272
+Bot word std: 354.72727272727275
+
+Dialog 242
+Word mean: 8.333333333333334
+User word mean: 6.75
+Bot word mean: 9.916666666666666
+Word std: 489.3333333333333
+User word std: 118.25
+Bot word std: 310.91666666666674
+
+Dialog 243
+Word mean: 8.7
+User word mean: 6.5
+Bot word mean: 10.9
+Word std: 496.20000000000005
+User word std: 114.5
+Bot word std: 284.90000000000003
+
+Dialog 244
+Word mean: 8.363636363636363
+User word mean: 6.363636363636363
+Bot word mean: 10.363636363636363
+Word std: 503.0909090909091
+User word std: 98.54545454545453
+Bot word std: 316.54545454545456
+
+Dialog 245
+Word mean: 8.933333333333334
+User word mean: 6.6
+Bot word mean: 11.266666666666667
+Word std: 717.8666666666663
+User word std: 101.6
+Bot word std: 452.93333333333334
+
+Dialog 246
+Word mean: 9.0
+User word mean: 6.916666666666667
+Bot word mean: 11.083333333333334
+Word std: 614.0
+User word std: 124.91666666666667
+Bot word std: 384.91666666666663
+
+Dialog 247
+Word mean: 9.615384615384615
+User word mean: 7.461538461538462
+Bot word mean: 11.76923076923077
+Word std: 764.153846153846
+User word std: 207.23076923076917
+Bot word std: 436.30769230769226
+
+Dialog 248
+Word mean: 8.366666666666667
+User word mean: 6.2
+Bot word mean: 10.533333333333333
+Word std: 632.9666666666666
+User word std: 88.40000000000002
+Bot word std: 403.7333333333333
+
+Dialog 249
+Word mean: 8.821428571428571
+User word mean: 6.357142857142857
+Bot word mean: 11.285714285714286
+Word std: 710.107142857143
+User word std: 91.21428571428572
+Bot word std: 448.8571428571429
+
+Dialog 250
+Word mean: 8.772727272727273
+User word mean: 7.181818181818182
+Bot word mean: 10.363636363636363
+Word std: 535.8636363636364
+User word std: 171.63636363636363
+Bot word std: 308.54545454545456
+
+Dialog 251
+Word mean: 9.26923076923077
+User word mean: 6.846153846153846
+Bot word mean: 11.692307692307692
+Word std: 781.115384615385
+User word std: 193.69230769230768
+Bot word std: 434.7692307692307
+
+Dialog 252
+Word mean: 8.7
+User word mean: 6.7
+Bot word mean: 10.7
+Word std: 484.20000000000005
+User word std: 118.10000000000001
+Bot word std: 286.1
+
+Dialog 253
+Word mean: 8.821428571428571
+User word mean: 6.642857142857143
+Bot word mean: 11.0
+Word std: 596.1071428571429
+User word std: 97.21428571428572
+Bot word std: 366.0
+
+Dialog 254
+Word mean: 8.714285714285714
+User word mean: 6.214285714285714
+Bot word mean: 11.214285714285714
+Word std: 717.7142857142856
+User word std: 72.35714285714286
+Bot word std: 470.3571428571429
+
+Dialog 255
+Word mean: 8.227272727272727
+User word mean: 6.454545454545454
+Bot word mean: 10.0
+Word std: 515.8636363636364
+User word std: 136.72727272727272
+Bot word std: 310.0
+
+Dialog 256
+Word mean: 9.153846153846153
+User word mean: 6.923076923076923
+Bot word mean: 11.384615384615385
+Word std: 705.3846153846154
+User word std: 128.9230769230769
+Bot word std: 447.07692307692304
+
+Dialog 257
+Word mean: 9.115384615384615
+User word mean: 6.615384615384615
+Bot word mean: 11.615384615384615
+Word std: 692.6538461538463
+User word std: 89.07692307692308
+Bot word std: 441.0769230769231
+
+Dialog 258
+Word mean: 9.23076923076923
+User word mean: 6.846153846153846
+Bot word mean: 11.615384615384615
+Word std: 704.6153846153848
+User word std: 115.69230769230768
+Bot word std: 441.0769230769231
+
+Dialog 259
+Word mean: 9.5
+User word mean: 6.933333333333334
+Bot word mean: 12.066666666666666
+Word std: 811.5
+User word std: 142.93333333333334
+Bot word std: 470.93333333333334
+
+Dialog 260
+Word mean: 9.416666666666666
+User word mean: 6.666666666666667
+Bot word mean: 12.166666666666666
+Word std: 705.8333333333335
+User word std: 116.66666666666667
+Bot word std: 407.66666666666663
+
+Dialog 261
+Word mean: 9.576923076923077
+User word mean: 7.538461538461538
+Bot word mean: 11.615384615384615
+Word std: 694.3461538461539
+User word std: 151.23076923076923
+Bot word std: 435.0769230769231
+
+Dialog 262
+Word mean: 8.8
+User word mean: 7.0
+Bot word mean: 10.6
+Word std: 561.2
+User word std: 186.0
+Bot word std: 310.40000000000003
+
+Dialog 263
+Word mean: 10.041666666666666
+User word mean: 7.166666666666667
+Bot word mean: 12.916666666666666
+Word std: 760.9583333333333
+User word std: 131.66666666666666
+Bot word std: 430.91666666666663
+
+Dialog 264
+Word mean: 8.75
+User word mean: 6.285714285714286
+Bot word mean: 11.214285714285714
+Word std: 721.25
+User word std: 80.85714285714286
+Bot word std: 470.3571428571429
+
+Dialog 265
+Word mean: 8.5
+User word mean: 6.909090909090909
+Bot word mean: 10.090909090909092
+Word std: 525.5
+User word std: 162.9090909090909
+Bot word std: 306.9090909090909
+
+Dialog 266
+Word mean: 8.681818181818182
+User word mean: 7.2727272727272725
+Bot word mean: 10.090909090909092
+Word std: 540.7727272727273
+User word std: 190.1818181818182
+Bot word std: 306.9090909090909
+
+Dialog 267
+Word mean: 9.392857142857142
+User word mean: 6.857142857142857
+Bot word mean: 11.928571428571429
+Word std: 804.6785714285716
+User word std: 123.71428571428572
+Bot word std: 500.92857142857144
+
+Dialog 268
+Word mean: 9.321428571428571
+User word mean: 7.071428571428571
+Bot word mean: 11.571428571428571
+Word std: 782.1071428571429
+User word std: 196.92857142857142
+Bot word std: 443.42857142857144
+
+Dialog 269
+Word mean: 9.5
+User word mean: 7.3076923076923075
+Bot word mean: 11.692307692307692
+Word std: 736.5
+User word std: 176.76923076923083
+Bot word std: 434.7692307692307
+
+Dialog 270
+Word mean: 8.846153846153847
+User word mean: 6.461538461538462
+Bot word mean: 11.23076923076923
+Word std: 637.3846153846154
+User word std: 133.23076923076923
+Bot word std: 356.3076923076923
+
+Dialog 271
+Word mean: 9.692307692307692
+User word mean: 7.384615384615385
+Bot word mean: 12.0
+Word std: 717.5384615384615
+User word std: 169.07692307692307
+Bot word std: 410.0
+
+Dialog 272
+Word mean: 9.153846153846153
+User word mean: 6.846153846153846
+Bot word mean: 11.461538461538462
+Word std: 791.3846153846155
+User word std: 211.69230769230768
+Bot word std: 441.2307692307692
+
+Dialog 273
+Word mean: 9.071428571428571
+User word mean: 6.571428571428571
+Bot word mean: 11.571428571428571
+Word std: 725.8571428571428
+User word std: 113.42857142857142
+Bot word std: 437.42857142857144
+
+Dialog 274
+Word mean: 9.0
+User word mean: 6.538461538461538
+Bot word mean: 11.461538461538462
+Word std: 764.0
+User word std: 147.23076923076923
+Bot word std: 459.23076923076917
+
+Dialog 275
+Word mean: 8.961538461538462
+User word mean: 6.461538461538462
+Bot word mean: 11.461538461538462
+Word std: 730.9615384615385
+User word std: 109.23076923076925
+Bot word std: 459.23076923076917
+
+Dialog 276
+Word mean: 8.423076923076923
+User word mean: 6.153846153846154
+Bot word mean: 10.692307692307692
+Word std: 612.3461538461539
+User word std: 93.69230769230768
+Bot word std: 384.7692307692307
+
+Dialog 277
+Word mean: 8.966666666666667
+User word mean: 6.6
+Bot word mean: 11.333333333333334
+Word std: 716.9666666666668
+User word std: 99.6
+Bot word std: 449.33333333333337
+
+Dialog 278
+Word mean: 8.766666666666667
+User word mean: 6.333333333333333
+Bot word mean: 11.2
+Word std: 743.3666666666666
+User word std: 99.33333333333331
+Bot word std: 466.4
+
+Dialog 279
+Word mean: 9.533333333333333
+User word mean: 7.2
+Bot word mean: 11.866666666666667
+Word std: 847.4666666666665
+User word std: 186.40000000000003
+Bot word std: 497.7333333333334
+
+Dialog 280
+Word mean: 8.307692307692308
+User word mean: 6.769230769230769
+Bot word mean: 9.846153846153847
+Word std: 499.53846153846155
+User word std: 126.30769230769228
+Bot word std: 311.69230769230774
+
+Dialog 281
+Word mean: 8.7
+User word mean: 6.866666666666666
+Bot word mean: 10.533333333333333
+Word std: 644.2999999999998
+User word std: 139.73333333333335
+Bot word std: 403.7333333333333
+
+Dialog 282
+Word mean: 9.466666666666667
+User word mean: 7.0
+Bot word mean: 11.933333333333334
+Word std: 785.4666666666666
+User word std: 102.0
+Bot word std: 500.93333333333334
+
+Dialog 283
+Word mean: 8.961538461538462
+User word mean: 6.153846153846154
+Bot word mean: 11.76923076923077
+Word std: 730.9615384615383
+User word std: 95.69230769230766
+Bot word std: 430.3076923076923
+
+Dialog 284
+Word mean: 8.458333333333334
+User word mean: 7.0
+Bot word mean: 9.916666666666666
+Word std: 491.9583333333333
+User word std: 130.0
+Bot word std: 310.91666666666674
+
+Dialog 285
+Word mean: 8.821428571428571
+User word mean: 6.857142857142857
+Bot word mean: 10.785714285714286
+Word std: 602.107142857143
+User word std: 107.71428571428571
+Bot word std: 386.35714285714283
+
+Dialog 286
+Word mean: 8.833333333333334
+User word mean: 6.466666666666667
+Bot word mean: 11.2
+Word std: 740.1666666666667
+User word std: 105.73333333333332
+Bot word std: 466.4
+
+Dialog 287
+Word mean: 9.0
+User word mean: 6.933333333333334
+Bot word mean: 11.066666666666666
+Word std: 724.0
+User word std: 138.93333333333334
+Bot word std: 456.93333333333334
+
+Dialog 288
+Word mean: 9.0
+User word mean: 6.866666666666666
+Bot word mean: 11.133333333333333
+Word std: 766.0
+User word std: 159.73333333333332
+Bot word std: 469.73333333333335
+
+Dialog 289
+Word mean: 9.458333333333334
+User word mean: 7.0
+Bot word mean: 11.916666666666666
+Word std: 719.9583333333336
+User word std: 148.0
+Bot word std: 426.9166666666667
+
+Dialog 290
+Word mean: 8.884615384615385
+User word mean: 7.076923076923077
+Bot word mean: 10.692307692307692
+Word std: 664.6538461538463
+User word std: 196.9230769230769
+Bot word std: 382.7692307692307
+
+Dialog 291
+Word mean: 8.96875
+User word mean: 6.75
+Bot word mean: 11.1875
+Word std: 680.96875
+User word std: 69.0
+Bot word std: 454.4375
+
+Dialog 292
+Word mean: 9.142857142857142
+User word mean: 7.0
+Bot word mean: 11.285714285714286
+Word std: 743.4285714285713
+User word std: 150.0
+Bot word std: 464.8571428571429
+
+Dialog 293
+Word mean: 9.409090909090908
+User word mean: 6.454545454545454
+Bot word mean: 12.363636363636363
+Word std: 687.3181818181819
+User word std: 104.72727272727273
+Bot word std: 390.5454545454545
+
+Dialog 294
+Word mean: 9.285714285714286
+User word mean: 6.857142857142857
+Bot word mean: 11.714285714285714
+Word std: 681.7142857142858
+User word std: 97.7142857142857
+Bot word std: 418.8571428571429
+
+Dialog 295
+Word mean: 9.272727272727273
+User word mean: 6.909090909090909
+Bot word mean: 11.636363636363637
+Word std: 648.3636363636363
+User word std: 174.90909090909088
+Bot word std: 350.54545454545456
+
+Dialog 296
+Word mean: 8.916666666666666
+User word mean: 6.666666666666667
+Bot word mean: 11.166666666666666
+Word std: 611.8333333333334
+User word std: 116.66666666666669
+Bot word std: 373.6666666666667
+
+Dialog 297
+Word mean: 8.708333333333334
+User word mean: 6.416666666666667
+Bot word mean: 11.0
+Word std: 608.9583333333336
+User word std: 100.91666666666664
+Bot word std: 382.0
+
+Dialog 298
+Word mean: 8.892857142857142
+User word mean: 6.428571428571429
+Bot word mean: 11.357142857142858
+Word std: 734.6785714285714
+User word std: 103.42857142857142
+Bot word std: 461.21428571428567
+
+Dialog 299
+Word mean: 9.076923076923077
+User word mean: 6.538461538461538
+Bot word mean: 11.615384615384615
+Word std: 695.8461538461539
+User word std: 87.23076923076924
+Bot word std: 441.0769230769231
+
+Dialog 300
+Word mean: 9.233333333333333
+User word mean: 6.533333333333333
+Bot word mean: 11.933333333333334
+Word std: 817.3666666666667
+User word std: 97.73333333333335
+Bot word std: 500.93333333333334
+
+Dialog 301
+Word mean: 9.192307692307692
+User word mean: 6.6923076923076925
+Bot word mean: 11.692307692307692
+Word std: 690.0384615384613
+User word std: 84.76923076923076
+Bot word std: 442.7692307692307
+
+Dialog 302
+Word mean: 9.142857142857142
+User word mean: 6.571428571428571
+Bot word mean: 11.714285714285714
+Word std: 707.4285714285714
+User word std: 103.42857142857143
+Bot word std: 418.8571428571429
+
+Dialog 303
+Word mean: 9.0
+User word mean: 6.5
+Bot word mean: 11.5
+Word std: 706.0
+User word std: 105.5
+Bot word std: 425.5
+
+Dialog 304
+Word mean: 9.636363636363637
+User word mean: 6.818181818181818
+Bot word mean: 12.454545454545455
+Word std: 703.0909090909093
+User word std: 139.63636363636368
+Bot word std: 388.72727272727275
+
+Dialog 305
+Word mean: 9.541666666666666
+User word mean: 7.083333333333333
+Bot word mean: 12.0
+Word std: 745.9583333333335
+User word std: 172.91666666666674
+Bot word std: 428.0
+
+Dialog 306
+Word mean: 8.166666666666666
+User word mean: 6.0
+Bot word mean: 10.333333333333334
+Word std: 503.33333333333326
+User word std: 82.0
+Bot word std: 308.6666666666667
+
+Dialog 307
+Word mean: 9.472222222222221
+User word mean: 6.388888888888889
+Bot word mean: 12.555555555555555
+Word std: 1018.9722222222222
+User word std: 74.27777777777779
+Bot word std: 602.4444444444446
+
+Dialog 308
+Word mean: 9.538461538461538
+User word mean: 7.230769230769231
+Bot word mean: 11.846153846153847
+Word std: 684.4615384615382
+User word std: 136.30769230769232
+Bot word std: 409.6923076923076
+
+Dialog 309
+Word mean: 9.625
+User word mean: 7.166666666666667
+Bot word mean: 12.083333333333334
+Word std: 717.625
+User word std: 171.66666666666666
+Bot word std: 400.91666666666663
+
+Dialog 310
+Word mean: 9.323529411764707
+User word mean: 7.0
+Bot word mean: 11.647058823529411
+Word std: 805.4411764705882
+User word std: 110.0
+Bot word std: 511.88235294117646
+
+Dialog 311
+Word mean: 9.576923076923077
+User word mean: 7.153846153846154
+Bot word mean: 12.0
+Word std: 748.346153846154
+User word std: 185.69230769230774
+Bot word std: 410.0
+
+Dialog 312
+Word mean: 8.545454545454545
+User word mean: 7.0
+Bot word mean: 10.090909090909092
+Word std: 543.4545454545454
+User word std: 184.0
+Bot word std: 306.9090909090909
+
+Dialog 313
+Word mean: 9.285714285714286
+User word mean: 7.285714285714286
+Bot word mean: 11.285714285714286
+Word std: 771.7142857142858
+User word std: 212.85714285714292
+Bot word std: 446.8571428571429
+
+Dialog 314
+Word mean: 9.3
+User word mean: 6.9
+Bot word mean: 11.7
+Word std: 596.2
+User word std: 138.9
+Bot word std: 342.1
+
+Dialog 315
+Word mean: 8.5
+User word mean: 6.916666666666667
+Bot word mean: 10.083333333333334
+Word std: 546.0
+User word std: 178.91666666666669
+Bot word std: 306.91666666666663
+
+Dialog 316
+Word mean: 8.892857142857142
+User word mean: 6.5
+Bot word mean: 11.285714285714286
+Word std: 694.6785714285714
+User word std: 85.5
+Bot word std: 448.8571428571429
+
+Dialog 317
+Word mean: 9.818181818181818
+User word mean: 7.090909090909091
+Bot word mean: 12.545454545454545
+Word std: 719.2727272727273
+User word std: 166.90909090909093
+Bot word std: 388.72727272727275
+
+Dialog 318
+Word mean: 9.625
+User word mean: 7.0
+Bot word mean: 12.25
+Word std: 777.625
+User word std: 212.0
+Bot word std: 400.25
+
+Dialog 319
+Word mean: 9.233333333333333
+User word mean: 7.2
+Bot word mean: 11.266666666666667
+Word std: 701.3666666666666
+User word std: 124.40000000000003
+Bot word std: 452.9333333333334
+
+Dialog 320
+Word mean: 9.785714285714286
+User word mean: 7.214285714285714
+Bot word mean: 12.357142857142858
+Word std: 788.7142857142856
+User word std: 146.35714285714286
+Bot word std: 457.21428571428567
+
+Dialog 321
+Word mean: 9.136363636363637
+User word mean: 6.636363636363637
+Bot word mean: 11.636363636363637
+Word std: 600.5909090909092
+User word std: 118.54545454545453
+Bot word std: 344.54545454545456
+
+Dialog 322
+Word mean: 10.23076923076923
+User word mean: 7.0
+Bot word mean: 13.461538461538462
+Word std: 920.6153846153848
+User word std: 188.0
+Bot word std: 461.2307692307692
+
+Dialog 323
+Word mean: 8.681818181818182
+User word mean: 6.181818181818182
+Bot word mean: 11.181818181818182
+Word std: 586.7727272727275
+User word std: 89.63636363636364
+Bot word std: 359.6363636363637
+
+Dialog 324
+Word mean: 9.76923076923077
+User word mean: 7.0
+Bot word mean: 12.538461538461538
+Word std: 846.6153846153844
+User word std: 174.0
+Bot word std: 473.2307692307693
+
+Dialog 325
+Word mean: 8.807692307692308
+User word mean: 6.0
+Bot word mean: 11.615384615384615
+Word std: 712.0384615384614
+User word std: 66.0
+Bot word std: 441.07692307692304
+
+Dialog 326
+Word mean: 9.115384615384615
+User word mean: 7.076923076923077
+Bot word mean: 11.153846153846153
+Word std: 610.6538461538463
+User word std: 134.92307692307693
+Bot word std: 367.6923076923077
+
+Dialog 327
+Word mean: 8.928571428571429
+User word mean: 6.428571428571429
+Bot word mean: 11.428571428571429
+Word std: 715.8571428571428
+User word std: 93.42857142857142
+Bot word std: 447.4285714285714
+
+Dialog 328
+Word mean: 8.583333333333334
+User word mean: 7.166666666666667
+Bot word mean: 10.0
+Word std: 565.8333333333334
+User word std: 209.66666666666666
+Bot word std: 308.0
+
+Dialog 329
+Word mean: 9.423076923076923
+User word mean: 7.153846153846154
+Bot word mean: 11.692307692307692
+Word std: 752.3461538461536
+User word std: 201.69230769230774
+Bot word std: 416.7692307692307
+
+Dialog 330
+Word mean: 8.90625
+User word mean: 6.8125
+Bot word mean: 11.0
+Word std: 720.71875
+User word std: 122.4375
+Bot word std: 458.0
+
+Dialog 331
+Word mean: 9.535714285714286
+User word mean: 7.642857142857143
+Bot word mean: 11.428571428571429
+Word std: 704.9642857142857
+User word std: 163.2142857142857
+Bot word std: 441.42857142857144
+
+Dialog 332
+Word mean: 9.5
+User word mean: 7.083333333333333
+Bot word mean: 11.916666666666666
+Word std: 748.0
+User word std: 198.91666666666674
+Bot word std: 408.91666666666663
+
+Dialog 333
+Word mean: 8.9
+User word mean: 6.666666666666667
+Bot word mean: 11.133333333333333
+Word std: 724.6999999999998
+User word std: 121.33333333333334
+Bot word std: 453.73333333333335
+
+Dialog 334
+Word mean: 8.916666666666666
+User word mean: 5.916666666666667
+Bot word mean: 11.916666666666666
+Word std: 755.8333333333333
+User word std: 112.91666666666664
+Bot word std: 426.9166666666667
+
+Dialog 335
+Word mean: 8.35
+User word mean: 6.5
+Bot word mean: 10.2
+Word std: 532.5500000000001
+User word std: 158.5
+Bot word std: 305.6
+
+Dialog 336
+Word mean: 8.722222222222221
+User word mean: 6.444444444444445
+Bot word mean: 11.0
+Word std: 529.6111111111111
+User word std: 152.22222222222223
+Bot word std: 284.0
+
+Dialog 337
+Word mean: 9.107142857142858
+User word mean: 7.5
+Bot word mean: 10.714285714285714
+Word std: 590.6785714285713
+User word std: 129.5
+Bot word std: 388.8571428571429
+
+Dialog 338
+Word mean: 9.607142857142858
+User word mean: 7.071428571428571
+Bot word mean: 12.142857142857142
+Word std: 788.6785714285713
+User word std: 122.92857142857146
+Bot word std: 485.7142857142857
+
+Dialog 339
+Word mean: 9.375
+User word mean: 6.375
+Bot word mean: 12.375
+Word std: 921.5
+User word std: 85.75
+Bot word std: 547.75
+
+Dialog 340
+Word mean: 8.785714285714286
+User word mean: 6.071428571428571
+Bot word mean: 11.5
+Word std: 708.7142857142856
+User word std: 58.92857142857143
+Bot word std: 443.5
+
+Dialog 341
+Word mean: 9.0
+User word mean: 6.615384615384615
+Bot word mean: 11.384615384615385
+Word std: 726.0
+User word std: 131.0769230769231
+Bot word std: 447.07692307692304
+
+Dialog 342
+Word mean: 8.272727272727273
+User word mean: 5.909090909090909
+Bot word mean: 10.636363636363637
+Word std: 476.36363636363643
+User word std: 60.909090909090914
+Bot word std: 292.5454545454545
+
+Dialog 343
+Word mean: 9.75
+User word mean: 6.5
+Bot word mean: 13.0
+Word std: 848.5
+User word std: 167.0
+Bot word std: 428.0
+
+Dialog 344
+Word mean: 9.4
+User word mean: 7.0
+Bot word mean: 11.8
+Word std: 859.2000000000002
+User word std: 166.0
+Bot word std: 520.3999999999999
+
+Dialog 345
+Word mean: 9.107142857142858
+User word mean: 6.857142857142857
+Bot word mean: 11.357142857142858
+Word std: 740.6785714285711
+User word std: 155.71428571428567
+Bot word std: 443.21428571428567
+
+Dialog 346
+Word mean: 9.208333333333334
+User word mean: 7.083333333333333
+Bot word mean: 11.333333333333334
+Word std: 657.9583333333333
+User word std: 194.91666666666669
+Bot word std: 354.66666666666663
+
+Dialog 347
+Word mean: 8.083333333333334
+User word mean: 6.25
+Bot word mean: 9.916666666666666
+Word std: 517.8333333333333
+User word std: 108.25
+Bot word std: 328.9166666666667
+
+Dialog 348
+Word mean: 9.538461538461538
+User word mean: 7.3076923076923075
+Bot word mean: 11.76923076923077
+Word std: 782.4615384615381
+User word std: 216.76923076923083
+Bot word std: 436.30769230769226
+
+Dialog 349
+Word mean: 9.0
+User word mean: 6.7272727272727275
+Bot word mean: 11.272727272727273
+Word std: 660.0
+User word std: 174.1818181818182
+Bot word std: 372.1818181818182
+
+Dialog 350
+Word mean: 9.066666666666666
+User word mean: 6.933333333333334
+Bot word mean: 11.2
+Word std: 749.8666666666667
+User word std: 164.9333333333333
+Bot word std: 448.4
+
+Dialog 351
+Word mean: 9.807692307692308
+User word mean: 7.6923076923076925
+Bot word mean: 11.923076923076923
+Word std: 738.0384615384614
+User word std: 212.76923076923075
+Bot word std: 408.9230769230769
+
+Dialog 352
+Word mean: 8.785714285714286
+User word mean: 6.357142857142857
+Bot word mean: 11.214285714285714
+Word std: 732.7142857142857
+User word std: 97.21428571428571
+Bot word std: 470.3571428571429
+
+Dialog 353
+Word mean: 8.76923076923077
+User word mean: 6.615384615384615
+Bot word mean: 10.923076923076923
+Word std: 592.6153846153844
+User word std: 83.07692307692308
+Bot word std: 388.9230769230769
+
+Dialog 354
+Word mean: 8.681818181818182
+User word mean: 7.0
+Bot word mean: 10.363636363636363
+Word std: 542.7727272727274
+User word std: 190.0
+Bot word std: 290.54545454545456
+
+Dialog 355
+Word mean: 8.636363636363637
+User word mean: 6.909090909090909
+Bot word mean: 10.363636363636363
+Word std: 561.0909090909092
+User word std: 204.90909090909088
+Bot word std: 290.54545454545456
+
+Dialog 356
+Word mean: 8.818181818181818
+User word mean: 7.181818181818182
+Bot word mean: 10.454545454545455
+Word std: 555.2727272727273
+User word std: 183.63636363636365
+Bot word std: 312.72727272727275
+
+Dialog 357
+Word mean: 9.785714285714286
+User word mean: 7.357142857142857
+Bot word mean: 12.214285714285714
+Word std: 822.7142857142858
+User word std: 191.21428571428567
+Bot word std: 466.3571428571429
+
+Dialog 358
+Word mean: 9.73076923076923
+User word mean: 7.0
+Bot word mean: 12.461538461538462
+Word std: 859.1153846153845
+User word std: 192.0
+Bot word std: 473.23076923076917
+
+Dialog 359
+Word mean: 9.321428571428571
+User word mean: 7.357142857142857
+Bot word mean: 11.285714285714286
+Word std: 794.1071428571427
+User word std: 239.21428571428567
+Bot word std: 446.8571428571429
+
+Dialog 360
+Word mean: 9.029411764705882
+User word mean: 6.529411764705882
+Bot word mean: 11.529411764705882
+Word std: 874.9705882352939
+User word std: 132.23529411764707
+Bot word std: 530.2352941176472
+
+Dialog 361
+Word mean: 8.966666666666667
+User word mean: 6.6
+Bot word mean: 11.333333333333334
+Word std: 716.9666666666666
+User word std: 117.6
+Bot word std: 431.33333333333337
+
+Dialog 362
+Word mean: 9.2
+User word mean: 6.7
+Bot word mean: 11.7
+Word std: 589.1999999999999
+User word std: 122.1
+Bot word std: 342.1
+
+Dialog 363
+Word mean: 9.0
+User word mean: 6.666666666666667
+Bot word mean: 11.333333333333334
+Word std: 622.0
+User word std: 136.66666666666663
+Bot word std: 354.66666666666663
+
+Dialog 364
+Word mean: 8.923076923076923
+User word mean: 6.769230769230769
+Bot word mean: 11.076923076923077
+Word std: 587.8461538461538
+User word std: 102.3076923076923
+Bot word std: 364.92307692307696
+
+Dialog 365
+Word mean: 8.866666666666667
+User word mean: 6.6
+Bot word mean: 11.133333333333333
+Word std: 707.4666666666667
+User word std: 99.6
+Bot word std: 453.73333333333335
+
+Dialog 366
+Word mean: 8.625
+User word mean: 6.083333333333333
+Bot word mean: 11.166666666666666
+Word std: 623.625
+User word std: 94.91666666666667
+Bot word std: 373.66666666666663
+
+Dialog 367
+Word mean: 9.545454545454545
+User word mean: 6.636363636363637
+Bot word mean: 12.454545454545455
+Word std: 727.4545454545455
+User word std: 152.54545454545453
+Bot word std: 388.72727272727275
+
+Dialog 368
+Word mean: 8.75
+User word mean: 6.8
+Bot word mean: 10.7
+Word std: 471.75
+User word std: 109.59999999999998
+Bot word std: 286.1
+
+Dialog 369
+Word mean: 8.65
+User word mean: 6.4
+Bot word mean: 10.9
+Word std: 500.55
+User word std: 114.39999999999999
+Bot word std: 284.90000000000003
+
+Dialog 370
+Word mean: 9.461538461538462
+User word mean: 7.0
+Bot word mean: 11.923076923076923
+Word std: 726.4615384615386
+User word std: 160.0
+Bot word std: 408.9230769230769
+
+Dialog 371
+Word mean: 8.807692307692308
+User word mean: 6.0
+Bot word mean: 11.615384615384615
+Word std: 714.0384615384614
+User word std: 68.0
+Bot word std: 441.07692307692304
+
+Dialog 372
+Word mean: 9.25
+User word mean: 7.071428571428571
+Bot word mean: 11.428571428571429
+Word std: 695.25
+User word std: 120.92857142857146
+Bot word std: 441.42857142857144
+
+Dialog 373
+Word mean: 9.384615384615385
+User word mean: 7.3076923076923075
+Bot word mean: 11.461538461538462
+Word std: 746.1538461538464
+User word std: 192.7692307692308
+Bot word std: 441.2307692307692
+
+Dialog 374
+Word mean: 8.533333333333333
+User word mean: 6.533333333333333
+Bot word mean: 10.533333333333333
+Word std: 645.4666666666668
+User word std: 121.73333333333335
+Bot word std: 403.7333333333333
+
+Dialog 375
+Word mean: 9.125
+User word mean: 6.833333333333333
+Bot word mean: 11.416666666666666
+Word std: 628.625
+User word std: 151.66666666666669
+Bot word std: 350.9166666666667
+
+Dialog 376
+Word mean: 8.961538461538462
+User word mean: 7.230769230769231
+Bot word mean: 10.692307692307692
+Word std: 682.9615384615383
+User word std: 222.3076923076923
+Bot word std: 382.7692307692307
+
+Dialog 377
+Word mean: 8.576923076923077
+User word mean: 6.230769230769231
+Bot word mean: 10.923076923076923
+Word std: 596.3461538461539
+User word std: 70.3076923076923
+Bot word std: 382.9230769230769
+
+Dialog 378
+Word mean: 8.833333333333334
+User word mean: 6.583333333333333
+Bot word mean: 11.083333333333334
+Word std: 613.3333333333333
+User word std: 106.91666666666667
+Bot word std: 384.91666666666663
+
+Dialog 379
+Word mean: 8.461538461538462
+User word mean: 6.3076923076923075
+Bot word mean: 10.615384615384615
+Word std: 600.4615384615386
+User word std: 74.76923076923077
+Bot word std: 405.0769230769231
+
+Dialog 380
+Word mean: 8.409090909090908
+User word mean: 6.7272727272727275
+Bot word mean: 10.090909090909092
+Word std: 521.318181818182
+User word std: 134.1818181818182
+Bot word std: 324.90909090909093
+
+Dialog 381
+Word mean: 8.090909090909092
+User word mean: 5.909090909090909
+Bot word mean: 10.272727272727273
+Word std: 489.8181818181818
+User word std: 72.90909090909092
+Bot word std: 312.18181818181813
+
+Dialog 382
+Word mean: 9.0
+User word mean: 6.6
+Bot word mean: 11.4
+Word std: 740.0
+User word std: 123.6
+Bot word std: 443.59999999999997
+
+Dialog 383
+Word mean: 9.25
+User word mean: 7.5
+Bot word mean: 11.0
+Word std: 602.5
+User word std: 153.0
+Bot word std: 376.0
+
+Dialog 384
+Word mean: 9.466666666666667
+User word mean: 6.866666666666666
+Bot word mean: 12.066666666666666
+Word std: 843.4666666666666
+User word std: 169.73333333333332
+Bot word std: 470.93333333333334
+
+Dialog 385
+Word mean: 8.384615384615385
+User word mean: 6.846153846153846
+Bot word mean: 9.923076923076923
+Word std: 550.1538461538462
+User word std: 161.6923076923077
+Bot word std: 326.9230769230769
+
+Dialog 386
+Word mean: 8.642857142857142
+User word mean: 6.642857142857143
+Bot word mean: 10.642857142857142
+Word std: 670.4285714285713
+User word std: 175.21428571428572
+Bot word std: 383.2142857142857
+
+Dialog 387
+Word mean: 9.0
+User word mean: 7.076923076923077
+Bot word mean: 10.923076923076923
+Word std: 640.0
+User word std: 162.92307692307688
+Bot word std: 380.9230769230769
+
+Dialog 388
+Word mean: 8.538461538461538
+User word mean: 6.384615384615385
+Bot word mean: 10.692307692307692
+Word std: 606.4615384615387
+User word std: 101.07692307692308
+Bot word std: 384.7692307692307
+
+Dialog 389
+Word mean: 8.892857142857142
+User word mean: 6.571428571428571
+Bot word mean: 11.214285714285714
+Word std: 728.6785714285714
+User word std: 107.42857142857144
+Bot word std: 470.3571428571429
+
+Dialog 390
+Word mean: 9.392857142857142
+User word mean: 7.5
+Bot word mean: 11.285714285714286
+Word std: 794.6785714285716
+User word std: 247.5
+Bot word std: 446.8571428571429
+
+Dialog 391
+Word mean: 9.78125
+User word mean: 6.6875
+Bot word mean: 12.875
+Word std: 1075.46875
+User word std: 171.4375
+Bot word std: 597.75
+
+Dialog 392
+Word mean: 8.6
+User word mean: 6.7
+Bot word mean: 10.5
+Word std: 540.8
+User word std: 162.10000000000002
+Bot word std: 306.5
+
+Dialog 393
+Word mean: 9.166666666666666
+User word mean: 6.466666666666667
+Bot word mean: 11.866666666666667
+Word std: 844.1666666666667
+User word std: 109.73333333333333
+Bot word std: 515.7333333333333
+
+Dialog 394
+Word mean: 9.678571428571429
+User word mean: 7.357142857142857
+Bot word mean: 12.0
+Word std: 864.1071428571429
+User word std: 219.21428571428572
+Bot word std: 494.0
+
+Dialog 395
+Word mean: 9.23076923076923
+User word mean: 6.769230769230769
+Bot word mean: 11.692307692307692
+Word std: 738.6153846153846
+User word std: 164.3076923076923
+Bot word std: 416.7692307692307
+
+Dialog 396
+Word mean: 8.23076923076923
+User word mean: 6.538461538461538
+Bot word mean: 9.923076923076923
+Word std: 486.6153846153845
+User word std: 101.23076923076923
+Bot word std: 310.9230769230769
+
+Dialog 397
+Word mean: 9.576923076923077
+User word mean: 7.384615384615385
+Bot word mean: 11.76923076923077
+Word std: 772.3461538461539
+User word std: 211.07692307692312
+Bot word std: 436.30769230769226
+
+Dialog 398
+Word mean: 8.5
+User word mean: 6.583333333333333
+Bot word mean: 10.416666666666666
+Word std: 486.0
+User word std: 100.91666666666666
+Bot word std: 296.91666666666663
+
+Dialog 399
+Word mean: 8.875
+User word mean: 6.75
+Bot word mean: 11.0
+Word std: 602.625
+User word std: 112.25
+Bot word std: 382.0
+
+Dialog 400
+Word mean: 8.923076923076923
+User word mean: 6.230769230769231
+Bot word mean: 11.615384615384615
+Word std: 711.8461538461538
+User word std: 82.30769230769229
+Bot word std: 441.07692307692304
+
+Dialog 401
+Word mean: 9.227272727272727
+User word mean: 6.909090909090909
+Bot word mean: 11.545454545454545
+Word std: 651.8636363636364
+User word std: 184.90909090909085
+Bot word std: 348.7272727272727
+
+Dialog 402
+Word mean: 9.692307692307692
+User word mean: 7.538461538461538
+Bot word mean: 11.846153846153847
+Word std: 681.5384615384613
+User word std: 151.23076923076923
+Bot word std: 409.6923076923076
+
+Dialog 403
+Word mean: 8.708333333333334
+User word mean: 6.666666666666667
+Bot word mean: 10.75
+Word std: 600.9583333333335
+User word std: 116.66666666666666
+Bot word std: 384.25
+
+Dialog 404
+Word mean: 8.458333333333334
+User word mean: 6.166666666666667
+Bot word mean: 10.75
+Word std: 603.9583333333334
+User word std: 93.66666666666667
+Bot word std: 384.25
+
+Dialog 405
+Word mean: 8.846153846153847
+User word mean: 6.0
+Bot word mean: 11.692307692307692
+Word std: 709.3846153846154
+User word std: 80.0
+Bot word std: 418.7692307692307
+
+Dialog 406
+Word mean: 9.615384615384615
+User word mean: 7.0
+Bot word mean: 12.23076923076923
+Word std: 864.1538461538462
+User word std: 202.0
+Bot word std: 484.3076923076923
+
+Dialog 407
+Word mean: 9.384615384615385
+User word mean: 6.769230769230769
+Bot word mean: 12.0
+Word std: 750.1538461538462
+User word std: 162.30769230769224
+Bot word std: 410.0
+
+Dialog 408
+Word mean: 9.291666666666666
+User word mean: 7.166666666666667
+Bot word mean: 11.416666666666666
+Word std: 646.9583333333334
+User word std: 181.66666666666666
+Bot word std: 356.9166666666667
+
+Dialog 409
+Word mean: 9.076923076923077
+User word mean: 6.538461538461538
+Bot word mean: 11.615384615384615
+Word std: 691.8461538461539
+User word std: 83.23076923076924
+Bot word std: 441.07692307692304
+
+Dialog 410
+Word mean: 9.615384615384615
+User word mean: 6.615384615384615
+Bot word mean: 12.615384615384615
+Word std: 776.1538461538462
+User word std: 91.07692307692308
+Bot word std: 451.07692307692304
+
+Dialog 411
+Word mean: 9.71875
+User word mean: 6.9375
+Bot word mean: 12.5
+Word std: 934.46875
+User word std: 170.9375
+Bot word std: 516.0
+
+Dialog 412
+Word mean: 9.142857142857142
+User word mean: 6.571428571428571
+Bot word mean: 11.714285714285714
+Word std: 681.4285714285713
+User word std: 77.42857142857144
+Bot word std: 418.8571428571429
+
+Dialog 413
+Word mean: 9.375
+User word mean: 7.333333333333333
+Bot word mean: 11.416666666666666
+Word std: 661.625
+User word std: 204.6666666666667
+Bot word std: 356.9166666666667
+
+Dialog 414
+Word mean: 9.423076923076923
+User word mean: 6.923076923076923
+Bot word mean: 11.923076923076923
+Word std: 698.3461538461536
+User word std: 118.9230769230769
+Bot word std: 416.9230769230769
+
+Dialog 415
+Word mean: 9.5
+User word mean: 6.916666666666667
+Bot word mean: 12.083333333333334
+Word std: 702.0
+User word std: 140.91666666666669
+Bot word std: 400.91666666666663
+
+Dialog 416
+Word mean: 8.25
+User word mean: 6.5
+Bot word mean: 10.0
+Word std: 524.5
+User word std: 125.0
+Bot word std: 326.0
+
+Dialog 417
+Word mean: 9.545454545454545
+User word mean: 6.545454545454546
+Bot word mean: 12.545454545454545
+Word std: 745.4545454545454
+User word std: 158.7272727272727
+Bot word std: 388.72727272727275
+
+Dialog 418
+Word mean: 9.535714285714286
+User word mean: 7.642857142857143
+Bot word mean: 11.428571428571429
+Word std: 716.9642857142857
+User word std: 175.2142857142857
+Bot word std: 441.42857142857144
+
+Dialog 419
+Word mean: 9.346153846153847
+User word mean: 6.923076923076923
+Bot word mean: 11.76923076923077
+Word std: 715.8846153846154
+User word std: 150.9230769230769
+Bot word std: 412.30769230769226
+
+Dialog 420
+Word mean: 9.363636363636363
+User word mean: 6.545454545454546
+Bot word mean: 12.181818181818182
+Word std: 771.0909090909092
+User word std: 196.7272727272727
+Bot word std: 399.6363636363636
+
+Dialog 421
+Word mean: 8.7
+User word mean: 6.8
+Bot word mean: 10.6
+Word std: 562.2000000000003
+User word std: 179.6
+Bot word std: 310.40000000000003
+
+Dialog 422
+Word mean: 8.90625
+User word mean: 6.875
+Bot word mean: 10.9375
+Word std: 738.71875
+User word std: 127.75
+Bot word std: 478.9375
+
+Dialog 423
+Word mean: 9.208333333333334
+User word mean: 7.166666666666667
+Bot word mean: 11.25
+Word std: 581.9583333333333
+User word std: 127.66666666666669
+Bot word std: 354.25
+
+Dialog 424
+Word mean: 8.5
+User word mean: 6.6
+Bot word mean: 10.4
+Word std: 617.5
+User word std: 99.60000000000001
+Bot word std: 409.6
+
+Dialog 425
+Word mean: 9.25
+User word mean: 7.071428571428571
+Bot word mean: 11.428571428571429
+Word std: 715.25
+User word std: 140.92857142857142
+Bot word std: 441.42857142857144
+
+Dialog 426
+Word mean: 8.928571428571429
+User word mean: 6.357142857142857
+Bot word mean: 11.5
+Word std: 721.857142857143
+User word std: 93.21428571428571
+Bot word std: 443.5
+
+Dialog 427
+Word mean: 8.833333333333334
+User word mean: 6.666666666666667
+Bot word mean: 11.0
+Word std: 534.5
+User word std: 165.99999999999997
+Bot word std: 284.0
+
+Dialog 428
+Word mean: 8.76923076923077
+User word mean: 6.384615384615385
+Bot word mean: 11.153846153846153
+Word std: 602.6153846153844
+User word std: 93.07692307692308
+Bot word std: 361.6923076923077
+
+Dialog 429
+Word mean: 9.26923076923077
+User word mean: 6.923076923076923
+Bot word mean: 11.615384615384615
+Word std: 699.115384615385
+User word std: 120.9230769230769
+Bot word std: 435.0769230769231
+
+Dialog 430
+Word mean: 8.45
+User word mean: 6.7
+Bot word mean: 10.2
+Word std: 560.95
+User word std: 194.09999999999997
+Bot word std: 305.6
+
+Dialog 431
+Word mean: 9.833333333333334
+User word mean: 7.666666666666667
+Bot word mean: 12.0
+Word std: 810.1666666666667
+User word std: 175.33333333333331
+Bot word std: 494.0
+
+Dialog 432
+Word mean: 8.35
+User word mean: 6.2
+Bot word mean: 10.5
+Word std: 522.5500000000001
+User word std: 123.60000000000001
+Bot word std: 306.5
+
+Dialog 433
+Word mean: 8.96875
+User word mean: 6.75
+Bot word mean: 11.1875
+Word std: 708.96875
+User word std: 97.0
+Bot word std: 454.4375
+
+Dialog 434
+Word mean: 9.066666666666666
+User word mean: 6.866666666666666
+Bot word mean: 11.266666666666667
+Word std: 725.8666666666667
+User word std: 127.73333333333333
+Bot word std: 452.9333333333334
+
+Dialog 435
+Word mean: 8.653846153846153
+User word mean: 6.384615384615385
+Bot word mean: 10.923076923076923
+Word std: 601.8846153846154
+User word std: 79.07692307692308
+Bot word std: 388.9230769230769
+
+Dialog 436
+Word mean: 9.038461538461538
+User word mean: 7.153846153846154
+Bot word mean: 10.923076923076923
+Word std: 590.9615384615385
+User word std: 109.69230769230768
+Bot word std: 388.9230769230769
+
+Dialog 437
+Word mean: 9.23076923076923
+User word mean: 6.6923076923076925
+Bot word mean: 11.76923076923077
+Word std: 750.6153846153848
+User word std: 170.76923076923077
+Bot word std: 412.30769230769226
+
+Dialog 438
+Word mean: 8.5
+User word mean: 6.833333333333333
+Bot word mean: 10.166666666666666
+Word std: 508.0
+User word std: 127.66666666666666
+Bot word std: 313.66666666666663
+
+Dialog 439
+Word mean: 8.933333333333334
+User word mean: 6.8
+Bot word mean: 11.066666666666666
+Word std: 733.8666666666662
+User word std: 122.4
+Bot word std: 474.93333333333334
+
+Dialog 440
+Word mean: 9.3
+User word mean: 6.866666666666666
+Bot word mean: 11.733333333333333
+Word std: 804.3000000000001
+User word std: 99.73333333333335
+Bot word std: 526.9333333333334
+
+Dialog 441
+Word mean: 8.433333333333334
+User word mean: 6.333333333333333
+Bot word mean: 10.533333333333333
+Word std: 651.366666666667
+User word std: 115.33333333333334
+Bot word std: 403.7333333333333
+
+Dialog 442
+Word mean: 9.05
+User word mean: 7.2
+Bot word mean: 10.9
+Word std: 542.95
+User word std: 183.60000000000008
+Bot word std: 290.9
+
+Dialog 443
+Word mean: 8.892857142857142
+User word mean: 6.214285714285714
+Bot word mean: 11.571428571428571
+Word std: 742.6785714285714
+User word std: 104.35714285714286
+Bot word std: 437.42857142857144
+
+Dialog 444
+Word mean: 8.166666666666666
+User word mean: 6.333333333333333
+Bot word mean: 10.0
+Word std: 541.3333333333333
+User word std: 134.66666666666669
+Bot word std: 326.0
+
+Dialog 445
+Word mean: 9.346153846153847
+User word mean: 7.230769230769231
+Bot word mean: 11.461538461538462
+Word std: 789.8846153846154
+User word std: 232.30769230769226
+Bot word std: 441.2307692307692
+
+Dialog 446
+Word mean: 9.038461538461538
+User word mean: 6.615384615384615
+Bot word mean: 11.461538461538462
+Word std: 794.9615384615385
+User word std: 201.0769230769231
+Bot word std: 441.2307692307692
+
+Dialog 447
+Word mean: 8.875
+User word mean: 7.416666666666667
+Bot word mean: 10.333333333333334
+Word std: 550.625
+User word std: 184.91666666666663
+Bot word std: 314.6666666666667
+
+Dialog 448
+Word mean: 9.115384615384615
+User word mean: 6.538461538461538
+Bot word mean: 11.692307692307692
+Word std: 754.6538461538464
+User word std: 147.23076923076925
+Bot word std: 434.7692307692307
+
+Dialog 449
+Word mean: 10.0
+User word mean: 7.3076923076923075
+Bot word mean: 12.692307692307692
+Word std: 812.0
+User word std: 180.76923076923083
+Bot word std: 442.7692307692307
+
+Dialog 450
+Word mean: 9.5
+User word mean: 6.75
+Bot word mean: 12.25
+Word std: 978.0
+User word std: 167.0
+Bot word std: 569.0
+
+Dialog 451
+Word mean: 8.571428571428571
+User word mean: 6.285714285714286
+Bot word mean: 10.857142857142858
+Word std: 656.857142857143
+User word std: 128.85714285714286
+Bot word std: 381.71428571428567
+
+Dialog 452
+Word mean: 9.321428571428571
+User word mean: 7.071428571428571
+Bot word mean: 11.571428571428571
+Word std: 708.1071428571427
+User word std: 146.92857142857142
+Bot word std: 419.42857142857144
+
+Dialog 453
+Word mean: 8.166666666666666
+User word mean: 6.083333333333333
+Bot word mean: 10.25
+Word std: 503.3333333333332
+User word std: 86.91666666666666
+Bot word std: 312.25
+
+Dialog 454
+Word mean: 8.708333333333334
+User word mean: 7.166666666666667
+Bot word mean: 10.25
+Word std: 544.9583333333334
+User word std: 177.66666666666663
+Bot word std: 310.25
+
+Dialog 455
+Word mean: 9.458333333333334
+User word mean: 7.083333333333333
+Bot word mean: 11.833333333333334
+Word std: 677.9583333333334
+User word std: 126.91666666666667
+Bot word std: 415.66666666666663
+
+Dialog 456
+Word mean: 9.5
+User word mean: 7.384615384615385
+Bot word mean: 11.615384615384615
+Word std: 704.5
+User word std: 153.0769230769231
+Bot word std: 435.0769230769231
+
+Dialog 457
+Word mean: 8.866666666666667
+User word mean: 6.4
+Bot word mean: 11.333333333333334
+Word std: 713.4666666666667
+User word std: 99.60000000000001
+Bot word std: 431.33333333333337
+
+Dialog 458
+Word mean: 9.291666666666666
+User word mean: 6.666666666666667
+Bot word mean: 11.916666666666666
+Word std: 738.9583333333335
+User word std: 146.66666666666666
+Bot word std: 426.9166666666667
+
+Dialog 459
+Word mean: 8.928571428571429
+User word mean: 6.357142857142857
+Bot word mean: 11.5
+Word std: 711.8571428571428
+User word std: 101.21428571428574
+Bot word std: 425.5
+
+Dialog 460
+Word mean: 9.035714285714286
+User word mean: 6.571428571428571
+Bot word mean: 11.5
+Word std: 684.9642857142858
+User word std: 71.42857142857142
+Bot word std: 443.5
+
+Dialog 461
+Word mean: 9.535714285714286
+User word mean: 7.071428571428571
+Bot word mean: 12.0
+Word std: 902.9642857142857
+User word std: 238.92857142857144
+Bot word std: 494.0
+
+Dialog 462
+Word mean: 9.066666666666666
+User word mean: 7.066666666666666
+Bot word mean: 11.066666666666666
+Word std: 719.8666666666667
+User word std: 142.93333333333334
+Bot word std: 456.93333333333334
+
+Dialog 463
+Word mean: 8.7
+User word mean: 6.7
+Bot word mean: 10.7
+Word std: 476.2
+User word std: 104.10000000000001
+Bot word std: 292.1
+
+Dialog 464
+Word mean: 9.133333333333333
+User word mean: 6.733333333333333
+Bot word mean: 11.533333333333333
+Word std: 691.4666666666668
+User word std: 92.93333333333332
+Bot word std: 425.7333333333333
+
+Dialog 465
+Word mean: 9.633333333333333
+User word mean: 7.2
+Bot word mean: 12.066666666666666
+Word std: 810.9666666666667
+User word std: 162.40000000000003
+Bot word std: 470.93333333333334
+
+Dialog 466
+Word mean: 8.961538461538462
+User word mean: 6.230769230769231
+Bot word mean: 11.692307692307692
+Word std: 690.9615384615382
+User word std: 78.3076923076923
+Bot word std: 418.7692307692307
+
+Dialog 467
+Word mean: 8.5
+User word mean: 6.0
+Bot word mean: 11.0
+Word std: 624.0
+User word std: 92.0
+Bot word std: 382.0
+
+Dialog 468
+Word mean: 9.625
+User word mean: 7.083333333333333
+Bot word mean: 12.166666666666666
+Word std: 733.625
+User word std: 178.91666666666674
+Bot word std: 399.66666666666663
+
+Dialog 469
+Word mean: 8.666666666666666
+User word mean: 6.8
+Bot word mean: 10.533333333333333
+Word std: 644.666666666667
+User word std: 136.4
+Bot word std: 403.7333333333333
+
+Dialog 470
+Word mean: 9.214285714285714
+User word mean: 6.857142857142857
+Bot word mean: 11.571428571428571
+Word std: 724.7142857142857
+User word std: 149.71428571428567
+Bot word std: 419.42857142857144
+
+Dialog 471
+Word mean: 9.115384615384615
+User word mean: 7.384615384615385
+Bot word mean: 10.846153846153847
+Word std: 614.6538461538462
+User word std: 157.07692307692307
+Bot word std: 379.6923076923077
+
+Dialog 472
+Word mean: 8.785714285714286
+User word mean: 6.571428571428571
+Bot word mean: 11.0
+Word std: 574.7142857142856
+User word std: 71.42857142857143
+Bot word std: 366.0
+
+Dialog 473
+Word mean: 8.333333333333334
+User word mean: 6.75
+Bot word mean: 9.916666666666666
+Word std: 507.33333333333326
+User word std: 136.25
+Bot word std: 310.91666666666674
+
+Dialog 474
+Word mean: 8.318181818181818
+User word mean: 6.454545454545454
+Bot word mean: 10.181818181818182
+Word std: 538.7727272727273
+User word std: 156.72727272727272
+Bot word std: 305.6363636363637
+
+Dialog 475
+Word mean: 8.535714285714286
+User word mean: 6.571428571428571
+Bot word mean: 10.5
+Word std: 620.9642857142856
+User word std: 105.42857142857143
+Bot word std: 407.5
+
+Dialog 476
+Word mean: 8.954545454545455
+User word mean: 7.363636363636363
+Bot word mean: 10.545454545454545
+Word std: 498.95454545454555
+User word std: 154.54545454545456
+Bot word std: 288.72727272727275
+
+Dialog 477
+Word mean: 8.538461538461538
+User word mean: 6.923076923076923
+Bot word mean: 10.153846153846153
+Word std: 478.4615384615384
+User word std: 90.92307692307693
+Bot word std: 319.69230769230774
+
+Dialog 478
+Word mean: 8.875
+User word mean: 6.583333333333333
+Bot word mean: 11.166666666666666
+Word std: 624.625
+User word std: 142.9166666666667
+Bot word std: 355.66666666666663
+
+Dialog 479
+Word mean: 9.5
+User word mean: 6.615384615384615
+Bot word mean: 12.384615384615385
+Word std: 786.5
+User word std: 107.0769230769231
+Bot word std: 463.07692307692304
+
+Dialog 480
+Word mean: 8.538461538461538
+User word mean: 6.384615384615385
+Bot word mean: 10.692307692307692
+Word std: 650.4615384615386
+User word std: 129.0769230769231
+Bot word std: 400.7692307692307
+
+Dialog 481
+Word mean: 9.0
+User word mean: 6.666666666666667
+Bot word mean: 11.333333333333334
+Word std: 702.0
+User word std: 89.33333333333334
+Bot word std: 449.33333333333337
+
+Dialog 482
+Word mean: 9.166666666666666
+User word mean: 7.333333333333333
+Bot word mean: 11.0
+Word std: 611.3333333333334
+User word std: 154.66666666666666
+Bot word std: 376.0
+
+Dialog 483
+Word mean: 8.461538461538462
+User word mean: 6.769230769230769
+Bot word mean: 10.153846153846153
+Word std: 492.4615384615384
+User word std: 104.3076923076923
+Bot word std: 313.69230769230774
+
+Dialog 484
+Word mean: 8.863636363636363
+User word mean: 6.545454545454546
+Bot word mean: 11.181818181818182
+Word std: 594.590909090909
+User word std: 104.72727272727272
+Bot word std: 371.6363636363637
+
+Dialog 485
+Word mean: 8.357142857142858
+User word mean: 6.857142857142857
+Bot word mean: 9.857142857142858
+Word std: 494.42857142857144
+User word std: 119.7142857142857
+Bot word std: 311.7142857142858
+
+Dialog 486
+Word mean: 9.307692307692308
+User word mean: 6.615384615384615
+Bot word mean: 12.0
+Word std: 719.5384615384617
+User word std: 127.07692307692308
+Bot word std: 404.0
+
+Dialog 487
+Word mean: 9.958333333333334
+User word mean: 6.833333333333333
+Bot word mean: 13.083333333333334
+Word std: 846.9583333333331
+User word std: 185.66666666666666
+Bot word std: 426.9166666666667
+
+Dialog 488
+Word mean: 9.46875
+User word mean: 7.125
+Bot word mean: 11.8125
+Word std: 809.96875
+User word std: 123.75
+Bot word std: 510.4375
+
+Dialog 489
+Word mean: 9.045454545454545
+User word mean: 7.363636363636363
+Bot word mean: 10.727272727272727
+Word std: 532.9545454545454
+User word std: 176.54545454545456
+Bot word std: 294.1818181818182
+
+Dialog 490
+Word mean: 8.727272727272727
+User word mean: 6.7272727272727275
+Bot word mean: 10.727272727272727
+Word std: 524.3636363636364
+User word std: 148.1818181818182
+Bot word std: 288.1818181818182
+
+Dialog 491
+Word mean: 8.272727272727273
+User word mean: 6.090909090909091
+Bot word mean: 10.454545454545455
+Word std: 532.3636363636365
+User word std: 138.9090909090909
+Bot word std: 288.7272727272727
+
+Dialog 492
+Word mean: 9.03125
+User word mean: 6.875
+Bot word mean: 11.1875
+Word std: 708.96875
+User word std: 105.75
+Bot word std: 454.4375
+
+Dialog 493
+Word mean: 8.954545454545455
+User word mean: 7.2727272727272725
+Bot word mean: 10.636363636363637
+Word std: 546.9545454545455
+User word std: 194.18181818181816
+Bot word std: 290.5454545454545
+
+Dialog 494
+Word mean: 9.714285714285714
+User word mean: 7.071428571428571
+Bot word mean: 12.357142857142858
+Word std: 777.7142857142856
+User word std: 118.92857142857144
+Bot word std: 463.21428571428567
+
+Dialog 495
+Word mean: 9.3
+User word mean: 7.533333333333333
+Bot word mean: 11.066666666666666
+Word std: 708.3000000000001
+User word std: 157.73333333333335
+Bot word std: 456.93333333333334
+
+Dialog 496
+Word mean: 9.416666666666666
+User word mean: 6.916666666666667
+Bot word mean: 11.916666666666666
+Word std: 755.8333333333337
+User word std: 196.91666666666669
+Bot word std: 408.91666666666663
+
+Dialog 497
+Word mean: 8.318181818181818
+User word mean: 6.0
+Bot word mean: 10.636363636363637
+Word std: 486.77272727272737
+User word std: 76.0
+Bot word std: 292.5454545454545
+
+Dialog 498
+Word mean: 8.333333333333334
+User word mean: 6.5
+Bot word mean: 10.166666666666666
+Word std: 487.3333333333333
+User word std: 93.0
+Bot word std: 313.66666666666663
+
+Dialog 499
+Word mean: 8.958333333333334
+User word mean: 6.583333333333333
+Bot word mean: 11.333333333333334
+Word std: 592.9583333333334
+User word std: 94.91666666666667
+Bot word std: 362.66666666666663
+
+Dialog 500
+Word mean: 8.875
+User word mean: 6.916666666666667
+Bot word mean: 10.833333333333334
+Word std: 674.625
+User word std: 202.9166666666667
+Bot word std: 379.6666666666667
+
+Dialog 501
+Word mean: 9.428571428571429
+User word mean: 7.285714285714286
+Bot word mean: 11.571428571428571
+Word std: 758.857142857143
+User word std: 186.8571428571429
+Bot word std: 443.42857142857144
+
+Dialog 502
+Word mean: 9.535714285714286
+User word mean: 6.857142857142857
+Bot word mean: 12.214285714285714
+Word std: 832.9642857142858
+User word std: 147.71428571428572
+Bot word std: 484.35714285714283
+
+Dialog 503
+Word mean: 8.884615384615385
+User word mean: 6.615384615384615
+Bot word mean: 11.153846153846153
+Word std: 598.6538461538461
+User word std: 103.07692307692308
+Bot word std: 361.6923076923077
+
+Dialog 504
+Word mean: 8.866666666666667
+User word mean: 6.533333333333333
+Bot word mean: 11.2
+Word std: 735.4666666666667
+User word std: 105.73333333333333
+Bot word std: 466.4
+
+Dialog 505
+Word mean: 8.75
+User word mean: 6.857142857142857
+Bot word mean: 10.642857142857142
+Word std: 631.25
+User word std: 147.71428571428567
+Bot word std: 383.2142857142857
+
+Dialog 506
+Word mean: 8.576923076923077
+User word mean: 6.384615384615385
+Bot word mean: 10.76923076923077
+Word std: 640.3461538461539
+User word std: 117.07692307692307
+Bot word std: 398.3076923076923
+
+Dialog 507
+Word mean: 9.678571428571429
+User word mean: 7.142857142857143
+Bot word mean: 12.214285714285714
+Word std: 850.1071428571429
+User word std: 203.71428571428575
+Bot word std: 466.3571428571429
+
+Dialog 508
+Word mean: 9.4375
+User word mean: 7.3125
+Bot word mean: 11.5625
+Word std: 807.875
+User word std: 147.4375
+Bot word std: 515.9375
+
+Dialog 509
+Word mean: 8.961538461538462
+User word mean: 6.230769230769231
+Bot word mean: 11.692307692307692
+Word std: 700.9615384615383
+User word std: 88.30769230769229
+Bot word std: 418.7692307692307
+
+Dialog 510
+Word mean: 9.045454545454545
+User word mean: 6.818181818181818
+Bot word mean: 11.272727272727273
+Word std: 662.9545454545455
+User word std: 199.63636363636365
+Bot word std: 354.1818181818182
+
+Dialog 511
+Word mean: 9.428571428571429
+User word mean: 7.571428571428571
+Bot word mean: 11.285714285714286
+Word std: 764.857142857143
+User word std: 221.4285714285714
+Bot word std: 446.8571428571429
+
+Dialog 512
+Word mean: 8.285714285714286
+User word mean: 6.785714285714286
+Bot word mean: 9.785714285714286
+Word std: 491.7142857142858
+User word std: 98.35714285714286
+Bot word std: 330.35714285714283
+
+Dialog 513
+Word mean: 8.833333333333334
+User word mean: 6.583333333333333
+Bot word mean: 11.083333333333334
+Word std: 603.3333333333334
+User word std: 96.91666666666666
+Bot word std: 384.91666666666663
+
+Dialog 514
+Word mean: 9.375
+User word mean: 6.5
+Bot word mean: 12.25
+Word std: 699.625
+User word std: 107.0
+Bot word std: 394.25
+
+Dialog 515
+Word mean: 8.633333333333333
+User word mean: 6.866666666666666
+Bot word mean: 10.4
+Word std: 610.9666666666667
+User word std: 107.73333333333332
+Bot word std: 409.6
+
+Dialog 516
+Word mean: 8.833333333333334
+User word mean: 6.75
+Bot word mean: 10.916666666666666
+Word std: 645.3333333333333
+User word std: 164.25
+Bot word std: 376.91666666666663
+
+Dialog 517
+Word mean: 9.214285714285714
+User word mean: 7.0
+Bot word mean: 11.428571428571429
+Word std: 718.7142857142858
+User word std: 152.0
+Bot word std: 429.42857142857144
+
+Dialog 518
+Word mean: 9.5
+User word mean: 7.0
+Bot word mean: 12.0
+Word std: 758.0
+User word std: 180.0
+Bot word std: 428.0
+
+Dialog 519
+Word mean: 9.227272727272727
+User word mean: 6.909090909090909
+Bot word mean: 11.545454545454545
+Word std: 629.8636363636364
+User word std: 162.9090909090909
+Bot word std: 348.7272727272727
+
+Dialog 520
+Word mean: 9.5
+User word mean: 6.785714285714286
+Bot word mean: 12.214285714285714
+Word std: 787.0
+User word std: 88.35714285714283
+Bot word std: 492.3571428571429
+
+Dialog 521
+Word mean: 8.5
+User word mean: 6.75
+Bot word mean: 10.25
+Word std: 546.0
+User word std: 162.25
+Bot word std: 310.25
+
+Dialog 522
+Word mean: 8.555555555555555
+User word mean: 6.444444444444445
+Bot word mean: 10.666666666666666
+Word std: 546.4444444444443
+User word std: 180.22222222222226
+Bot word std: 286.00000000000006
+
+Dialog 523
+Word mean: 9.692307692307692
+User word mean: 6.615384615384615
+Bot word mean: 12.76923076923077
+Word std: 853.5384615384617
+User word std: 165.0769230769231
+Bot word std: 442.30769230769226
+
+Dialog 524
+Word mean: 8.416666666666666
+User word mean: 6.416666666666667
+Bot word mean: 10.416666666666666
+Word std: 473.83333333333326
+User word std: 80.91666666666664
+Bot word std: 296.91666666666663
+
+Dialog 525
+Word mean: 9.136363636363637
+User word mean: 6.7272727272727275
+Bot word mean: 11.545454545454545
+Word std: 618.5909090909092
+User word std: 142.18181818181822
+Bot word std: 348.7272727272727
+
+Dialog 526
+Word mean: 9.0
+User word mean: 6.538461538461538
+Bot word mean: 11.461538461538462
+Word std: 762.0
+User word std: 145.2307692307692
+Bot word std: 459.23076923076917
+
+Dialog 527
+Word mean: 9.458333333333334
+User word mean: 6.75
+Bot word mean: 12.166666666666666
+Word std: 687.9583333333336
+User word std: 104.25
+Bot word std: 407.66666666666663
+
+Dialog 528
+Word mean: 8.35
+User word mean: 6.0
+Bot word mean: 10.7
+Word std: 478.55000000000007
+User word std: 76.0
+Bot word std: 292.1
+
+Dialog 529
+Word mean: 8.363636363636363
+User word mean: 6.545454545454546
+Bot word mean: 10.181818181818182
+Word std: 559.0909090909091
+User word std: 180.7272727272727
+Bot word std: 305.6363636363637
+
+Dialog 530
+Word mean: 9.392857142857142
+User word mean: 7.5
+Bot word mean: 11.285714285714286
+Word std: 764.6785714285717
+User word std: 217.5
+Bot word std: 446.8571428571429
+
+Dialog 531
+Word mean: 8.833333333333334
+User word mean: 6.583333333333333
+Bot word mean: 11.083333333333334
+Word std: 677.3333333333333
+User word std: 178.91666666666669
+Bot word std: 376.91666666666663
+
+Dialog 532
+Word mean: 9.538461538461538
+User word mean: 7.076923076923077
+Bot word mean: 12.0
+Word std: 772.4615384615383
+User word std: 204.9230769230769
+Bot word std: 410.0
+
+Dialog 533
+Word mean: 9.321428571428571
+User word mean: 7.142857142857143
+Bot word mean: 11.5
+Word std: 722.1071428571429
+User word std: 139.7142857142857
+Bot word std: 449.5
+
+Dialog 534
+Word mean: 9.214285714285714
+User word mean: 7.142857142857143
+Bot word mean: 11.285714285714286
+Word std: 754.7142857142858
+User word std: 169.71428571428572
+Bot word std: 464.8571428571429
+
+Dialog 535
+Word mean: 8.461538461538462
+User word mean: 6.230769230769231
+Bot word mean: 10.692307692307692
+Word std: 606.4615384615385
+User word std: 92.30769230769229
+Bot word std: 384.7692307692307
+
+Dialog 536
+Word mean: 8.818181818181818
+User word mean: 7.090909090909091
+Bot word mean: 10.545454545454545
+Word std: 497.2727272727273
+User word std: 142.9090909090909
+Bot word std: 288.72727272727275
+
+Dialog 537
+Word mean: 9.071428571428571
+User word mean: 6.857142857142857
+Bot word mean: 11.285714285714286
+Word std: 687.8571428571428
+User word std: 101.71428571428571
+Bot word std: 448.8571428571429
+
+Dialog 538
+Word mean: 8.636363636363637
+User word mean: 6.909090909090909
+Bot word mean: 10.363636363636363
+Word std: 525.090909090909
+User word std: 168.9090909090909
+Bot word std: 290.54545454545456
+
+Dialog 539
+Word mean: 8.607142857142858
+User word mean: 6.642857142857143
+Bot word mean: 10.571428571428571
+Word std: 656.6785714285713
+User word std: 145.2142857142857
+Bot word std: 403.42857142857144
+
+Dialog 540
+Word mean: 8.566666666666666
+User word mean: 6.6
+Bot word mean: 10.533333333333333
+Word std: 663.3666666666667
+User word std: 143.6
+Bot word std: 403.7333333333333
+
+Dialog 541
+Word mean: 9.0
+User word mean: 6.6
+Bot word mean: 11.4
+Word std: 728.0
+User word std: 111.6
+Bot word std: 443.59999999999997
+
+Dialog 542
+Word mean: 8.333333333333334
+User word mean: 6.666666666666667
+Bot word mean: 10.0
+Word std: 527.3333333333334
+User word std: 134.66666666666666
+Bot word std: 326.0
+
+Dialog 543
+Word mean: 9.533333333333333
+User word mean: 7.133333333333334
+Bot word mean: 11.933333333333334
+Word std: 803.4666666666666
+User word std: 147.73333333333335
+Bot word std: 482.93333333333334
+
+Dialog 544
+Word mean: 8.125
+User word mean: 5.916666666666667
+Bot word mean: 10.333333333333334
+Word std: 506.625
+User word std: 80.91666666666667
+Bot word std: 308.6666666666667
+
+Dialog 545
+Word mean: 8.227272727272727
+User word mean: 6.2727272727272725
+Bot word mean: 10.181818181818182
+Word std: 535.8636363636364
+User word std: 146.18181818181816
+Bot word std: 305.6363636363637
+
+Dialog 546
+Word mean: 8.772727272727273
+User word mean: 7.0
+Bot word mean: 10.545454545454545
+Word std: 483.8636363636363
+User word std: 120.0
+Bot word std: 294.72727272727275
+
+Dialog 547
+Word mean: 8.964285714285714
+User word mean: 6.428571428571429
+Bot word mean: 11.5
+Word std: 772.9642857142858
+User word std: 151.42857142857142
+Bot word std: 441.5
+
+Dialog 548
+Word mean: 9.291666666666666
+User word mean: 6.916666666666667
+Bot word mean: 11.666666666666666
+Word std: 772.9583333333333
+User word std: 202.9166666666667
+Bot word std: 434.66666666666663
+
+Dialog 549
+Word mean: 8.25
+User word mean: 6.428571428571429
+Bot word mean: 10.071428571428571
+Word std: 491.25
+User word std: 83.4285714285714
+Bot word std: 314.9285714285714
+
+Dialog 550
+Word mean: 9.0
+User word mean: 7.076923076923077
+Bot word mean: 10.923076923076923
+Word std: 652.0
+User word std: 174.92307692307693
+Bot word std: 380.9230769230769
+
+Dialog 551
+Word mean: 8.615384615384615
+User word mean: 7.0
+Bot word mean: 10.23076923076923
+Word std: 510.15384615384625
+User word std: 132.0
+Bot word std: 310.3076923076924
+
+Dialog 552
+Word mean: 9.133333333333333
+User word mean: 6.933333333333334
+Bot word mean: 11.333333333333334
+Word std: 701.4666666666667
+User word std: 106.93333333333337
+Bot word std: 449.33333333333337
+
+Dialog 553
+Word mean: 8.545454545454545
+User word mean: 6.545454545454546
+Bot word mean: 10.545454545454545
+Word std: 481.45454545454544
+User word std: 98.72727272727273
+Bot word std: 294.72727272727275
+
+Dialog 554
+Word mean: 9.375
+User word mean: 7.125
+Bot word mean: 11.625
+Word std: 885.5
+User word std: 195.75
+Bot word std: 527.75
+
+Dialog 555
+Word mean: 8.692307692307692
+User word mean: 6.615384615384615
+Bot word mean: 10.76923076923077
+Word std: 639.5384615384615
+User word std: 147.0769230769231
+Bot word std: 380.3076923076923
+
+Dialog 556
+Word mean: 8.96875
+User word mean: 6.875
+Bot word mean: 11.0625
+Word std: 748.96875
+User word std: 137.75
+Bot word std: 470.9375
+
+Dialog 557
+Word mean: 9.416666666666666
+User word mean: 6.833333333333333
+Bot word mean: 12.0
+Word std: 743.8333333333335
+User word std: 155.66666666666669
+Bot word std: 428.0
+
+Dialog 558
+Word mean: 8.666666666666666
+User word mean: 6.666666666666667
+Bot word mean: 10.666666666666666
+Word std: 552.0
+User word std: 194.0
+Bot word std: 286.00000000000006
+
+Dialog 559
+Word mean: 9.178571428571429
+User word mean: 6.714285714285714
+Bot word mean: 11.642857142857142
+Word std: 690.1071428571431
+User word std: 96.85714285714288
+Bot word std: 423.2142857142858
+
+Dialog 560
+Word mean: 9.461538461538462
+User word mean: 7.0
+Bot word mean: 11.923076923076923
+Word std: 682.4615384615383
+User word std: 108.0
+Bot word std: 416.9230769230769
+
+Dialog 561
+Word mean: 8.333333333333334
+User word mean: 6.416666666666667
+Bot word mean: 10.25
+Word std: 483.3333333333333
+User word std: 100.91666666666666
+Bot word std: 294.25
+
+Dialog 562
+Word mean: 8.428571428571429
+User word mean: 6.285714285714286
+Bot word mean: 10.571428571428571
+Word std: 596.8571428571428
+User word std: 80.85714285714286
+Bot word std: 387.42857142857144
+
+Dialog 563
+Word mean: 9.115384615384615
+User word mean: 6.538461538461538
+Bot word mean: 11.692307692307692
+Word std: 698.6538461538464
+User word std: 107.23076923076923
+Bot word std: 418.7692307692307
+
+Dialog 564
+Word mean: 8.214285714285714
+User word mean: 6.642857142857143
+Bot word mean: 9.785714285714286
+Word std: 516.7142857142858
+User word std: 117.21428571428572
+Bot word std: 330.35714285714283
+
+Dialog 565
+Word mean: 8.772727272727273
+User word mean: 7.0
+Bot word mean: 10.545454545454545
+Word std: 461.8636363636364
+User word std: 98.0
+Bot word std: 294.72727272727275
+
+Dialog 566
+Word mean: 9.884615384615385
+User word mean: 7.153846153846154
+Bot word mean: 12.615384615384615
+Word std: 778.6538461538461
+User word std: 139.6923076923077
+Bot word std: 445.07692307692304
+
+Dialog 567
+Word mean: 8.25
+User word mean: 6.25
+Bot word mean: 10.25
+Word std: 474.5
+User word std: 84.25
+Bot word std: 294.25
+
+Dialog 568
+Word mean: 9.235294117647058
+User word mean: 7.0588235294117645
+Bot word mean: 11.411764705882353
+Word std: 820.1176470588235
+User word std: 118.94117647058826
+Bot word std: 540.1176470588235
+
+Dialog 569
+Word mean: 8.307692307692308
+User word mean: 6.538461538461538
+Bot word mean: 10.076923076923077
+Word std: 503.5384615384616
+User word std: 107.23076923076923
+Bot word std: 314.9230769230769
+
+Dialog 570
+Word mean: 8.846153846153847
+User word mean: 5.923076923076923
+Bot word mean: 11.76923076923077
+Word std: 723.3846153846155
+User word std: 70.9230769230769
+Bot word std: 430.3076923076923
+
+Dialog 571
+Word mean: 8.928571428571429
+User word mean: 6.428571428571429
+Bot word mean: 11.428571428571429
+Word std: 705.8571428571428
+User word std: 83.42857142857143
+Bot word std: 447.4285714285714
+
+Dialog 572
+Word mean: 9.035714285714286
+User word mean: 6.857142857142857
+Bot word mean: 11.214285714285714
+Word std: 712.9642857142858
+User word std: 127.7142857142857
+Bot word std: 452.3571428571429
+
+Dialog 573
+Word mean: 8.045454545454545
+User word mean: 5.818181818181818
+Bot word mean: 10.272727272727273
+Word std: 498.9545454545454
+User word std: 77.63636363636364
+Bot word std: 312.18181818181813
+
+Dialog 574
+Word mean: 8.76923076923077
+User word mean: 6.538461538461538
+Bot word mean: 11.0
+Word std: 626.6153846153844
+User word std: 119.23076923076923
+Bot word std: 378.0
+
+Dialog 575
+Word mean: 8.571428571428571
+User word mean: 6.357142857142857
+Bot word mean: 10.785714285714286
+Word std: 578.8571428571429
+User word std: 73.21428571428572
+Bot word std: 368.35714285714283
+
+Dialog 576
+Word mean: 9.615384615384615
+User word mean: 7.3076923076923075
+Bot word mean: 11.923076923076923
+Word std: 706.153846153846
+User word std: 158.76923076923077
+Bot word std: 408.9230769230769
+
+Dialog 577
+Word mean: 9.4
+User word mean: 7.0
+Bot word mean: 11.8
+Word std: 624.8
+User word std: 168.0
+Bot word std: 341.59999999999997
+
+Dialog 578
+Word mean: 8.5
+User word mean: 6.5
+Bot word mean: 10.5
+Word std: 615.0
+User word std: 113.5
+Bot word std: 389.5
+
+Dialog 579
+Word mean: 9.066666666666666
+User word mean: 6.866666666666666
+Bot word mean: 11.266666666666667
+Word std: 695.8666666666667
+User word std: 97.73333333333333
+Bot word std: 452.93333333333334
+
+Dialog 580
+Word mean: 8.884615384615385
+User word mean: 6.153846153846154
+Bot word mean: 11.615384615384615
+Word std: 732.6538461538461
+User word std: 97.69230769230768
+Bot word std: 441.07692307692304
+
+Dialog 581
+Word mean: 9.818181818181818
+User word mean: 7.090909090909091
+Bot word mean: 12.545454545454545
+Word std: 743.2727272727273
+User word std: 190.9090909090909
+Bot word std: 388.72727272727275
+
+Dialog 582
+Word mean: 9.818181818181818
+User word mean: 7.2727272727272725
+Bot word mean: 12.363636363636363
+Word std: 683.2727272727273
+User word std: 150.18181818181816
+Bot word std: 390.5454545454545
+
+Dialog 583
+Word mean: 9.23076923076923
+User word mean: 6.6923076923076925
+Bot word mean: 11.76923076923077
+Word std: 730.6153846153846
+User word std: 150.76923076923077
+Bot word std: 412.30769230769226
+
+Dialog 584
+Word mean: 8.583333333333334
+User word mean: 6.0
+Bot word mean: 11.166666666666666
+Word std: 631.8333333333335
+User word std: 98.0
+Bot word std: 373.66666666666663
+
+Dialog 585
+Word mean: 8.590909090909092
+User word mean: 7.090909090909091
+Bot word mean: 10.090909090909092
+Word std: 595.3181818181816
+User word std: 238.90909090909096
+Bot word std: 306.9090909090909
+
+Dialog 586
+Word mean: 8.954545454545455
+User word mean: 7.181818181818182
+Bot word mean: 10.727272727272727
+Word std: 560.9545454545455
+User word std: 197.63636363636363
+Bot word std: 294.1818181818182
+
+Dialog 587
+Word mean: 9.533333333333333
+User word mean: 7.266666666666667
+Bot word mean: 11.8
+Word std: 879.4666666666667
+User word std: 222.9333333333334
+Bot word std: 502.3999999999999
+
+Dialog 588
+Word mean: 8.178571428571429
+User word mean: 6.5
+Bot word mean: 9.857142857142858
+Word std: 504.10714285714295
+User word std: 113.5
+Bot word std: 311.7142857142858
+
+Dialog 589
+Word mean: 8.272727272727273
+User word mean: 6.545454545454546
+Bot word mean: 10.0
+Word std: 500.36363636363643
+User word std: 124.72727272727273
+Bot word std: 310.0
+
+Dialog 590
+Word mean: 8.5
+User word mean: 6.5
+Bot word mean: 10.5
+Word std: 565.0
+User word std: 178.5
+Bot word std: 306.5
+
+Dialog 591
+Word mean: 8.5
+User word mean: 6.153846153846154
+Bot word mean: 10.846153846153847
+Word std: 594.5
+User word std: 65.6923076923077
+Bot word std: 385.6923076923077
+
+Dialog 592
+Word mean: 8.681818181818182
+User word mean: 7.0
+Bot word mean: 10.363636363636363
+Word std: 556.7727272727274
+User word std: 186.0
+Bot word std: 308.54545454545456
+
+Dialog 593
+Word mean: 8.227272727272727
+User word mean: 6.181818181818182
+Bot word mean: 10.272727272727273
+Word std: 501.86363636363643
+User word std: 115.63636363636363
+Bot word std: 294.1818181818182
+
+Dialog 594
+Word mean: 9.375
+User word mean: 6.583333333333333
+Bot word mean: 12.166666666666666
+Word std: 753.625
+User word std: 166.9166666666667
+Bot word std: 399.66666666666663
+
+Dialog 595
+Word mean: 8.5
+User word mean: 7.076923076923077
+Bot word mean: 9.923076923076923
+Word std: 534.5
+User word std: 154.92307692307696
+Bot word std: 326.9230769230769
+
+Dialog 596
+Word mean: 8.65
+User word mean: 6.9
+Bot word mean: 10.4
+Word std: 502.54999999999995
+User word std: 136.9
+Bot word std: 304.4
+
+Dialog 597
+Word mean: 9.307692307692308
+User word mean: 6.923076923076923
+Bot word mean: 11.692307692307692
+Word std: 683.5384615384614
+User word std: 92.9230769230769
+Bot word std: 442.7692307692307
+
+Dialog 598
+Word mean: 9.433333333333334
+User word mean: 7.066666666666666
+Bot word mean: 11.8
+Word std: 883.3666666666669
+User word std: 212.93333333333325
+Bot word std: 502.3999999999999
+
+Dialog 599
+Word mean: 8.678571428571429
+User word mean: 6.642857142857143
+Bot word mean: 10.714285714285714
+Word std: 592.107142857143
+User word std: 87.21428571428571
+Bot word std: 388.8571428571429
+
+Dialog 600
+Word mean: 8.958333333333334
+User word mean: 7.0
+Bot word mean: 10.916666666666666
+Word std: 638.9583333333335
+User word std: 170.0
+Bot word std: 376.91666666666663
+
+Dialog 601
+Word mean: 9.142857142857142
+User word mean: 6.785714285714286
+Bot word mean: 11.5
+Word std: 677.4285714285713
+User word std: 78.35714285714285
+Bot word std: 443.5
+
+Dialog 602
+Word mean: 9.294117647058824
+User word mean: 7.117647058823529
+Bot word mean: 11.470588235294118
+Word std: 801.0588235294118
+User word std: 121.76470588235291
+Bot word std: 518.235294117647
+
+Dialog 603
+Word mean: 8.863636363636363
+User word mean: 6.545454545454546
+Bot word mean: 11.181818181818182
+Word std: 606.5909090909092
+User word std: 128.72727272727275
+Bot word std: 359.6363636363637
+
+Dialog 604
+Word mean: 8.55
+User word mean: 6.9
+Bot word mean: 10.2
+Word std: 544.9499999999999
+User word std: 184.9
+Bot word std: 305.6
+
+Dialog 605
+Word mean: 8.791666666666666
+User word mean: 7.166666666666667
+Bot word mean: 10.416666666666666
+Word std: 481.95833333333326
+User word std: 121.66666666666667
+Bot word std: 296.91666666666663
+
+Dialog 606
+Word mean: 9.357142857142858
+User word mean: 7.214285714285714
+Bot word mean: 11.5
+Word std: 774.4285714285713
+User word std: 204.35714285714283
+Bot word std: 441.5
+
+Dialog 607
+Word mean: 8.23076923076923
+User word mean: 6.538461538461538
+Bot word mean: 9.923076923076923
+Word std: 558.6153846153848
+User word std: 157.23076923076923
+Bot word std: 326.9230769230769
+
+Dialog 608
+Word mean: 9.181818181818182
+User word mean: 7.0
+Bot word mean: 11.363636363636363
+Word std: 655.2727272727273
+User word std: 176.0
+Bot word std: 374.54545454545456
+
+Dialog 609
+Word mean: 8.9375
+User word mean: 6.6875
+Bot word mean: 11.1875
+Word std: 703.875
+User word std: 87.4375
+Bot word std: 454.4375
+
+Dialog 610
+Word mean: 9.285714285714286
+User word mean: 7.071428571428571
+Bot word mean: 11.5
+Word std: 711.7142857142858
+User word std: 124.92857142857143
+Bot word std: 449.5
+
+Dialog 611
+Word mean: 9.107142857142858
+User word mean: 6.642857142857143
+Bot word mean: 11.571428571428571
+Word std: 730.6785714285713
+User word std: 123.21428571428571
+Bot word std: 437.42857142857144
+
+Dialog 612
+Word mean: 8.75
+User word mean: 6.5625
+Bot word mean: 10.9375
+Word std: 738.0
+User word std: 105.9375
+Bot word std: 478.9375
+
+Dialog 613
+Word mean: 9.538461538461538
+User word mean: 7.3076923076923075
+Bot word mean: 11.76923076923077
+Word std: 736.4615384615383
+User word std: 170.7692307692308
+Bot word std: 436.30769230769226
+
+Dialog 614
+Word mean: 8.833333333333334
+User word mean: 6.6
+Bot word mean: 11.066666666666666
+Word std: 712.1666666666666
+User word std: 87.6
+Bot word std: 474.93333333333334
+
+Dialog 615
+Word mean: 8.590909090909092
+User word mean: 6.7272727272727275
+Bot word mean: 10.454545454545455
+Word std: 523.3181818181819
+User word std: 158.18181818181816
+Bot word std: 288.7272727272727
+
+Dialog 616
+Word mean: 8.966666666666667
+User word mean: 6.6
+Bot word mean: 11.333333333333334
+Word std: 698.9666666666667
+User word std: 81.6
+Bot word std: 449.33333333333337
+
+Dialog 617
+Word mean: 9.833333333333334
+User word mean: 6.75
+Bot word mean: 12.916666666666666
+Word std: 783.3333333333336
+User word std: 124.25
+Bot word std: 430.91666666666663
+
+Dialog 618
+Word mean: 9.857142857142858
+User word mean: 6.857142857142857
+Bot word mean: 12.857142857142858
+Word std: 891.4285714285714
+User word std: 123.71428571428568
+Bot word std: 515.7142857142858
+
+Dialog 619
+Word mean: 8.384615384615385
+User word mean: 6.769230769230769
+Bot word mean: 10.0
+Word std: 538.1538461538462
+User word std: 162.30769230769224
+Bot word std: 308.0
+
+Dialog 620
+Word mean: 8.961538461538462
+User word mean: 6.3076923076923075
+Bot word mean: 11.615384615384615
+Word std: 714.9615384615382
+User word std: 90.76923076923077
+Bot word std: 441.07692307692304
+
+Dialog 621
+Word mean: 9.307692307692308
+User word mean: 6.6923076923076925
+Bot word mean: 11.923076923076923
+Word std: 701.5384615384615
+User word std: 112.76923076923076
+Bot word std: 410.9230769230769
+
+Dialog 622
+Word mean: 9.346153846153847
+User word mean: 7.0
+Bot word mean: 11.692307692307692
+Word std: 789.8846153846154
+User word std: 230.0
+Bot word std: 416.7692307692307
+
+Dialog 623
+Word mean: 8.208333333333334
+User word mean: 6.333333333333333
+Bot word mean: 10.083333333333334
+Word std: 517.9583333333334
+User word std: 126.66666666666669
+Bot word std: 306.91666666666663
+
+Dialog 624
+Word mean: 8.863636363636363
+User word mean: 7.090909090909091
+Bot word mean: 10.636363636363637
+Word std: 538.5909090909091
+User word std: 178.909090909091
+Bot word std: 290.5454545454545
+
+Dialog 625
+Word mean: 8.333333333333334
+User word mean: 6.166666666666667
+Bot word mean: 10.5
+Word std: 485.3333333333333
+User word std: 77.66666666666666
+Bot word std: 295.0
+
+Dialog 626
+Word mean: 8.392857142857142
+User word mean: 6.071428571428571
+Bot word mean: 10.714285714285714
+Word std: 616.6785714285712
+User word std: 76.92857142857146
+Bot word std: 388.85714285714283
+
+Dialog 627
+Word mean: 8.95
+User word mean: 7.0
+Bot word mean: 10.9
+Word std: 556.9499999999999
+User word std: 190.0
+Bot word std: 290.9
+
+Dialog 628
+Word mean: 9.266666666666667
+User word mean: 6.333333333333333
+Bot word mean: 12.2
+Word std: 773.8666666666666
+User word std: 47.33333333333333
+Bot word std: 468.4
+
+Dialog 629
+Word mean: 8.285714285714286
+User word mean: 6.5
+Bot word mean: 10.071428571428571
+Word std: 477.7142857142857
+User word std: 73.5
+Bot word std: 314.9285714285714
+
+Dialog 630
+Word mean: 9.115384615384615
+User word mean: 6.846153846153846
+Bot word mean: 11.384615384615385
+Word std: 720.6538461538463
+User word std: 139.69230769230768
+Bot word std: 447.07692307692304
+
+Dialog 631
+Word mean: 8.958333333333334
+User word mean: 6.0
+Bot word mean: 11.916666666666666
+Word std: 766.9583333333335
+User word std: 130.0
+Bot word std: 426.9166666666667
+
+Dialog 632
+Word mean: 9.055555555555555
+User word mean: 7.0
+Bot word mean: 11.11111111111111
+Word std: 544.9444444444445
+User word std: 182.0
+Bot word std: 286.8888888888889
+
+Dialog 633
+Word mean: 9.285714285714286
+User word mean: 6.785714285714286
+Bot word mean: 11.785714285714286
+Word std: 711.7142857142858
+User word std: 124.35714285714288
+Bot word std: 412.35714285714283
+
+Dialog 634
+Word mean: 8.409090909090908
+User word mean: 6.454545454545454
+Bot word mean: 10.363636363636363
+Word std: 481.31818181818187
+User word std: 80.72727272727273
+Bot word std: 316.54545454545456
+
+Dialog 635
+Word mean: 8.923076923076923
+User word mean: 6.230769230769231
+Bot word mean: 11.615384615384615
+Word std: 745.8461538461538
+User word std: 116.3076923076923
+Bot word std: 441.07692307692304
+
+Dialog 636
+Word mean: 8.538461538461538
+User word mean: 7.076923076923077
+Bot word mean: 10.0
+Word std: 530.4615384615386
+User word std: 166.9230769230769
+Bot word std: 308.0
+
+Dialog 637
+Word mean: 9.461538461538462
+User word mean: 7.076923076923077
+Bot word mean: 11.846153846153847
+Word std: 690.4615384615385
+User word std: 132.9230769230769
+Bot word std: 409.6923076923076
+
+Dialog 638
+Word mean: 8.666666666666666
+User word mean: 6.222222222222222
+Bot word mean: 11.11111111111111
+Word std: 550.0000000000002
+User word std: 155.55555555555557
+Bot word std: 286.8888888888889
+
+Dialog 639
+Word mean: 8.666666666666666
+User word mean: 6.75
+Bot word mean: 10.583333333333334
+Word std: 503.33333333333337
+User word std: 124.25
+Bot word std: 290.9166666666667
+
+Dialog 640
+Word mean: 9.166666666666666
+User word mean: 6.5
+Bot word mean: 11.833333333333334
+Word std: 705.3333333333335
+User word std: 119.0
+Bot word std: 415.66666666666663
+
+Dialog 641
+Word mean: 8.892857142857142
+User word mean: 6.5
+Bot word mean: 11.285714285714286
+Word std: 718.6785714285714
+User word std: 109.5
+Bot word std: 448.8571428571429
+
+Dialog 642
+Word mean: 8.875
+User word mean: 6.416666666666667
+Bot word mean: 11.333333333333334
+Word std: 582.625
+User word std: 80.91666666666669
+Bot word std: 356.66666666666663
+
+Dialog 643
+Word mean: 8.791666666666666
+User word mean: 7.333333333333333
+Bot word mean: 10.25
+Word std: 523.9583333333333
+User word std: 162.66666666666669
+Bot word std: 310.25
+
+Dialog 644
+Word mean: 8.25
+User word mean: 6.333333333333333
+Bot word mean: 10.166666666666666
+Word std: 492.5
+User word std: 90.66666666666666
+Bot word std: 313.66666666666663
+
+Dialog 645
+Word mean: 9.25
+User word mean: 6.833333333333333
+Bot word mean: 11.666666666666666
+Word std: 764.5
+User word std: 189.66666666666663
+Bot word std: 434.66666666666663
+
+Dialog 646
+Word mean: 8.041666666666666
+User word mean: 5.75
+Bot word mean: 10.333333333333334
+Word std: 512.9583333333334
+User word std: 78.25
+Bot word std: 308.6666666666667
+
+Dialog 647
+Word mean: 9.566666666666666
+User word mean: 6.6
+Bot word mean: 12.533333333333333
+Word std: 943.3666666666666
+User word std: 145.6
+Bot word std: 533.7333333333333
+
+Dialog 648
+Word mean: 8.966666666666667
+User word mean: 6.6
+Bot word mean: 11.333333333333334
+Word std: 694.9666666666667
+User word std: 95.60000000000001
+Bot word std: 431.33333333333337
+
+Dialog 649
+Word mean: 9.0
+User word mean: 7.0
+Bot word mean: 11.0
+Word std: 714.0
+User word std: 128.0
+Bot word std: 458.0
+
+Dialog 650
+Word mean: 8.115384615384615
+User word mean: 6.3076923076923075
+Bot word mean: 9.923076923076923
+Word std: 484.65384615384596
+User word std: 88.76923076923077
+Bot word std: 310.9230769230769
+
+Dialog 651
+Word mean: 9.035714285714286
+User word mean: 6.785714285714286
+Bot word mean: 11.285714285714286
+Word std: 742.9642857142858
+User word std: 136.3571428571429
+Bot word std: 464.8571428571429
+
+Dialog 652
+Word mean: 9.428571428571429
+User word mean: 7.357142857142857
+Bot word mean: 11.5
+Word std: 758.857142857143
+User word std: 197.2142857142857
+Bot word std: 441.5
+
+Dialog 653
+Word mean: 8.192307692307692
+User word mean: 6.538461538461538
+Bot word mean: 9.846153846153847
+Word std: 482.0384615384615
+User word std: 99.23076923076924
+Bot word std: 311.69230769230774
+
+Dialog 654
+Word mean: 8.833333333333334
+User word mean: 6.333333333333333
+Bot word mean: 11.333333333333334
+Word std: 702.1666666666665
+User word std: 65.33333333333333
+Bot word std: 449.33333333333337
+
+Dialog 655
+Word mean: 9.26923076923077
+User word mean: 7.615384615384615
+Bot word mean: 10.923076923076923
+Word std: 639.1153846153848
+User word std: 187.0769230769231
+Bot word std: 380.9230769230769
+
+Dialog 656
+Word mean: 9.066666666666666
+User word mean: 6.8
+Bot word mean: 11.333333333333334
+Word std: 693.8666666666667
+User word std: 108.4
+Bot word std: 431.33333333333337
+
+Dialog 657
+Word mean: 8.9
+User word mean: 6.666666666666667
+Bot word mean: 11.133333333333333
+Word std: 718.6999999999999
+User word std: 115.33333333333334
+Bot word std: 453.73333333333335
+
+Dialog 658
+Word mean: 8.954545454545455
+User word mean: 7.181818181818182
+Bot word mean: 10.727272727272727
+Word std: 556.9545454545456
+User word std: 193.63636363636365
+Bot word std: 294.1818181818182
+
+Dialog 659
+Word mean: 8.178571428571429
+User word mean: 6.5
+Bot word mean: 9.857142857142858
+Word std: 482.10714285714295
+User word std: 91.5
+Bot word std: 311.7142857142858
+
+Dialog 660
+Word mean: 9.033333333333333
+User word mean: 6.8
+Bot word mean: 11.266666666666667
+Word std: 698.9666666666665
+User word std: 96.4
+Bot word std: 452.93333333333334
+
+Dialog 661
+Word mean: 8.785714285714286
+User word mean: 6.571428571428571
+Bot word mean: 11.0
+Word std: 600.7142857142856
+User word std: 97.42857142857142
+Bot word std: 366.0
+
+Dialog 662
+Word mean: 9.125
+User word mean: 7.083333333333333
+Bot word mean: 11.166666666666666
+Word std: 676.625
+User word std: 196.91666666666674
+Bot word std: 379.6666666666667
+
+Dialog 663
+Word mean: 8.409090909090908
+User word mean: 6.545454545454546
+Bot word mean: 10.272727272727273
+Word std: 483.31818181818187
+User word std: 112.72727272727273
+Bot word std: 294.1818181818182
+
+Dialog 664
+Word mean: 9.25
+User word mean: 7.6
+Bot word mean: 10.9
+Word std: 541.75
+User word std: 196.4
+Bot word std: 290.9
+
+Dialog 665
+Word mean: 8.153846153846153
+User word mean: 6.153846153846154
+Bot word mean: 10.153846153846153
+Word std: 465.38461538461536
+User word std: 65.69230769230768
+Bot word std: 295.69230769230774
+
+Dialog 666
+Word mean: 8.363636363636363
+User word mean: 6.636363636363637
+Bot word mean: 10.090909090909092
+Word std: 559.090909090909
+User word std: 168.54545454545453
+Bot word std: 324.90909090909093
+
+Dialog 667
+Word mean: 9.26923076923077
+User word mean: 6.846153846153846
+Bot word mean: 11.692307692307692
+Word std: 705.1153846153848
+User word std: 109.69230769230768
+Bot word std: 442.7692307692307
+
+Dialog 668
+Word mean: 8.9
+User word mean: 6.533333333333333
+Bot word mean: 11.266666666666667
+Word std: 714.6999999999999
+User word std: 93.73333333333333
+Bot word std: 452.93333333333334
+
+Dialog 669
+Word mean: 9.0
+User word mean: 6.833333333333333
+Bot word mean: 11.166666666666666
+Word std: 680.0
+User word std: 187.66666666666669
+Bot word std: 379.6666666666667
+
+Dialog 670
+Word mean: 9.321428571428571
+User word mean: 7.357142857142857
+Bot word mean: 11.285714285714286
+Word std: 744.1071428571427
+User word std: 189.2142857142857
+Bot word std: 446.8571428571429
+
+Dialog 671
+Word mean: 8.576923076923077
+User word mean: 7.0
+Bot word mean: 10.153846153846153
+Word std: 522.3461538461538
+User word std: 138.0
+Bot word std: 319.69230769230774
+
+Dialog 672
+Word mean: 9.0
+User word mean: 6.466666666666667
+Bot word mean: 11.533333333333333
+Word std: 704.0
+User word std: 85.73333333333332
+Bot word std: 425.7333333333333
+
+Dialog 673
+Word mean: 9.285714285714286
+User word mean: 7.214285714285714
+Bot word mean: 11.357142857142858
+Word std: 727.7142857142859
+User word std: 164.35714285714283
+Bot word std: 443.21428571428567
+
+Dialog 674
+Word mean: 9.235294117647058
+User word mean: 6.9411764705882355
+Bot word mean: 11.529411764705882
+Word std: 852.1176470588238
+User word std: 142.9411764705883
+Bot word std: 530.2352941176472
+
+Dialog 675
+Word mean: 8.958333333333334
+User word mean: 6.833333333333333
+Bot word mean: 11.083333333333334
+Word std: 650.9583333333334
+User word std: 183.66666666666663
+Bot word std: 358.9166666666667
+
+Dialog 676
+Word mean: 9.357142857142858
+User word mean: 7.0
+Bot word mean: 11.714285714285714
+Word std: 700.4285714285714
+User word std: 120.0
+Bot word std: 424.8571428571429
+
+Dialog 677
+Word mean: 8.545454545454545
+User word mean: 6.7272727272727275
+Bot word mean: 10.363636363636363
+Word std: 553.4545454545455
+User word std: 190.18181818181816
+Bot word std: 290.54545454545456
+
+Dialog 678
+Word mean: 8.227272727272727
+User word mean: 6.2727272727272725
+Bot word mean: 10.181818181818182
+Word std: 521.8636363636364
+User word std: 132.18181818181816
+Bot word std: 305.6363636363637
+
+Dialog 679
+Word mean: 8.633333333333333
+User word mean: 6.866666666666666
+Bot word mean: 10.4
+Word std: 608.9666666666668
+User word std: 105.73333333333333
+Bot word std: 409.6
+
+Dialog 680
+Word mean: 8.777777777777779
+User word mean: 6.888888888888889
+Bot word mean: 10.666666666666666
+Word std: 559.1111111111111
+User word std: 208.88888888888889
+Bot word std: 286.00000000000006
+
+Dialog 681
+Word mean: 9.25
+User word mean: 6.8
+Bot word mean: 11.7
+Word std: 579.75
+User word std: 117.6
+Bot word std: 342.1
+
+Dialog 682
+Word mean: 8.566666666666666
+User word mean: 6.733333333333333
+Bot word mean: 10.4
+Word std: 629.3666666666667
+User word std: 118.93333333333337
+Bot word std: 409.6
+
+Dialog 683
+Word mean: 8.464285714285714
+User word mean: 6.428571428571429
+Bot word mean: 10.5
+Word std: 610.9642857142859
+User word std: 87.42857142857142
+Bot word std: 407.5
+
+Dialog 684
+Word mean: 8.285714285714286
+User word mean: 6.5
+Bot word mean: 10.071428571428571
+Word std: 489.7142857142857
+User word std: 85.5
+Bot word std: 314.9285714285714
+
+Dialog 685
+Word mean: 8.65
+User word mean: 6.5
+Bot word mean: 10.8
+Word std: 508.55000000000007
+User word std: 128.5
+Bot word std: 287.6
+
+Dialog 686
+Word mean: 9.038461538461538
+User word mean: 6.6923076923076925
+Bot word mean: 11.384615384615385
+Word std: 702.9615384615385
+User word std: 112.76923076923076
+Bot word std: 447.07692307692304
+
+Dialog 687
+Word mean: 9.46875
+User word mean: 7.125
+Bot word mean: 11.8125
+Word std: 807.96875
+User word std: 121.75
+Bot word std: 510.4375
+
+Dialog 688
+Word mean: 8.9
+User word mean: 6.466666666666667
+Bot word mean: 11.333333333333334
+Word std: 714.6999999999998
+User word std: 105.73333333333332
+Bot word std: 431.33333333333337
+
+Dialog 689
+Word mean: 8.6
+User word mean: 6.6
+Bot word mean: 10.6
+Word std: 524.8
+User word std: 158.4
+Bot word std: 286.4
+
+Dialog 690
+Word mean: 9.25
+User word mean: 6.7
+Bot word mean: 11.8
+Word std: 645.75
+User word std: 174.10000000000002
+Bot word std: 341.59999999999997
+
+Dialog 691
+Word mean: 9.818181818181818
+User word mean: 7.090909090909091
+Bot word mean: 12.545454545454545
+Word std: 747.2727272727274
+User word std: 194.90909090909093
+Bot word std: 388.72727272727275
+
+Dialog 692
+Word mean: 8.461538461538462
+User word mean: 7.076923076923077
+Bot word mean: 9.846153846153847
+Word std: 504.4615384615384
+User word std: 142.92307692307693
+Bot word std: 311.69230769230774
+
+Dialog 693
+Word mean: 9.272727272727273
+User word mean: 6.909090909090909
+Bot word mean: 11.636363636363637
+Word std: 672.3636363636364
+User word std: 198.90909090909085
+Bot word std: 350.54545454545456
+
+Dialog 694
+Word mean: 8.423076923076923
+User word mean: 6.6923076923076925
+Bot word mean: 10.153846153846153
+Word std: 484.34615384615387
+User word std: 110.76923076923076
+Bot word std: 295.69230769230774
+
+Dialog 695
+Word mean: 8.75
+User word mean: 6.142857142857143
+Bot word mean: 11.357142857142858
+Word std: 761.25
+User word std: 109.71428571428575
+Bot word std: 461.21428571428567
+
+Dialog 696
+Word mean: 8.666666666666666
+User word mean: 6.0
+Bot word mean: 11.333333333333334
+Word std: 595.3333333333335
+User word std: 68.0
+Bot word std: 356.66666666666663
+
+Dialog 697
+Word mean: 8.954545454545455
+User word mean: 6.7272727272727275
+Bot word mean: 11.181818181818182
+Word std: 582.9545454545455
+User word std: 114.18181818181819
+Bot word std: 359.6363636363637
+
+Dialog 698
+Word mean: 9.5
+User word mean: 6.75
+Bot word mean: 12.25
+Word std: 748.0
+User word std: 166.25
+Bot word std: 400.25
+
+Dialog 699
+Word mean: 9.176470588235293
+User word mean: 6.823529411764706
+Bot word mean: 11.529411764705882
+Word std: 846.9411764705884
+User word std: 128.47058823529412
+Bot word std: 530.2352941176472
+
+Dialog 700
+Word mean: 9.461538461538462
+User word mean: 7.461538461538462
+Bot word mean: 11.461538461538462
+Word std: 744.4615384615385
+User word std: 199.23076923076923
+Bot word std: 441.2307692307692
+
+Dialog 701
+Word mean: 8.153846153846153
+User word mean: 6.076923076923077
+Bot word mean: 10.23076923076923
+Word std: 535.3846153846154
+User word std: 112.9230769230769
+Bot word std: 310.3076923076924
+
+Dialog 702
+Word mean: 8.76923076923077
+User word mean: 6.6923076923076925
+Bot word mean: 10.846153846153847
+Word std: 606.6153846153844
+User word std: 108.76923076923075
+Bot word std: 385.6923076923077
+
+Dialog 703
+Word mean: 9.23076923076923
+User word mean: 7.538461538461538
+Bot word mean: 10.923076923076923
+Word std: 662.6153846153846
+User word std: 207.23076923076925
+Bot word std: 380.9230769230769
+
+Dialog 704
+Word mean: 9.8
+User word mean: 6.866666666666666
+Bot word mean: 12.733333333333333
+Word std: 932.8000000000001
+User word std: 171.73333333333335
+Bot word std: 502.9333333333333
+
+Dialog 705
+Word mean: 9.0
+User word mean: 6.384615384615385
+Bot word mean: 11.615384615384615
+Word std: 696.0
+User word std: 95.07692307692308
+Bot word std: 423.0769230769231
+
+Dialog 706
+Word mean: 9.375
+User word mean: 6.916666666666667
+Bot word mean: 11.833333333333334
+Word std: 705.625
+User word std: 132.91666666666666
+Bot word std: 427.66666666666663
+
+Dialog 707
+Word mean: 9.214285714285714
+User word mean: 6.857142857142857
+Bot word mean: 11.571428571428571
+Word std: 722.7142857142857
+User word std: 129.71428571428572
+Bot word std: 437.42857142857144
+
+Dialog 708
+Word mean: 8.84375
+User word mean: 6.75
+Bot word mean: 10.9375
+Word std: 722.21875
+User word std: 103.0
+Bot word std: 478.9375
+
+Dialog 709
+Word mean: 9.34375
+User word mean: 6.6875
+Bot word mean: 12.0
+Word std: 795.21875
+User word std: 91.4375
+Bot word std: 478.0
+
+Dialog 710
+Word mean: 9.208333333333334
+User word mean: 6.75
+Bot word mean: 11.666666666666666
+Word std: 785.9583333333333
+User word std: 206.25
+Bot word std: 434.66666666666663
+
+Dialog 711
+Word mean: 8.5
+User word mean: 6.7272727272727275
+Bot word mean: 10.272727272727273
+Word std: 475.5
+User word std: 94.18181818181817
+Bot word std: 312.18181818181813
+
+Dialog 712
+Word mean: 9.0
+User word mean: 6.866666666666666
+Bot word mean: 11.133333333333333
+Word std: 770.0
+User word std: 163.73333333333335
+Bot word std: 469.73333333333335
+
+Dialog 713
+Word mean: 8.461538461538462
+User word mean: 6.923076923076923
+Bot word mean: 10.0
+Word std: 542.4615384615385
+User word std: 172.9230769230769
+Bot word std: 308.0
+
+Dialog 714
+Word mean: 8.96875
+User word mean: 6.75
+Bot word mean: 11.1875
+Word std: 690.96875
+User word std: 79.0
+Bot word std: 454.4375
+
+Dialog 715
+Word mean: 8.722222222222221
+User word mean: 6.777777777777778
+Bot word mean: 10.666666666666666
+Word std: 545.6111111111112
+User word std: 191.5555555555555
+Bot word std: 286.00000000000006
+
+Dialog 716
+Word mean: 9.428571428571429
+User word mean: 7.571428571428571
+Bot word mean: 11.285714285714286
+Word std: 760.857142857143
+User word std: 217.4285714285714
+Bot word std: 446.8571428571429
+
+Dialog 717
+Word mean: 9.791666666666666
+User word mean: 6.583333333333333
+Bot word mean: 13.0
+Word std: 855.9583333333337
+User word std: 180.9166666666667
+Bot word std: 428.0
+
+Dialog 718
+Word mean: 8.821428571428571
+User word mean: 6.285714285714286
+Bot word mean: 11.357142857142858
+Word std: 770.107142857143
+User word std: 128.85714285714286
+Bot word std: 461.21428571428567
+
+Dialog 719
+Word mean: 9.285714285714286
+User word mean: 7.142857142857143
+Bot word mean: 11.428571428571429
+Word std: 711.7142857142857
+User word std: 141.71428571428572
+Bot word std: 441.42857142857144
+
+Dialog 720
+Word mean: 8.875
+User word mean: 6.6875
+Bot word mean: 11.0625
+Word std: 753.5
+User word std: 129.4375
+Bot word std: 470.9375
+
+Dialog 721
+Word mean: 9.166666666666666
+User word mean: 7.166666666666667
+Bot word mean: 11.166666666666666
+Word std: 653.3333333333335
+User word std: 177.66666666666666
+Bot word std: 379.6666666666667
+
+Dialog 722
+Word mean: 9.4
+User word mean: 6.9
+Bot word mean: 11.9
+Word std: 664.8000000000001
+User word std: 196.9
+Bot word std: 342.90000000000003
+
+Dialog 723
+Word mean: 8.571428571428571
+User word mean: 6.428571428571429
+Bot word mean: 10.714285714285714
+Word std: 604.8571428571429
+User word std: 87.42857142857143
+Bot word std: 388.85714285714283
+
+Dialog 724
+Word mean: 9.461538461538462
+User word mean: 7.3076923076923075
+Bot word mean: 11.615384615384615
+Word std: 700.4615384615383
+User word std: 144.76923076923077
+Bot word std: 435.0769230769231
+
+Dialog 725
+Word mean: 9.3125
+User word mean: 6.875
+Bot word mean: 11.75
+Word std: 828.875
+User word std: 129.75
+Bot word std: 509.0
+
+Dialog 726
+Word mean: 9.5
+User word mean: 6.857142857142857
+Bot word mean: 12.142857142857142
+Word std: 773.0
+User word std: 85.71428571428571
+Bot word std: 491.7142857142857
+
+Dialog 727
+Word mean: 8.75
+User word mean: 6.7
+Bot word mean: 10.8
+Word std: 493.75
+User word std: 114.1
+Bot word std: 295.6
+
+Dialog 728
+Word mean: 9.285714285714286
+User word mean: 7.357142857142857
+Bot word mean: 11.214285714285714
+Word std: 687.7142857142858
+User word std: 131.21428571428572
+Bot word std: 452.3571428571429
+
+Dialog 729
+Word mean: 9.538461538461538
+User word mean: 7.461538461538462
+Bot word mean: 11.615384615384615
+Word std: 690.4615384615383
+User word std: 143.23076923076923
+Bot word std: 435.0769230769231
+
+Dialog 730
+Word mean: 8.423076923076923
+User word mean: 7.0
+Bot word mean: 9.846153846153847
+Word std: 472.34615384615387
+User word std: 108.0
+Bot word std: 311.69230769230774
+
+Dialog 731
+Word mean: 9.909090909090908
+User word mean: 7.454545454545454
+Bot word mean: 12.363636363636363
+Word std: 673.818181818182
+User word std: 150.72727272727272
+Bot word std: 390.5454545454545
+
+Dialog 732
+Word mean: 9.0625
+User word mean: 6.9375
+Bot word mean: 11.1875
+Word std: 705.875
+User word std: 106.9375
+Bot word std: 454.4375
+
+Dialog 733
+Word mean: 9.3
+User word mean: 7.333333333333333
+Bot word mean: 11.266666666666667
+Word std: 702.3000000000002
+User word std: 133.33333333333331
+Bot word std: 452.9333333333334
+
+Dialog 734
+Word mean: 9.3
+User word mean: 6.8
+Bot word mean: 11.8
+Word std: 858.3000000000002
+User word std: 150.40000000000003
+Bot word std: 520.3999999999999
+
+Dialog 735
+Word mean: 9.071428571428571
+User word mean: 6.571428571428571
+Bot word mean: 11.571428571428571
+Word std: 739.8571428571429
+User word std: 127.4285714285714
+Bot word std: 437.42857142857144
+
+Dialog 736
+Word mean: 9.590909090909092
+User word mean: 6.636363636363637
+Bot word mean: 12.545454545454545
+Word std: 787.318181818182
+User word std: 206.5454545454545
+Bot word std: 388.72727272727275
+
+Dialog 737
+Word mean: 8.5
+User word mean: 6.846153846153846
+Bot word mean: 10.153846153846153
+Word std: 484.5
+User word std: 93.69230769230768
+Bot word std: 319.69230769230774
+
+Dialog 738
+Word mean: 9.038461538461538
+User word mean: 7.076923076923077
+Bot word mean: 11.0
+Word std: 670.9615384615385
+User word std: 186.9230769230769
+Bot word std: 384.0
+
+Dialog 739
+Word mean: 8.928571428571429
+User word mean: 6.5
+Bot word mean: 11.357142857142858
+Word std: 743.8571428571429
+User word std: 117.5
+Bot word std: 461.21428571428567
+
+Dialog 740
+Word mean: 8.7
+User word mean: 6.9
+Bot word mean: 10.5
+Word std: 524.2
+User word std: 152.89999999999998
+Bot word std: 306.5
+
+Dialog 741
+Word mean: 8.791666666666666
+User word mean: 7.583333333333333
+Bot word mean: 10.0
+Word std: 561.9583333333333
+User word std: 218.91666666666669
+Bot word std: 308.0
+
+Dialog 742
+Word mean: 8.26923076923077
+User word mean: 6.384615384615385
+Bot word mean: 10.153846153846153
+Word std: 485.1153846153846
+User word std: 97.07692307692308
+Bot word std: 295.69230769230774
+
+Dialog 743
+Word mean: 9.0
+User word mean: 6.384615384615385
+Bot word mean: 11.615384615384615
+Word std: 698.0
+User word std: 79.07692307692308
+Bot word std: 441.0769230769231
+
+Dialog 744
+Word mean: 9.25
+User word mean: 6.928571428571429
+Bot word mean: 11.571428571428571
+Word std: 715.25
+User word std: 144.92857142857144
+Bot word std: 419.42857142857144
+
+Dialog 745
+Word mean: 8.892857142857142
+User word mean: 6.285714285714286
+Bot word mean: 11.5
+Word std: 686.6785714285714
+User word std: 52.85714285714285
+Bot word std: 443.5
+
+Dialog 746
+Word mean: 9.066666666666666
+User word mean: 7.0
+Bot word mean: 11.133333333333333
+Word std: 757.8666666666667
+User word std: 160.0
+Bot word std: 469.73333333333335
+
+Dialog 747
+Word mean: 9.576923076923077
+User word mean: 7.3076923076923075
+Bot word mean: 11.846153846153847
+Word std: 682.3461538461539
+User word std: 138.76923076923075
+Bot word std: 409.6923076923076
+
+Dialog 748
+Word mean: 8.88888888888889
+User word mean: 6.666666666666667
+Bot word mean: 11.11111111111111
+Word std: 551.7777777777778
+User word std: 176.0
+Bot word std: 286.8888888888889
+
+Dialog 749
+Word mean: 8.23076923076923
+User word mean: 6.3076923076923075
+Bot word mean: 10.153846153846153
+Word std: 470.6153846153846
+User word std: 78.76923076923079
+Bot word std: 295.69230769230774
+
+Dialog 750
+Word mean: 9.115384615384615
+User word mean: 6.461538461538462
+Bot word mean: 11.76923076923077
+Word std: 722.6538461538463
+User word std: 109.23076923076924
+Bot word std: 430.30769230769226
+
+Dialog 751
+Word mean: 8.88888888888889
+User word mean: 6.777777777777778
+Bot word mean: 11.0
+Word std: 533.7777777777778
+User word std: 169.5555555555555
+Bot word std: 284.0
+
+Dialog 752
+Word mean: 9.076923076923077
+User word mean: 6.538461538461538
+Bot word mean: 11.615384615384615
+Word std: 695.8461538461538
+User word std: 87.23076923076924
+Bot word std: 441.07692307692304
+
+Dialog 753
+Word mean: 8.909090909090908
+User word mean: 7.545454545454546
+Bot word mean: 10.272727272727273
+Word std: 507.81818181818176
+User word std: 160.72727272727275
+Bot word std: 306.18181818181813
+
+Dialog 754
+Word mean: 9.291666666666666
+User word mean: 6.5
+Bot word mean: 12.083333333333334
+Word std: 682.9583333333334
+User word std: 89.0
+Bot word std: 406.91666666666663
+
+Dialog 755
+Word mean: 9.25
+User word mean: 6.666666666666667
+Bot word mean: 11.833333333333334
+Word std: 714.5
+User word std: 126.66666666666666
+Bot word std: 427.66666666666663
+
+Dialog 756
+Word mean: 9.545454545454545
+User word mean: 6.636363636363637
+Bot word mean: 12.454545454545455
+Word std: 745.4545454545455
+User word std: 170.54545454545453
+Bot word std: 388.72727272727275
+
+Dialog 757
+Word mean: 9.384615384615385
+User word mean: 6.846153846153846
+Bot word mean: 11.923076923076923
+Word std: 694.1538461538462
+User word std: 109.69230769230768
+Bot word std: 416.9230769230769
+
+Dialog 758
+Word mean: 8.807692307692308
+User word mean: 6.846153846153846
+Bot word mean: 10.76923076923077
+Word std: 664.0384615384613
+User word std: 183.69230769230765
+Bot word std: 380.3076923076923
+
+Dialog 759
+Word mean: 9.142857142857142
+User word mean: 6.785714285714286
+Bot word mean: 11.5
+Word std: 699.4285714285714
+User word std: 94.35714285714288
+Bot word std: 449.5
+
+Dialog 760
+Word mean: 8.933333333333334
+User word mean: 6.8
+Bot word mean: 11.066666666666666
+Word std: 721.8666666666663
+User word std: 110.40000000000002
+Bot word std: 474.93333333333334
+
+Dialog 761
+Word mean: 8.892857142857142
+User word mean: 6.285714285714286
+Bot word mean: 11.5
+Word std: 768.6785714285714
+User word std: 136.85714285714286
+Bot word std: 441.5
+
+Dialog 762
+Word mean: 9.0
+User word mean: 7.0
+Bot word mean: 11.0
+Word std: 666.0
+User word std: 202.0
+Bot word std: 376.0
+
+Dialog 763
+Word mean: 8.625
+User word mean: 6.75
+Bot word mean: 10.5
+Word std: 491.625
+User word std: 106.25
+Bot word std: 301.0
+
+Dialog 764
+Word mean: 9.107142857142858
+User word mean: 6.785714285714286
+Bot word mean: 11.428571428571429
+Word std: 692.6785714285713
+User word std: 94.35714285714288
+Bot word std: 447.42857142857144
+
+Dialog 765
+Word mean: 9.392857142857142
+User word mean: 7.214285714285714
+Bot word mean: 11.571428571428571
+Word std: 784.6785714285714
+User word std: 208.3571428571428
+Bot word std: 443.42857142857144
+
+Dialog 766
+Word mean: 9.178571428571429
+User word mean: 6.857142857142857
+Bot word mean: 11.5
+Word std: 698.1071428571431
+User word std: 97.71428571428572
+Bot word std: 449.5
+
+Dialog 767
+Word mean: 9.454545454545455
+User word mean: 6.7272727272727275
+Bot word mean: 12.181818181818182
+Word std: 763.4545454545456
+User word std: 200.18181818181822
+Bot word std: 399.6363636363636
+
+Dialog 768
+Word mean: 9.681818181818182
+User word mean: 7.0
+Bot word mean: 12.363636363636363
+Word std: 680.7727272727271
+User word std: 132.0
+Bot word std: 390.5454545454545
+
+Dialog 769
+Word mean: 8.692307692307692
+User word mean: 6.230769230769231
+Bot word mean: 11.153846153846153
+Word std: 579.5384615384615
+User word std: 60.3076923076923
+Bot word std: 361.6923076923077
+
+Dialog 770
+Word mean: 9.25
+User word mean: 6.583333333333333
+Bot word mean: 11.916666666666666
+Word std: 768.5
+User word std: 188.9166666666667
+Bot word std: 408.91666666666663
+
+Dialog 771
+Word mean: 9.36111111111111
+User word mean: 6.666666666666667
+Bot word mean: 12.055555555555555
+Word std: 920.3055555555555
+User word std: 96.00000000000003
+Bot word std: 562.9444444444443
+
+Dialog 772
+Word mean: 9.73076923076923
+User word mean: 7.615384615384615
+Bot word mean: 11.846153846153847
+Word std: 679.1153846153845
+User word std: 153.0769230769231
+Bot word std: 409.6923076923076
+
+Dialog 773
+Word mean: 8.5
+User word mean: 6.7272727272727275
+Bot word mean: 10.272727272727273
+Word std: 487.5
+User word std: 106.18181818181817
+Bot word std: 312.18181818181813
+
+Dialog 774
+Word mean: 9.40625
+User word mean: 6.3125
+Bot word mean: 12.5
+Word std: 945.71875
+User word std: 105.4375
+Bot word std: 534.0
+
+Dialog 775
+Word mean: 8.615384615384615
+User word mean: 6.230769230769231
+Bot word mean: 11.0
+Word std: 636.1538461538463
+User word std: 110.3076923076923
+Bot word std: 378.0
+
+Dialog 776
+Word mean: 8.363636363636363
+User word mean: 6.2727272727272725
+Bot word mean: 10.454545454545455
+Word std: 521.090909090909
+User word std: 118.1818181818182
+Bot word std: 306.7272727272727
+
+Dialog 777
+Word mean: 8.875
+User word mean: 6.916666666666667
+Bot word mean: 10.833333333333334
+Word std: 662.625
+User word std: 190.9166666666667
+Bot word std: 379.6666666666667
+
+Dialog 778
+Word mean: 8.318181818181818
+User word mean: 6.0
+Bot word mean: 10.636363636363637
+Word std: 480.77272727272737
+User word std: 70.0
+Bot word std: 292.5454545454545
+
+Dialog 779
+Word mean: 9.0
+User word mean: 7.454545454545454
+Bot word mean: 10.545454545454545
+Word std: 508.0
+User word std: 166.72727272727272
+Bot word std: 288.72727272727275
+
+Dialog 780
+Word mean: 9.566666666666666
+User word mean: 6.266666666666667
+Bot word mean: 12.866666666666667
+Word std: 899.3666666666666
+User word std: 74.93333333333334
+Bot word std: 497.73333333333335
+
+Dialog 781
+Word mean: 8.5
+User word mean: 6.6
+Bot word mean: 10.4
+Word std: 491.0
+User word std: 114.4
+Bot word std: 304.4
+
+Dialog 782
+Word mean: 9.321428571428571
+User word mean: 7.142857142857143
+Bot word mean: 11.5
+Word std: 778.1071428571429
+User word std: 203.71428571428572
+Bot word std: 441.5
+
+Dialog 783
+Word mean: 8.818181818181818
+User word mean: 7.0
+Bot word mean: 10.636363636363637
+Word std: 541.2727272727273
+User word std: 178.0
+Bot word std: 290.5454545454545
+
+Dialog 784
+Word mean: 8.8
+User word mean: 7.2
+Bot word mean: 10.4
+Word std: 493.2000000000001
+User word std: 137.60000000000002
+Bot word std: 304.4
+
+Dialog 785
+Word mean: 8.678571428571429
+User word mean: 6.5
+Bot word mean: 10.857142857142858
+Word std: 644.1071428571428
+User word std: 129.5
+Bot word std: 381.71428571428567
+
+Dialog 786
+Word mean: 8.346153846153847
+User word mean: 6.461538461538462
+Bot word mean: 10.23076923076923
+Word std: 523.8846153846154
+User word std: 121.23076923076923
+Bot word std: 310.3076923076924
+
+Dialog 787
+Word mean: 8.346153846153847
+User word mean: 6.538461538461538
+Bot word mean: 10.153846153846153
+Word std: 497.8846153846154
+User word std: 99.23076923076921
+Bot word std: 313.69230769230774
+
+Dialog 788
+Word mean: 8.821428571428571
+User word mean: 7.142857142857143
+Bot word mean: 10.5
+Word std: 600.107142857143
+User word std: 131.71428571428572
+Bot word std: 389.5
+
+Dialog 789
+Word mean: 8.9375
+User word mean: 6.875
+Bot word mean: 11.0
+Word std: 709.875
+User word std: 115.75
+Bot word std: 458.0
+
+Dialog 790
+Word mean: 9.294117647058824
+User word mean: 6.9411764705882355
+Bot word mean: 11.647058823529411
+Word std: 805.0588235294117
+User word std: 104.94117647058826
+Bot word std: 511.88235294117646
+
+Dialog 791
+Word mean: 8.538461538461538
+User word mean: 6.230769230769231
+Bot word mean: 10.846153846153847
+Word std: 594.4615384615386
+User word std: 70.30769230769229
+Bot word std: 385.6923076923077
+
+Dialog 792
+Word mean: 9.153846153846153
+User word mean: 6.615384615384615
+Bot word mean: 11.692307692307692
+Word std: 681.3846153846152
+User word std: 95.07692307692308
+Bot word std: 418.7692307692307
+
+Dialog 793
+Word mean: 8.857142857142858
+User word mean: 7.214285714285714
+Bot word mean: 10.5
+Word std: 599.4285714285714
+User word std: 134.35714285714286
+Bot word std: 389.5
+
+Dialog 794
+Word mean: 9.772727272727273
+User word mean: 7.181818181818182
+Bot word mean: 12.363636363636363
+Word std: 679.8636363636364
+User word std: 141.63636363636365
+Bot word std: 390.5454545454545
+
+Dialog 795
+Word mean: 8.461538461538462
+User word mean: 6.3076923076923075
+Bot word mean: 10.615384615384615
+Word std: 614.4615384615385
+User word std: 88.76923076923077
+Bot word std: 405.0769230769231
+
+Dialog 796
+Word mean: 8.76923076923077
+User word mean: 6.923076923076923
+Bot word mean: 10.615384615384615
+Word std: 592.6153846153845
+User word std: 116.9230769230769
+Bot word std: 387.0769230769231
+
+Dialog 797
+Word mean: 9.5
+User word mean: 6.833333333333333
+Bot word mean: 12.166666666666666
+Word std: 696.0
+User word std: 117.66666666666664
+Bot word std: 407.66666666666663
+
+Dialog 798
+Word mean: 9.5
+User word mean: 6.571428571428571
+Bot word mean: 12.428571428571429
+Word std: 793.0
+User word std: 89.42857142857143
+Bot word std: 463.4285714285714
+
+Dialog 799
+Word mean: 8.136363636363637
+User word mean: 6.181818181818182
+Bot word mean: 10.090909090909092
+Word std: 548.5909090909092
+User word std: 139.63636363636363
+Bot word std: 324.90909090909093
+
+Dialog 800
+Word mean: 8.538461538461538
+User word mean: 7.076923076923077
+Bot word mean: 10.0
+Word std: 550.4615384615386
+User word std: 186.92307692307688
+Bot word std: 308.0
+
+Dialog 801
+Word mean: 9.961538461538462
+User word mean: 7.538461538461538
+Bot word mean: 12.384615384615385
+Word std: 778.9615384615383
+User word std: 151.23076923076923
+Bot word std: 475.07692307692304
+
+Dialog 802
+Word mean: 8.821428571428571
+User word mean: 6.785714285714286
+Bot word mean: 10.857142857142858
+Word std: 632.107142857143
+User word std: 134.35714285714286
+Bot word std: 381.71428571428567
+
+Dialog 803
+Word mean: 9.857142857142858
+User word mean: 7.571428571428571
+Bot word mean: 12.142857142857142
+Word std: 757.4285714285714
+User word std: 125.42857142857143
+Bot word std: 485.7142857142857
+
+Dialog 804
+Word mean: 9.153846153846153
+User word mean: 6.538461538461538
+Bot word mean: 11.76923076923077
+Word std: 729.3846153846154
+User word std: 121.23076923076923
+Bot word std: 430.30769230769226
+
+Dialog 805
+Word mean: 9.208333333333334
+User word mean: 6.25
+Bot word mean: 12.166666666666666
+Word std: 703.9583333333333
+User word std: 86.25
+Bot word std: 407.66666666666663
+
+Dialog 806
+Word mean: 8.909090909090908
+User word mean: 6.545454545454546
+Bot word mean: 11.272727272727273
+Word std: 637.8181818181818
+User word std: 160.7272727272727
+Bot word std: 354.1818181818182
+
+Dialog 807
+Word mean: 8.9375
+User word mean: 6.6875
+Bot word mean: 11.1875
+Word std: 703.875
+User word std: 87.4375
+Bot word std: 454.4375
+
+Dialog 808
+Word mean: 8.076923076923077
+User word mean: 6.230769230769231
+Bot word mean: 9.923076923076923
+Word std: 497.8461538461538
+User word std: 98.3076923076923
+Bot word std: 310.9230769230769
+
+Dialog 809
+Word mean: 9.1
+User word mean: 6.4
+Bot word mean: 11.8
+Word std: 637.8
+User word std: 150.4
+Bot word std: 341.59999999999997
+
+Dialog 810
+Word mean: 9.305555555555555
+User word mean: 6.722222222222222
+Bot word mean: 11.88888888888889
+Word std: 921.6388888888888
+User word std: 109.61111111111113
+Bot word std: 571.7777777777778
+
+Dialog 811
+Word mean: 8.5
+User word mean: 6.5
+Bot word mean: 10.5
+Word std: 474.0
+User word std: 83.0
+Bot word std: 295.0
+
+Dialog 812
+Word mean: 9.428571428571429
+User word mean: 6.857142857142857
+Bot word mean: 12.0
+Word std: 882.8571428571431
+User word std: 185.7142857142857
+Bot word std: 512.0
+
+Dialog 813
+Word mean: 9.615384615384615
+User word mean: 7.461538461538462
+Bot word mean: 11.76923076923077
+Word std: 758.153846153846
+User word std: 201.23076923076923
+Bot word std: 436.30769230769226
+
+Dialog 814
+Word mean: 8.9
+User word mean: 6.666666666666667
+Bot word mean: 11.133333333333333
+Word std: 748.6999999999998
+User word std: 129.33333333333331
+Bot word std: 469.73333333333335
+
+Dialog 815
+Word mean: 8.416666666666666
+User word mean: 5.833333333333333
+Bot word mean: 11.0
+Word std: 587.8333333333334
+User word std: 45.666666666666664
+Bot word std: 382.0
+
+Dialog 816
+Word mean: 9.25
+User word mean: 6.714285714285714
+Bot word mean: 11.785714285714286
+Word std: 719.25
+User word std: 126.85714285714283
+Bot word std: 412.35714285714283
+
+Dialog 817
+Word mean: 9.033333333333333
+User word mean: 6.666666666666667
+Bot word mean: 11.4
+Word std: 740.9666666666666
+User word std: 129.33333333333331
+Bot word std: 443.6
+
+Dialog 818
+Word mean: 9.73076923076923
+User word mean: 7.461538461538462
+Bot word mean: 12.0
+Word std: 745.1153846153846
+User word std: 201.23076923076923
+Bot word std: 410.0
+
+Dialog 819
+Word mean: 8.454545454545455
+User word mean: 6.636363636363637
+Bot word mean: 10.272727272727273
+Word std: 511.45454545454544
+User word std: 126.54545454545455
+Bot word std: 312.18181818181813
+
+Dialog 820
+Word mean: 8.727272727272727
+User word mean: 6.181818181818182
+Bot word mean: 11.272727272727273
+Word std: 674.3636363636365
+User word std: 159.63636363636363
+Bot word std: 372.1818181818182
+
+Dialog 821
+Word mean: 9.807692307692308
+User word mean: 6.923076923076923
+Bot word mean: 12.692307692307692
+Word std: 812.0384615384614
+User word std: 152.92307692307685
+Bot word std: 442.7692307692307
+
+Dialog 822
+Word mean: 9.727272727272727
+User word mean: 6.909090909090909
+Bot word mean: 12.545454545454545
+Word std: 754.3636363636365
+User word std: 190.90909090909088
+Bot word std: 388.72727272727275
+
+Dialog 823
+Word mean: 8.714285714285714
+User word mean: 6.642857142857143
+Bot word mean: 10.785714285714286
+Word std: 607.7142857142857
+User word std: 119.21428571428568
+Bot word std: 368.35714285714283
+
+Dialog 824
+Word mean: 8.227272727272727
+User word mean: 6.363636363636363
+Bot word mean: 10.090909090909092
+Word std: 535.8636363636364
+User word std: 134.54545454545453
+Bot word std: 324.90909090909093
+
+Dialog 825
+Word mean: 9.384615384615385
+User word mean: 7.076923076923077
+Bot word mean: 11.692307692307692
+Word std: 764.1538461538463
+User word std: 208.92307692307693
+Bot word std: 416.7692307692307
+
+Dialog 826
+Word mean: 8.791666666666666
+User word mean: 6.5
+Bot word mean: 11.083333333333334
+Word std: 617.9583333333336
+User word std: 107.0
+Bot word std: 384.91666666666663
+
+Dialog 827
+Word mean: 8.423076923076923
+User word mean: 6.076923076923077
+Bot word mean: 10.76923076923077
+Word std: 640.3461538461539
+User word std: 98.9230769230769
+Bot word std: 398.3076923076923
+
+Dialog 828
+Word mean: 9.642857142857142
+User word mean: 7.071428571428571
+Bot word mean: 12.214285714285714
+Word std: 794.4285714285714
+User word std: 116.92857142857143
+Bot word std: 492.3571428571429
+
+Dialog 829
+Word mean: 8.821428571428571
+User word mean: 6.142857142857143
+Bot word mean: 11.5
+Word std: 736.1071428571429
+User word std: 91.71428571428572
+Bot word std: 443.5
+
+Dialog 830
+Word mean: 8.333333333333334
+User word mean: 6.416666666666667
+Bot word mean: 10.25
+Word std: 489.3333333333333
+User word std: 82.91666666666667
+Bot word std: 318.25
+
+Dialog 831
+Word mean: 9.727272727272727
+User word mean: 6.909090909090909
+Bot word mean: 12.545454545454545
+Word std: 758.3636363636364
+User word std: 194.90909090909088
+Bot word std: 388.72727272727275
+
+Dialog 832
+Word mean: 8.583333333333334
+User word mean: 6.916666666666667
+Bot word mean: 10.25
+Word std: 557.8333333333335
+User word std: 180.91666666666666
+Bot word std: 310.25
+
+Dialog 833
+Word mean: 9.214285714285714
+User word mean: 6.714285714285714
+Bot word mean: 11.714285714285714
+Word std: 704.7142857142858
+User word std: 104.85714285714285
+Bot word std: 424.8571428571429
+
+Dialog 834
+Word mean: 9.208333333333334
+User word mean: 7.333333333333333
+Bot word mean: 11.083333333333334
+Word std: 671.9583333333334
+User word std: 228.6666666666667
+Bot word std: 358.9166666666667
+
+Dialog 835
+Word mean: 9.066666666666666
+User word mean: 6.6
+Bot word mean: 11.533333333333333
+Word std: 699.8666666666667
+User word std: 91.6
+Bot word std: 425.7333333333333
+
+Dialog 836
+Word mean: 8.5
+User word mean: 6.230769230769231
+Bot word mean: 10.76923076923077
+Word std: 650.5
+User word std: 118.3076923076923
+Bot word std: 398.3076923076923
+
+Dialog 837
+Word mean: 8.961538461538462
+User word mean: 6.384615384615385
+Bot word mean: 11.538461538461538
+Word std: 754.9615384615385
+User word std: 145.07692307692307
+Bot word std: 437.2307692307692
+
+Dialog 838
+Word mean: 8.76923076923077
+User word mean: 6.923076923076923
+Bot word mean: 10.615384615384615
+Word std: 592.6153846153845
+User word std: 116.92307692307693
+Bot word std: 387.0769230769231
+
+Dialog 839
+Word mean: 8.458333333333334
+User word mean: 5.75
+Bot word mean: 11.166666666666666
+Word std: 617.9583333333333
+User word std: 68.25
+Bot word std: 373.66666666666663
+
+Dialog 840
+Word mean: 8.857142857142858
+User word mean: 6.714285714285714
+Bot word mean: 11.0
+Word std: 579.4285714285713
+User word std: 84.85714285714286
+Bot word std: 366.0
+
+Dialog 841
+Word mean: 8.65
+User word mean: 6.8
+Bot word mean: 10.5
+Word std: 558.55
+User word std: 201.60000000000002
+Bot word std: 288.5
+
+Dialog 842
+Word mean: 8.545454545454545
+User word mean: 7.0
+Bot word mean: 10.090909090909092
+Word std: 541.4545454545454
+User word std: 182.0
+Bot word std: 306.9090909090909
+
+Dialog 843
+Word mean: 9.272727272727273
+User word mean: 6.363636363636363
+Bot word mean: 12.181818181818182
+Word std: 746.3636363636363
+User word std: 160.5454545454546
+Bot word std: 399.6363636363636
+
+Dialog 844
+Word mean: 8.653846153846153
+User word mean: 6.6923076923076925
+Bot word mean: 10.615384615384615
+Word std: 603.8846153846152
+User word std: 116.76923076923076
+Bot word std: 387.0769230769231
+
+Dialog 845
+Word mean: 8.583333333333334
+User word mean: 6.833333333333333
+Bot word mean: 10.333333333333334
+Word std: 523.8333333333334
+User word std: 159.66666666666666
+Bot word std: 290.6666666666667
+
+Dialog 846
+Word mean: 9.25
+User word mean: 7.0
+Bot word mean: 11.5
+Word std: 763.25
+User word std: 180.0
+Bot word std: 441.5
+
+Dialog 847
+Word mean: 8.318181818181818
+User word mean: 6.0
+Bot word mean: 10.636363636363637
+Word std: 474.7727272727274
+User word std: 64.0
+Bot word std: 292.5454545454545
+
+Dialog 848
+Word mean: 8.964285714285714
+User word mean: 6.5
+Bot word mean: 11.428571428571429
+Word std: 722.9642857142858
+User word std: 105.5
+Bot word std: 447.4285714285714
+
+Dialog 849
+Word mean: 9.34375
+User word mean: 7.0625
+Bot word mean: 11.625
+Word std: 863.21875
+User word std: 168.9375
+Bot word std: 527.75
+
+Dialog 850
+Word mean: 9.653846153846153
+User word mean: 6.615384615384615
+Bot word mean: 12.692307692307692
+Word std: 791.8846153846154
+User word std: 101.07692307692308
+Bot word std: 450.7692307692307
+
+Dialog 851
+Word mean: 9.142857142857142
+User word mean: 7.0
+Bot word mean: 11.285714285714286
+Word std: 771.4285714285713
+User word std: 196.0
+Bot word std: 446.8571428571429
+
+Dialog 852
+Word mean: 9.181818181818182
+User word mean: 6.818181818181818
+Bot word mean: 11.545454545454545
+Word std: 639.2727272727273
+User word std: 167.63636363636365
+Bot word std: 348.7272727272727
+
+Dialog 853
+Word mean: 8.833333333333334
+User word mean: 6.583333333333333
+Bot word mean: 11.083333333333334
+Word std: 631.3333333333334
+User word std: 124.91666666666666
+Bot word std: 384.91666666666663
+
+Dialog 854
+Word mean: 8.708333333333334
+User word mean: 7.0
+Bot word mean: 10.416666666666666
+Word std: 494.9583333333333
+User word std: 128.0
+Bot word std: 296.91666666666663
+
+Dialog 855
+Word mean: 8.7
+User word mean: 7.0
+Bot word mean: 10.4
+Word std: 600.3000000000002
+User word std: 104.0
+Bot word std: 409.6
+
+Dialog 856
+Word mean: 8.375
+User word mean: 6.25
+Bot word mean: 10.5
+Word std: 501.625
+User word std: 98.25
+Bot word std: 295.0
+
+Dialog 857
+Word mean: 8.90625
+User word mean: 6.8125
+Bot word mean: 11.0
+Word std: 702.71875
+User word std: 104.4375
+Bot word std: 458.0
+
+Dialog 858
+Word mean: 8.5
+User word mean: 6.666666666666667
+Bot word mean: 10.333333333333334
+Word std: 534.0
+User word std: 162.66666666666663
+Bot word std: 290.6666666666667
+
+Dialog 859
+Word mean: 9.666666666666666
+User word mean: 7.416666666666667
+Bot word mean: 11.916666666666666
+Word std: 745.3333333333335
+User word std: 196.91666666666669
+Bot word std: 426.9166666666667
+
+Dialog 860
+Word mean: 9.647058823529411
+User word mean: 7.0588235294117645
+Bot word mean: 12.235294117647058
+Word std: 887.7647058823529
+User word std: 106.94117647058825
+Bot word std: 553.0588235294117
+
+Dialog 861
+Word mean: 9.035714285714286
+User word mean: 6.642857142857143
+Bot word mean: 11.428571428571429
+Word std: 700.9642857142858
+User word std: 111.21428571428572
+Bot word std: 429.42857142857144
+
+Dialog 862
+Word mean: 8.923076923076923
+User word mean: 6.230769230769231
+Bot word mean: 11.615384615384615
+Word std: 707.8461538461539
+User word std: 78.3076923076923
+Bot word std: 441.07692307692304
+
+Dialog 863
+Word mean: 9.076923076923077
+User word mean: 6.6923076923076925
+Bot word mean: 11.461538461538462
+Word std: 805.8461538461539
+User word std: 216.76923076923083
+Bot word std: 441.2307692307692
+
+Dialog 864
+Word mean: 9.423076923076923
+User word mean: 7.153846153846154
+Bot word mean: 11.692307692307692
+Word std: 726.3461538461537
+User word std: 175.6923076923077
+Bot word std: 416.7692307692307
+
+Dialog 865
+Word mean: 9.153846153846153
+User word mean: 6.615384615384615
+Bot word mean: 11.692307692307692
+Word std: 719.3846153846154
+User word std: 109.0769230769231
+Bot word std: 442.7692307692307
+
+Dialog 866
+Word mean: 9.23076923076923
+User word mean: 7.230769230769231
+Bot word mean: 11.23076923076923
+Word std: 618.6153846153848
+User word std: 158.3076923076923
+Bot word std: 356.3076923076923
+
+Dialog 867
+Word mean: 8.357142857142858
+User word mean: 6.785714285714286
+Bot word mean: 9.928571428571429
+Word std: 552.4285714285713
+User word std: 156.3571428571429
+Bot word std: 326.9285714285715
+
+Dialog 868
+Word mean: 9.5
+User word mean: 6.769230769230769
+Bot word mean: 12.23076923076923
+Word std: 844.5
+User word std: 166.30769230769226
+Bot word std: 484.3076923076923
+
+Dialog 869
+Word mean: 8.73076923076923
+User word mean: 6.538461538461538
+Bot word mean: 10.923076923076923
+Word std: 677.1153846153846
+User word std: 171.23076923076928
+Bot word std: 380.9230769230769
+
+Dialog 870
+Word mean: 8.666666666666666
+User word mean: 6.75
+Bot word mean: 10.583333333333334
+Word std: 517.3333333333334
+User word std: 138.25
+Bot word std: 290.9166666666667
+
+Dialog 871
+Word mean: 8.961538461538462
+User word mean: 6.6923076923076925
+Bot word mean: 11.23076923076923
+Word std: 634.9615384615383
+User word std: 144.76923076923077
+Bot word std: 356.3076923076923
+
+Dialog 872
+Word mean: 8.727272727272727
+User word mean: 6.818181818181818
+Bot word mean: 10.636363636363637
+Word std: 482.3636363636364
+User word std: 103.63636363636364
+Bot word std: 298.5454545454545
+
+Dialog 873
+Word mean: 8.863636363636363
+User word mean: 6.363636363636363
+Bot word mean: 11.363636363636363
+Word std: 612.5909090909091
+User word std: 124.54545454545455
+Bot word std: 350.54545454545456
+
+Dialog 874
+Word mean: 8.25
+User word mean: 6.416666666666667
+Bot word mean: 10.083333333333334
+Word std: 512.5
+User word std: 106.91666666666667
+Bot word std: 324.91666666666663
+
+Dialog 875
+Word mean: 9.153846153846153
+User word mean: 6.384615384615385
+Bot word mean: 11.923076923076923
+Word std: 693.3846153846154
+User word std: 83.07692307692308
+Bot word std: 410.9230769230769
+
+Dialog 876
+Word mean: 8.041666666666666
+User word mean: 6.083333333333333
+Bot word mean: 10.0
+Word std: 482.9583333333333
+User word std: 80.91666666666664
+Bot word std: 310.0
+
+Dialog 877
+Word mean: 9.590909090909092
+User word mean: 6.7272727272727275
+Bot word mean: 12.454545454545455
+Word std: 713.318181818182
+User word std: 144.1818181818182
+Bot word std: 388.72727272727275
+
+Dialog 878
+Word mean: 8.461538461538462
+User word mean: 6.0
+Bot word mean: 10.923076923076923
+Word std: 594.4615384615385
+User word std: 54.0
+Bot word std: 382.9230769230769
+
+Dialog 879
+Word mean: 8.96875
+User word mean: 6.0625
+Bot word mean: 11.875
+Word std: 864.96875
+User word std: 96.9375
+Bot word std: 497.75
+
+Dialog 880
+Word mean: 8.541666666666666
+User word mean: 6.0
+Bot word mean: 11.083333333333334
+Word std: 577.9583333333334
+User word std: 62.0
+Bot word std: 360.9166666666667
+
+Dialog 881
+Word mean: 8.409090909090908
+User word mean: 6.454545454545454
+Bot word mean: 10.363636363636363
+Word std: 517.3181818181819
+User word std: 116.72727272727275
+Bot word std: 316.54545454545456
+
+Dialog 882
+Word mean: 8.35
+User word mean: 6.1
+Bot word mean: 10.6
+Word std: 504.5500000000001
+User word std: 116.89999999999999
+Bot word std: 286.4
+
+Dialog 883
+Word mean: 8.5
+User word mean: 6.75
+Bot word mean: 10.25
+Word std: 488.0
+User word std: 96.25
+Bot word std: 318.25
+
+Dialog 884
+Word mean: 8.714285714285714
+User word mean: 6.214285714285714
+Bot word mean: 11.214285714285714
+Word std: 731.7142857142857
+User word std: 86.35714285714286
+Bot word std: 470.3571428571429
+
+Dialog 885
+Word mean: 9.0
+User word mean: 6.230769230769231
+Bot word mean: 11.76923076923077
+Word std: 756.0
+User word std: 126.30769230769229
+Bot word std: 430.3076923076923
+
+Dialog 886
+Word mean: 8.90625
+User word mean: 6.8125
+Bot word mean: 11.0
+Word std: 722.71875
+User word std: 124.4375
+Bot word std: 458.0
+
+Dialog 887
+Word mean: 9.40625
+User word mean: 7.0
+Bot word mean: 11.8125
+Word std: 801.71875
+User word std: 106.0
+Bot word std: 510.4375
+
+Dialog 888
+Word mean: 8.76923076923077
+User word mean: 6.384615384615385
+Bot word mean: 11.153846153846153
+Word std: 604.6153846153844
+User word std: 95.07692307692308
+Bot word std: 361.6923076923077
+
+Dialog 889
+Word mean: 9.066666666666666
+User word mean: 6.8
+Bot word mean: 11.333333333333334
+Word std: 679.8666666666668
+User word std: 76.4
+Bot word std: 449.33333333333337
+
+Dialog 890
+Word mean: 8.384615384615385
+User word mean: 6.153846153846154
+Bot word mean: 10.615384615384615
+Word std: 616.153846153846
+User word std: 81.6923076923077
+Bot word std: 405.0769230769231
+
+Dialog 891
+Word mean: 8.285714285714286
+User word mean: 6.714285714285714
+Bot word mean: 9.857142857142858
+Word std: 497.71428571428584
+User word std: 116.85714285714288
+Bot word std: 311.7142857142858
+
+Dialog 892
+Word mean: 8.833333333333334
+User word mean: 6.777777777777778
+Bot word mean: 10.88888888888889
+Word std: 490.5
+User word std: 131.55555555555554
+Bot word std: 282.88888888888886
+
+Dialog 893
+Word mean: 9.0
+User word mean: 6.538461538461538
+Bot word mean: 11.461538461538462
+Word std: 760.0
+User word std: 143.23076923076923
+Bot word std: 459.23076923076917
+
+Dialog 894
+Word mean: 9.1
+User word mean: 7.0
+Bot word mean: 11.2
+Word std: 746.6999999999999
+User word std: 166.0
+Bot word std: 448.4
+
+Dialog 895
+Word mean: 9.633333333333333
+User word mean: 7.266666666666667
+Bot word mean: 12.0
+Word std: 844.9666666666666
+User word std: 182.93333333333337
+Bot word std: 494.0
+
+Dialog 896
+Word mean: 9.045454545454545
+User word mean: 6.818181818181818
+Bot word mean: 11.272727272727273
+Word std: 664.9545454545453
+User word std: 183.63636363636365
+Bot word std: 372.1818181818182
+
+Dialog 897
+Word mean: 8.166666666666666
+User word mean: 6.416666666666667
+Bot word mean: 9.916666666666666
+Word std: 507.33333333333326
+User word std: 104.91666666666667
+Bot word std: 328.9166666666667
+
+Dialog 898
+Word mean: 8.045454545454545
+User word mean: 6.0
+Bot word mean: 10.090909090909092
+Word std: 536.9545454545455
+User word std: 120.0
+Bot word std: 324.90909090909093
+
+Dialog 899
+Word mean: 8.571428571428571
+User word mean: 6.5
+Bot word mean: 10.642857142857142
+Word std: 644.8571428571429
+User word std: 123.5
+Bot word std: 401.2142857142857
+
+Dialog 900
+Word mean: 8.227272727272727
+User word mean: 6.363636363636363
+Bot word mean: 10.090909090909092
+Word std: 539.8636363636364
+User word std: 138.54545454545456
+Bot word std: 324.90909090909093
+
+Dialog 901
+Word mean: 8.181818181818182
+User word mean: 5.909090909090909
+Bot word mean: 10.454545454545455
+Word std: 507.27272727272725
+User word std: 86.90909090909092
+Bot word std: 306.7272727272727
+
+Dialog 902
+Word mean: 8.136363636363637
+User word mean: 6.181818181818182
+Bot word mean: 10.090909090909092
+Word std: 546.5909090909091
+User word std: 137.63636363636363
+Bot word std: 324.90909090909093
+
+Dialog 903
+Word mean: 8.6
+User word mean: 6.6
+Bot word mean: 10.6
+Word std: 538.8
+User word std: 148.4
+Bot word std: 310.40000000000003
+
+Dialog 904
+Word mean: 7.961538461538462
+User word mean: 6.076923076923077
+Bot word mean: 9.846153846153847
+Word std: 480.9615384615386
+User word std: 58.92307692307693
+Bot word std: 329.6923076923076
+
+Dialog 905
+Word mean: 8.076923076923077
+User word mean: 6.3076923076923075
+Bot word mean: 9.846153846153847
+Word std: 499.8461538461538
+User word std: 88.76923076923077
+Bot word std: 329.6923076923076
+
+Dialog 906
+Word mean: 8.884615384615385
+User word mean: 6.076923076923077
+Bot word mean: 11.692307692307692
+Word std: 686.6538461538462
+User word std: 62.92307692307693
+Bot word std: 418.7692307692307
+
+Dialog 907
+Word mean: 8.916666666666666
+User word mean: 6.666666666666667
+Bot word mean: 11.166666666666666
+Word std: 685.8333333333334
+User word std: 184.66666666666669
+Bot word std: 379.6666666666667
+
+Dialog 908
+Word mean: 8.785714285714286
+User word mean: 6.714285714285714
+Bot word mean: 10.857142857142858
+Word std: 628.7142857142854
+User word std: 126.85714285714286
+Bot word std: 381.71428571428567
+
+Dialog 909
+Word mean: 8.846153846153847
+User word mean: 6.153846153846154
+Bot word mean: 11.538461538461538
+Word std: 753.3846153846154
+User word std: 127.69230769230771
+Bot word std: 437.2307692307692
+
+Dialog 910
+Word mean: 8.863636363636363
+User word mean: 7.454545454545454
+Bot word mean: 10.272727272727273
+Word std: 508.5909090909092
+User word std: 158.72727272727272
+Bot word std: 306.18181818181813
+
+Dialog 911
+Word mean: 9.071428571428571
+User word mean: 6.571428571428571
+Bot word mean: 11.571428571428571
+Word std: 745.8571428571429
+User word std: 151.4285714285714
+Bot word std: 419.42857142857144
+
+Dialog 912
+Word mean: 9.615384615384615
+User word mean: 7.538461538461538
+Bot word mean: 11.692307692307692
+Word std: 764.153846153846
+User word std: 217.2307692307692
+Bot word std: 434.7692307692307
+
+Dialog 913
+Word mean: 8.958333333333334
+User word mean: 6.833333333333333
+Bot word mean: 11.083333333333334
+Word std: 638.9583333333335
+User word std: 153.66666666666669
+Bot word std: 376.91666666666663
+
+Dialog 914
+Word mean: 9.307692307692308
+User word mean: 6.923076923076923
+Bot word mean: 11.692307692307692
+Word std: 741.5384615384617
+User word std: 176.92307692307682
+Bot word std: 416.7692307692307
+
+Dialog 915
+Word mean: 8.821428571428571
+User word mean: 7.071428571428571
+Bot word mean: 10.571428571428571
+Word std: 668.1071428571429
+User word std: 178.92857142857142
+Bot word std: 403.42857142857144
+
+Dialog 916
+Word mean: 9.291666666666666
+User word mean: 6.5
+Bot word mean: 12.083333333333334
+Word std: 686.9583333333334
+User word std: 93.0
+Bot word std: 406.91666666666663
+
+Dialog 917
+Word mean: 8.708333333333334
+User word mean: 7.083333333333333
+Bot word mean: 10.333333333333334
+Word std: 528.9583333333334
+User word std: 174.91666666666669
+Bot word std: 290.6666666666667
+
+Dialog 918
+Word mean: 9.909090909090908
+User word mean: 7.2727272727272725
+Bot word mean: 12.545454545454545
+Word std: 741.818181818182
+User word std: 200.18181818181813
+Bot word std: 388.72727272727275
+
+Dialog 919
+Word mean: 8.892857142857142
+User word mean: 6.357142857142857
+Bot word mean: 11.428571428571429
+Word std: 722.6785714285713
+User word std: 95.21428571428574
+Bot word std: 447.4285714285714
+
+Dialog 920
+Word mean: 9.291666666666666
+User word mean: 6.583333333333333
+Bot word mean: 12.0
+Word std: 730.9583333333331
+User word std: 150.91666666666669
+Bot word std: 404.0
+
+Dialog 921
+Word mean: 9.428571428571429
+User word mean: 7.142857142857143
+Bot word mean: 11.714285714285714
+Word std: 696.8571428571429
+User word std: 125.7142857142857
+Bot word std: 424.8571428571429
+
+Dialog 922
+Word mean: 9.4
+User word mean: 6.733333333333333
+Bot word mean: 12.066666666666666
+Word std: 817.1999999999998
+User word std: 132.93333333333328
+Bot word std: 470.93333333333334
+
+Dialog 923
+Word mean: 8.863636363636363
+User word mean: 7.0
+Bot word mean: 10.727272727272727
+Word std: 540.5909090909091
+User word std: 170.0
+Bot word std: 294.1818181818182
+
+Dialog 924
+Word mean: 8.892857142857142
+User word mean: 6.357142857142857
+Bot word mean: 11.428571428571429
+Word std: 714.6785714285713
+User word std: 87.21428571428571
+Bot word std: 447.4285714285714
+
+Dialog 925
+Word mean: 9.1
+User word mean: 6.8
+Bot word mean: 11.4
+Word std: 738.6999999999999
+User word std: 136.4
+Bot word std: 443.6
+
+Dialog 926
+Word mean: 9.458333333333334
+User word mean: 6.916666666666667
+Bot word mean: 12.0
+Word std: 745.9583333333335
+User word std: 162.9166666666667
+Bot word std: 428.0
+
+Dialog 927
+Word mean: 8.71875
+User word mean: 6.5
+Bot word mean: 10.9375
+Word std: 708.46875
+User word std: 72.0
+Bot word std: 478.9375
+
+Dialog 928
+Word mean: 9.583333333333334
+User word mean: 6.916666666666667
+Bot word mean: 12.25
+Word std: 769.8333333333331
+User word std: 198.9166666666667
+Bot word std: 400.25
+
+Dialog 929
+Word mean: 8.681818181818182
+User word mean: 6.090909090909091
+Bot word mean: 11.272727272727273
+Word std: 662.7727272727275
+User word std: 142.90909090909093
+Bot word std: 372.1818181818182
+
+Dialog 930
+Word mean: 8.772727272727273
+User word mean: 7.090909090909091
+Bot word mean: 10.454545454545455
+Word std: 565.8636363636363
+User word std: 190.90909090909096
+Bot word std: 312.72727272727275
+
+Dialog 931
+Word mean: 9.538461538461538
+User word mean: 6.538461538461538
+Bot word mean: 12.538461538461538
+Word std: 832.4615384615382
+User word std: 149.23076923076923
+Bot word std: 449.2307692307693
+
+Dialog 932
+Word mean: 9.590909090909092
+User word mean: 6.636363636363637
+Bot word mean: 12.545454545454545
+Word std: 731.318181818182
+User word std: 150.54545454545453
+Bot word std: 388.72727272727275
+
+Dialog 933
+Word mean: 9.291666666666666
+User word mean: 7.416666666666667
+Bot word mean: 11.166666666666666
+Word std: 646.9583333333333
+User word std: 182.91666666666666
+Bot word std: 379.6666666666667
+
+Dialog 934
+Word mean: 9.0
+User word mean: 6.538461538461538
+Bot word mean: 11.461538461538462
+Word std: 762.0
+User word std: 145.23076923076925
+Bot word std: 459.23076923076917
+
+Dialog 935
+Word mean: 9.26923076923077
+User word mean: 6.538461538461538
+Bot word mean: 12.0
+Word std: 727.115384615385
+User word std: 129.23076923076923
+Bot word std: 404.0
+
+Dialog 936
+Word mean: 8.90625
+User word mean: 6.25
+Bot word mean: 11.5625
+Word std: 860.71875
+User word std: 101.0
+Bot word std: 533.9375
+
+Dialog 937
+Word mean: 9.7
+User word mean: 7.2
+Bot word mean: 12.2
+Word std: 786.3000000000002
+User word std: 124.4
+Bot word std: 474.4
+
+Dialog 938
+Word mean: 8.45
+User word mean: 6.7
+Bot word mean: 10.2
+Word std: 568.95
+User word std: 202.09999999999997
+Bot word std: 305.6
+
+Dialog 939
+Word mean: 8.45
+User word mean: 6.5
+Bot word mean: 10.4
+Word std: 474.94999999999993
+User word std: 106.5
+Bot word std: 292.4
+
+Dialog 940
+Word mean: 9.214285714285714
+User word mean: 6.928571428571429
+Bot word mean: 11.5
+Word std: 740.7142857142859
+User word std: 152.92857142857147
+Bot word std: 441.5
+
+Dialog 941
+Word mean: 8.636363636363637
+User word mean: 7.0
+Bot word mean: 10.272727272727273
+Word std: 481.09090909090907
+User word std: 116.0
+Bot word std: 306.18181818181813
+
+Dialog 942
+Word mean: 9.863636363636363
+User word mean: 7.181818181818182
+Bot word mean: 12.545454545454545
+Word std: 728.5909090909092
+User word std: 181.63636363636365
+Bot word std: 388.72727272727275
+
+Dialog 943
+Word mean: 9.708333333333334
+User word mean: 7.25
+Bot word mean: 12.166666666666666
+Word std: 754.9583333333334
+User word std: 210.25
+Bot word std: 399.66666666666663
+
+Dialog 944
+Word mean: 9.576923076923077
+User word mean: 7.3076923076923075
+Bot word mean: 11.846153846153847
+Word std: 690.346153846154
+User word std: 146.76923076923077
+Bot word std: 409.6923076923076
+
+Dialog 945
+Word mean: 9.076923076923077
+User word mean: 6.230769230769231
+Bot word mean: 11.923076923076923
+Word std: 691.8461538461538
+User word std: 70.3076923076923
+Bot word std: 410.9230769230769
+
+Dialog 946
+Word mean: 8.5
+User word mean: 6.636363636363637
+Bot word mean: 10.363636363636363
+Word std: 555.5
+User word std: 188.5454545454545
+Bot word std: 290.54545454545456
+
+Dialog 947
+Word mean: 9.291666666666666
+User word mean: 6.333333333333333
+Bot word mean: 12.25
+Word std: 720.9583333333333
+User word std: 116.66666666666667
+Bot word std: 394.25
+
+Dialog 948
+Word mean: 8.966666666666667
+User word mean: 6.6
+Bot word mean: 11.333333333333334
+Word std: 706.9666666666667
+User word std: 89.6
+Bot word std: 449.33333333333337
+
+Dialog 949
+Word mean: 8.423076923076923
+User word mean: 6.230769230769231
+Bot word mean: 10.615384615384615
+Word std: 612.346153846154
+User word std: 100.30769230769232
+Bot word std: 387.0769230769231
+
+Dialog 950
+Word mean: 8.3
+User word mean: 6.0
+Bot word mean: 10.6
+Word std: 514.1999999999999
+User word std: 122.0
+Bot word std: 286.4
+
+Dialog 951
+Word mean: 8.541666666666666
+User word mean: 6.583333333333333
+Bot word mean: 10.5
+Word std: 479.95833333333326
+User word std: 92.91666666666667
+Bot word std: 295.0
+
+Dialog 952
+Word mean: 9.266666666666667
+User word mean: 7.133333333333334
+Bot word mean: 11.4
+Word std: 735.8666666666668
+User word std: 155.73333333333335
+Bot word std: 443.6
+
+Dialog 953
+Word mean: 9.3
+User word mean: 7.2
+Bot word mean: 11.4
+Word std: 712.3
+User word std: 136.4
+Bot word std: 443.6
+
+Dialog 954
+Word mean: 8.75
+User word mean: 6.916666666666667
+Bot word mean: 10.583333333333334
+Word std: 512.5
+User word std: 140.91666666666666
+Bot word std: 290.9166666666667
+
+Dialog 955
+Word mean: 8.384615384615385
+User word mean: 6.538461538461538
+Bot word mean: 10.23076923076923
+Word std: 530.1538461538462
+User word std: 131.23076923076923
+Bot word std: 310.3076923076924
+
+Dialog 956
+Word mean: 9.357142857142858
+User word mean: 6.928571428571429
+Bot word mean: 11.785714285714286
+Word std: 700.4285714285714
+User word std: 122.92857142857143
+Bot word std: 412.35714285714283
+
+Dialog 957
+Word mean: 8.833333333333334
+User word mean: 6.75
+Bot word mean: 10.916666666666666
+Word std: 645.3333333333333
+User word std: 164.25
+Bot word std: 376.91666666666663
+
+Dialog 958
+Word mean: 8.23076923076923
+User word mean: 6.3076923076923075
+Bot word mean: 10.153846153846153
+Word std: 488.6153846153846
+User word std: 78.76923076923077
+Bot word std: 313.69230769230774
+
+Dialog 959
+Word mean: 9.692307692307692
+User word mean: 7.0
+Bot word mean: 12.384615384615385
+Word std: 805.5384615384615
+User word std: 142.0
+Bot word std: 475.07692307692304
+
+Dialog 960
+Word mean: 9.142857142857142
+User word mean: 6.642857142857143
+Bot word mean: 11.642857142857142
+Word std: 691.4285714285714
+User word std: 93.21428571428571
+Bot word std: 423.2142857142858
+
+Dialog 961
+Word mean: 9.227272727272727
+User word mean: 7.181818181818182
+Bot word mean: 11.272727272727273
+Word std: 653.8636363636364
+User word std: 207.63636363636365
+Bot word std: 354.1818181818182
+
+Dialog 962
+Word mean: 9.0
+User word mean: 7.111111111111111
+Bot word mean: 10.88888888888889
+Word std: 488.0
+User word std: 140.88888888888889
+Bot word std: 282.88888888888886
+
+Dialog 963
+Word mean: 9.571428571428571
+User word mean: 7.0
+Bot word mean: 12.142857142857142
+Word std: 808.8571428571427
+User word std: 138.0
+Bot word std: 485.7142857142857
+
+Dialog 964
+Word mean: 9.038461538461538
+User word mean: 6.615384615384615
+Bot word mean: 11.461538461538462
+Word std: 778.9615384615386
+User word std: 167.0769230769231
+Bot word std: 459.23076923076917
+
+Dialog 965
+Word mean: 9.125
+User word mean: 6.625
+Bot word mean: 11.625
+Word std: 813.5
+User word std: 101.75
+Bot word std: 511.75
+
+Dialog 966
+Word mean: 8.076923076923077
+User word mean: 6.076923076923077
+Bot word mean: 10.076923076923077
+Word std: 483.8461538461538
+User word std: 64.92307692307693
+Bot word std: 314.9230769230769
+
+Dialog 967
+Word mean: 9.291666666666666
+User word mean: 6.333333333333333
+Bot word mean: 12.25
+Word std: 706.9583333333333
+User word std: 102.66666666666667
+Bot word std: 394.25
+
+Dialog 968
+Word mean: 9.416666666666666
+User word mean: 6.583333333333333
+Bot word mean: 12.25
+Word std: 707.8333333333333
+User word std: 120.91666666666667
+Bot word std: 394.25
+
+Dialog 969
+Word mean: 9.090909090909092
+User word mean: 7.454545454545454
+Bot word mean: 10.727272727272727
+Word std: 523.8181818181818
+User word std: 170.72727272727272
+Bot word std: 294.1818181818182
+
+Dialog 970
+Word mean: 8.4
+User word mean: 6.2
+Bot word mean: 10.6
+Word std: 522.8000000000001
+User word std: 139.60000000000005
+Bot word std: 286.4
+
+Dialog 971
+Word mean: 8.25
+User word mean: 5.9
+Bot word mean: 10.6
+Word std: 519.75
+User word std: 122.89999999999998
+Bot word std: 286.4
+
+Dialog 972
+Word mean: 9.076923076923077
+User word mean: 7.153846153846154
+Bot word mean: 11.0
+Word std: 663.8461538461538
+User word std: 183.6923076923077
+Bot word std: 384.0
+
+Dialog 973
+Word mean: 9.461538461538462
+User word mean: 7.0
+Bot word mean: 11.923076923076923
+Word std: 730.4615384615385
+User word std: 164.0
+Bot word std: 408.9230769230769
+
+Dialog 974
+Word mean: 8.5
+User word mean: 6.466666666666667
+Bot word mean: 10.533333333333333
+Word std: 637.5
+User word std: 109.73333333333332
+Bot word std: 403.7333333333333
+
+Dialog 975
+Word mean: 8.666666666666666
+User word mean: 6.25
+Bot word mean: 11.083333333333334
+Word std: 603.3333333333335
+User word std: 102.25
+Bot word std: 360.9166666666667
+
+Dialog 976
+Word mean: 9.0
+User word mean: 6.769230769230769
+Bot word mean: 11.23076923076923
+Word std: 622.0
+User word std: 136.30769230769226
+Bot word std: 356.3076923076923
+
+Dialog 977
+Word mean: 9.566666666666666
+User word mean: 7.0
+Bot word mean: 12.133333333333333
+Word std: 767.3666666666666
+User word std: 96.0
+Bot word std: 473.73333333333335
+
+Dialog 978
+Word mean: 8.678571428571429
+User word mean: 6.571428571428571
+Bot word mean: 10.785714285714286
+Word std: 604.1071428571428
+User word std: 111.42857142857143
+Bot word std: 368.35714285714283
+
+Dialog 979
+Word mean: 9.653846153846153
+User word mean: 6.769230769230769
+Bot word mean: 12.538461538461538
+Word std: 853.8846153846154
+User word std: 164.3076923076922
+Bot word std: 473.2307692307693
+
+Dialog 980
+Word mean: 9.466666666666667
+User word mean: 7.0
+Bot word mean: 11.933333333333334
+Word std: 805.4666666666665
+User word std: 122.0
+Bot word std: 500.93333333333334
+
+Dialog 981
+Word mean: 9.642857142857142
+User word mean: 7.857142857142857
+Bot word mean: 11.428571428571429
+Word std: 696.4285714285716
+User word std: 165.71428571428572
+Bot word std: 441.42857142857144
+
+Dialog 982
+Word mean: 9.538461538461538
+User word mean: 7.230769230769231
+Bot word mean: 11.846153846153847
+Word std: 660.4615384615383
+User word std: 112.3076923076923
+Bot word std: 409.6923076923076
+
+Dialog 983
+Word mean: 9.571428571428571
+User word mean: 7.428571428571429
+Bot word mean: 11.714285714285714
+Word std: 686.8571428571429
+User word std: 133.42857142857142
+Bot word std: 424.8571428571429
+
+Dialog 984
+Word mean: 8.153846153846153
+User word mean: 6.3076923076923075
+Bot word mean: 10.0
+Word std: 537.3846153846154
+User word std: 122.76923076923077
+Bot word std: 326.0
+
+Dialog 985
+Word mean: 8.625
+User word mean: 6.5
+Bot word mean: 10.75
+Word std: 619.625
+User word std: 127.0
+Bot word std: 384.25
+
+Dialog 986
+Word mean: 8.833333333333334
+User word mean: 7.416666666666667
+Bot word mean: 10.25
+Word std: 555.3333333333333
+User word std: 196.91666666666663
+Bot word std: 310.25
+
+Dialog 987
+Word mean: 9.115384615384615
+User word mean: 6.3076923076923075
+Bot word mean: 11.923076923076923
+Word std: 688.6538461538462
+User word std: 72.76923076923079
+Bot word std: 410.9230769230769
+
+Dialog 988
+Word mean: 9.0
+User word mean: 6.7272727272727275
+Bot word mean: 11.272727272727273
+Word std: 638.0
+User word std: 152.18181818181822
+Bot word std: 372.1818181818182
+
+Dialog 989
+Word mean: 8.5
+User word mean: 6.384615384615385
+Bot word mean: 10.615384615384615
+Word std: 606.5
+User word std: 85.07692307692308
+Bot word std: 405.0769230769231
+
+Dialog 990
+Word mean: 8.7
+User word mean: 7.2
+Bot word mean: 10.2
+Word std: 586.2000000000003
+User word std: 235.60000000000002
+Bot word std: 305.6
+
+Dialog 991
+Word mean: 9.346153846153847
+User word mean: 7.076923076923077
+Bot word mean: 11.615384615384615
+Word std: 709.8846153846154
+User word std: 140.92307692307693
+Bot word std: 435.0769230769231
+
+Dialog 992
+Word mean: 9.0
+User word mean: 6.666666666666667
+Bot word mean: 11.333333333333334
+Word std: 676.0
+User word std: 81.33333333333331
+Bot word std: 431.33333333333337
+
+Dialog 993
+Word mean: 8.833333333333334
+User word mean: 6.266666666666667
+Bot word mean: 11.4
+Word std: 750.1666666666665
+User word std: 108.93333333333332
+Bot word std: 443.59999999999997
+
+Dialog 994
+Word mean: 8.964285714285714
+User word mean: 6.642857142857143
+Bot word mean: 11.285714285714286
+Word std: 696.9642857142857
+User word std: 97.21428571428571
+Bot word std: 448.8571428571429
+
+Dialog 995
+Word mean: 9.384615384615385
+User word mean: 7.3076923076923075
+Bot word mean: 11.461538461538462
+Word std: 800.1538461538462
+User word std: 246.76923076923083
+Bot word std: 441.2307692307692
+
+Dialog 996
+Word mean: 8.642857142857142
+User word mean: 6.642857142857143
+Bot word mean: 10.642857142857142
+Word std: 642.4285714285714
+User word std: 129.21428571428575
+Bot word std: 401.2142857142857
+
+Dialog 997
+Word mean: 9.058823529411764
+User word mean: 6.588235294117647
+Bot word mean: 11.529411764705882
+Word std: 863.8823529411762
+User word std: 126.11764705882352
+Bot word std: 530.2352941176472
+
+Dialog 998
+Word mean: 8.038461538461538
+User word mean: 6.076923076923077
+Bot word mean: 10.0
+Word std: 548.9615384615385
+User word std: 122.92307692307693
+Bot word std: 326.0
+
+Dialog 999
+Word mean: 8.55
+User word mean: 6.7
+Bot word mean: 10.4
+Word std: 490.94999999999993
+User word std: 118.10000000000001
+Bot word std: 304.4
+

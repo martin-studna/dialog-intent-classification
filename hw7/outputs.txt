@@ -1,0 +1,61 @@
+USER INPUT> Create meeting and schedule it on 12.3
+SYSTEM: task_created(name=meeting,time=12.3)
+USER INPUT> Create the event party and schedule it on 12:30
+SYSTEM: task_created(name=party,time='12:30')
+USER INPUT> Create the task consultation and schedule it on 14:15
+SYSTEM: task_created(name=consultation,time='14:15')
+USER INPUT> Create the plan meeting and schedule it on tomorrow
+SYSTEM: task_created(name=meeting,time=tomorrow)
+USER INPUT> Delete meeting
+SYSTEM: task_deleted(name=meeting)
+USER INPUT> Delete the event party
+SYSTEM: task_deleted(name=party)
+USER INPUT> Delete the task consultation
+SYSTEM: task_deleted(name=consultation)
+USER INPUT> Delete the plan skiing
+SYSTEM: error(task=not_found)
+USER INPUT> Get all events for 12:30
+SYSTEM: tasks_info(list='{[name=party,time=12:30]}')
+USER INPUT> Get all tasks for Monday
+SYSTEM: error(tasks=not_found)
+USER INPUT> Get all plans for tomorrow
+SYSTEM: tasks_info(list={[name=consultation,time=tomorrow][name=meeting,time=tomorrow]})
+USER INPUT> Tell me some details about consultation
+SYSTEM: task_info(name=consultation,date_added='2021-05-04T15:50:48Z',time=tomorrow)
+USER INPUT> Get information about party
+SYSTEM: task_info(name=party,date_added='2021-05-04T15:50:29Z',time=today)
+USER INPUT> Get all meetings for tomorrow
+SYSTEM: tasks_info(list='{[name=party,time=today][name=consultation,time=tomorrow][name=party,time=12:30][name=meeting,time=tomorrow]}')
+
+#First dialog
+
+USER INPUT> Hello Alfred.
+SYSTEM: greet()
+USER INPUT> Do I have any tasks scheduled for today?
+SYSTEM: tasks_info(list={[name=party,time=today][name=exam,time=today][name=d,time=today][name=d,time=today][name=d,time=today][name=meeting,time=today][name=consultation,time=today]})
+USER INPUT> thank you.
+SYSTEM: request_more()
+USER INPUT> No, good bye Alfred
+SYSTEM: exit()
+
+# Second dialog
+
+USER INPUT> Hello Alfred
+SYSTEM: greet()
+USER INPUT> create meeting on Thursday
+SYSTEM: task_created(name=meeting,time=thursday)
+USER INPUT> thank you
+SYSTEM: request_more()
+USER INPUT> No, good bye, Alfred
+SYSTEM: exit()
+
+# third dialog
+
+USER INPUT> Hello Alfred
+SYSTEM: greet()
+USER INPUT> delete meeting on Thursday
+SYSTEM: task_deleted(name=meeting)
+USER INPUT> thank you
+SYSTEM: request_more()
+USER INPUT> No, good bye
+SYSTEM: exit()

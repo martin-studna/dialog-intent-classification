@@ -1,0 +1,8002 @@
+[
+    {
+        "usr": "turkish",
+        "DA": "inform(food=turkish)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "where are they located",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "what is their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "spanish",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "spanish",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "any kind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "cheap restaurant in the west part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=west)"
+    },
+    {
+        "usr": "any kind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "restaraunt serving fusion food",
+        "DA": "inform(food=fusion)"
+    },
+    {
+        "usr": "how about mediterranean",
+        "DA": "reqalts(food=mediterranean)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "medterranean",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "a cheap restaurant in the east part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=east)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "an expensive restaurant in the south part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=south)"
+    },
+    {
+        "usr": "any kind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "moderately priced restaurant halal food",
+        "DA": "inform(pricerange=moderate,type=restaurant,food=halal)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "halal",
+        "DA": "inform(food=halal)"
+    },
+    {
+        "usr": "again please",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "may i have the address and post code",
+        "DA": "request(addr,postcode)"
+    },
+    {
+        "usr": "again please",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "postal code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "again",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "repeat",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "re",
+        "DA": "null()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "repeat",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "fen ditton",
+        "DA": "null()"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "barbecue",
+        "DA": "inform(food=barbeque)"
+    },
+    {
+        "usr": "uh find a restaurant in the west part of town and",
+        "DA": "inform(type=restaurant,area=west)"
+    },
+    {
+        "usr": "creative food",
+        "DA": "inform(food=creative)"
+    },
+    {
+        "usr": "thai",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "uh thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "thai",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "um address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "cant repeat",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "uh phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "prezzo",
+        "DA": "inform(name=prezzo)"
+    },
+    {
+        "usr": "creative food",
+        "DA": "inform(food=creative)"
+    },
+    {
+        "usr": "thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "do you have prezzo",
+        "DA": "inform(name=prezzo)"
+    },
+    {
+        "usr": "okay what was the name",
+        "DA": "request(name)"
+    },
+    {
+        "usr": "on the rest and the",
+        "DA": "null()"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number again",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "okay um",
+        "DA": "ack()"
+    },
+    {
+        "usr": "thank you and good",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "okay thank you and good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "expensive restaurant in the south part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=south)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "expensive restaurant",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "anywhere",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "corsica",
+        "DA": "inform(food=corsica)"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the area",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "romanian food",
+        "DA": "inform(food=romanian)"
+    },
+    {
+        "usr": "portuguese",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "any part",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "greek",
+        "DA": "inform(food=greek)"
+    },
+    {
+        "usr": "turkish",
+        "DA": "inform(food=turkish)"
+    },
+    {
+        "usr": "moderately priced",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "christmas food",
+        "DA": "inform(food=christmas)"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "indian food",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "cheap price range",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "any kind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "traditional food",
+        "DA": "inform(food=traditional)"
+    },
+    {
+        "usr": "modern european",
+        "DA": "inform(food=\"modern european\")"
+    },
+    {
+        "usr": "any part",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "mexican food",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "vietnamese",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the east part of town that serves belgium food",
+        "DA": "inform(area=east,type=restaurant,task=find,food=belgian)"
+    },
+    {
+        "usr": "is there a restaurant that serves indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "can i have the address and phone number please",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "want to find a restaurant in the west part of town that serves german food",
+        "DA": "inform(type=restaurant,area=west,food=german)"
+    },
+    {
+        "usr": "german food",
+        "DA": "inform(food=german)"
+    },
+    {
+        "usr": "how about british food",
+        "DA": "reqalts(food=british)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what type of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what type of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "breath im looking for a moderately priced restaurant in the east p",
+        "DA": "inform(area=east,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant that serves european food",
+        "DA": "inform(food=european,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what area is it in",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "breath i want to find an expensive restaurant and it sh",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "the south part of town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "indian food noise",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "thank you what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "that is all",
+        "DA": "null()"
+    },
+    {
+        "usr": "thank you goodb",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "im looking for a restaurant in the east part of town",
+        "DA": "inform(area=east,type=restaurant,task=find)"
+    },
+    {
+        "usr": "chinese food in the east part of town",
+        "DA": "inform(food=chinese,area=east)"
+    },
+    {
+        "usr": "perfect may i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like a cheap restaurant and it should",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "i would like a cheap restaurant it should serve ger",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "german food",
+        "DA": "inform(food=german)"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "how about european food",
+        "DA": "reqalts(food=european)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "how about european food",
+        "DA": "reqalts(food=european)"
+    },
+    {
+        "usr": "okay",
+        "DA": "null()"
+    },
+    {
+        "usr": "what",
+        "DA": "null()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "yeah",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "okay",
+        "DA": "null()"
+    },
+    {
+        "usr": "how about portuguese food",
+        "DA": "reqalts(food=portuguese)"
+    },
+    {
+        "usr": "may i have the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "may i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "perfect",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "i would like to find a moderately priced restaurant and it should",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "what food does it serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "may i have a moderately priced restaurant serving english",
+        "DA": "inform(pricerange=moderate,type=restaurant,food=english)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "may i have the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "may i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i am looking for persian food please",
+        "DA": "inform(food=persian,task=find)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "i dont care about the price range",
+        "DA": "inform(pricerange=dontcare)"
+    },
+    {
+        "usr": "how about",
+        "DA": "null()"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "where is the location",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "what type of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "may i have the address and post code",
+        "DA": "request(addr,postcode)"
+    },
+    {
+        "usr": "what is the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "the south part of town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "what food is available in the south part of town",
+        "DA": "request(food,area=south)"
+    },
+    {
+        "usr": "what is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "okay may i get the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the north part of town",
+        "DA": "inform(area=north,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what food is available",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "may i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "may i have the phone number please",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "east part",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for am expensive restaurant in the south part",
+        "DA": "inform(area=south,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "uh it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "hindi food is okay",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "no im sorry it should be expensive",
+        "DA": "negate(pricerange=expensive)"
+    },
+    {
+        "usr": "is the anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "you said expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "its expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "can i have the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "what is the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "in the south part of the town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "uh can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find a restaurant in any area",
+        "DA": "inform(type=restaurant,area=dontcare)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "international food",
+        "DA": "inform(food=international)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "where is one",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "uh whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the south",
+        "DA": "inform(area=south,type=restaurant,task=find)"
+    },
+    {
+        "usr": "uh the south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "greek food",
+        "DA": "inform(food=greek)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "what about chinese",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "is doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "can i have an expensive restaurant",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "the south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "can i have an",
+        "DA": "null()"
+    },
+    {
+        "usr": "restaurant serving english food",
+        "DA": "inform(type=restaurant,food=english)"
+    },
+    {
+        "usr": "uh what about modern european",
+        "DA": "inform(food=\"modern european\")"
+    },
+    {
+        "usr": "what about modern european food",
+        "DA": "inform(food=\"modern european\")"
+    },
+    {
+        "usr": "okay what about modern european food",
+        "DA": "reqalts(food=\"modern european\")"
+    },
+    {
+        "usr": "right",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "can i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "can i have an expensive restaurant",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "any kind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant",
+        "DA": "inform(type=restaurant,pricerange=cheap,task=find)"
+    },
+    {
+        "usr": "the north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "any kind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "traditional",
+        "DA": "inform(food=traditional)"
+    },
+    {
+        "usr": "british",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "west part of town",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "hungarian food",
+        "DA": "inform(food=hungarian)"
+    },
+    {
+        "usr": "vietnamese food",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "vietnamese food",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "find a restaurant in the west part of town",
+        "DA": "inform(type=restaurant,area=west)"
+    },
+    {
+        "usr": "signapore",
+        "DA": "inform(food=singaporean)"
+    },
+    {
+        "usr": "how about india",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "indian food",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "any food",
+        "DA": "inform(food=dontcare)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "im looking for a restaurant that has unintelligible",
+        "DA": "inform(type=restaurant,task=find)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "what about turkish",
+        "DA": "inform(food=turkish)"
+    },
+    {
+        "usr": "turkish",
+        "DA": "inform(food=turkish)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "right",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "can i have the address phone number and post code",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "whats the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced restaurant in the north part of town",
+        "DA": "inform(pricerange=moderate,type=restaurant,area=north)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "any thing else",
+        "DA": "null()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced restaurant in the south part of town",
+        "DA": "inform(pricerange=moderate,type=restaurant,area=south)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "code",
+        "DA": "null()"
+    },
+    {
+        "usr": "postcode",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "postcode",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant in he north part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=north)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what type of venue",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "south part of town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "mediterranean food",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "moderately priced",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "swiss food",
+        "DA": "inform(food=swiss)"
+    },
+    {
+        "usr": "swiss food",
+        "DA": "inform(food=swiss)"
+    },
+    {
+        "usr": "british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "australian",
+        "DA": "inform(food=australian)"
+    },
+    {
+        "usr": "indian",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves british food",
+        "DA": "inform(food=british,type=restaurant,task=find)"
+    },
+    {
+        "usr": "the south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "what about the center of town",
+        "DA": "reqalts(area=centre)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "unintelligible restaurant",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south part of town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "dont matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "dont matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant mediterranean food",
+        "DA": "inform(pricerange=cheap,type=restaurant,food=mediterranean)"
+    },
+    {
+        "usr": "address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "address phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant west part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=west)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "looking for a moderately priced restaurant",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "serves british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "would like british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "the south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "british",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "where is it",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like traditional food in the south part of town",
+        "DA": "inform(food=traditional,area=south)"
+    },
+    {
+        "usr": "how about italian",
+        "DA": "reqalts(food=italian)"
+    },
+    {
+        "usr": "what is the phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "yea id like a restaurant in the west part of town thats",
+        "DA": "inform(type=restaurant,area=west)"
+    },
+    {
+        "usr": "british",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like malaysian food in the center part of",
+        "DA": "inform(food=malaysian,area=centre)"
+    },
+    {
+        "usr": "how about korean food",
+        "DA": "reqalts(food=korean)"
+    },
+    {
+        "usr": "i would like korean food",
+        "DA": "inform(food=korean)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "just give me a cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for international food",
+        "DA": "inform(food=international,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i dont care about the price range",
+        "DA": "inform(pricerange=dontcare)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like a restaurant in the west part of town that serves cuban food",
+        "DA": "inform(type=restaurant,area=west,food=cuban)"
+    },
+    {
+        "usr": "how bout indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "indian food",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "can i have the address and phone number please",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like an expensive restaurant in the south part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=south)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "how about the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the center that serves corsica",
+        "DA": "inform(food=corsica,type=restaurant,task=find,area=centre)"
+    },
+    {
+        "usr": "im looking for a restaurant in the center that serves international",
+        "DA": "inform(food=international,type=restaurant,task=find,area=centre)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that sells welsh",
+        "DA": "inform(food=welsh,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "yes in the cheap price range",
+        "DA": "affirm(pricerange=cheap)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves mediterranean food",
+        "DA": "inform(food=mediterranean,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "whats the phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want a restaurant in the west part of town that serves jamaican",
+        "DA": "inform(type=restaurant,area=west,food=jamaican)"
+    },
+    {
+        "usr": "jamaican",
+        "DA": "inform(food=jamaican)"
+    },
+    {
+        "usr": "how about a restaurant in the west part of town that serves vietnamese",
+        "DA": "reqalts(type=restaurant,area=west,food=vietnamese)"
+    },
+    {
+        "usr": "what about a restaurant that serves vietnamese",
+        "DA": "inform(type=restaurant,food=vietnamese)"
+    },
+    {
+        "usr": "type food",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "vietnamese",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "i want a vietnamese restaurant",
+        "DA": "inform(food=vietnamese,type=restaurant)"
+    },
+    {
+        "usr": "yeah",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "that serves viet",
+        "DA": "null()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the west part of town that serves caribbean",
+        "DA": "inform(food=caribbean,type=restaurant,area=west,task=find)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "what about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the north part of town",
+        "DA": "inform(area=north,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant that serves european",
+        "DA": "inform(food=european,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any part of town",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and the area",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "iam looking for a restaurant in the center",
+        "DA": "inform(type=restaurant,area=centre)"
+    },
+    {
+        "usr": "serve kosher food",
+        "DA": "inform(food=kosher)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "how about italian food",
+        "DA": "reqalts(food=italian)"
+    },
+    {
+        "usr": "im looking for a restaurant serving",
+        "DA": "inform(type=restaurant,task=find)"
+    },
+    {
+        "usr": "okay how about italian food",
+        "DA": "reqalts(food=italian)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "any price range",
+        "DA": "inform(pricerange=dontcare)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the west part of town",
+        "DA": "inform(area=west,type=restaurant,task=find)"
+    },
+    {
+        "usr": "thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and what is the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "um want to find a moderately priced restaurant in the",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "any type is fine",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "indian",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "belgium",
+        "DA": "inform(food=belgian)"
+    },
+    {
+        "usr": "portuguese",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "portuguese",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "south south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "dont care moderate",
+        "DA": "inform(pricerange=moderate,=dontcare)"
+    },
+    {
+        "usr": "yeah",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "european european",
+        "DA": "inform(food=european)"
+    },
+    {
+        "usr": "west part of town",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "do you have an expensive restaurant",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "any any part of town",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "english food",
+        "DA": "inform(food=english)"
+    },
+    {
+        "usr": "how about turkish",
+        "DA": "reqalts(food=turkish)"
+    },
+    {
+        "usr": "how about turkish food",
+        "DA": "reqalts(food=turkish)"
+    },
+    {
+        "usr": "do they serve turkish food",
+        "DA": "confirm(food=turkish)"
+    },
+    {
+        "usr": "do they have turkish food",
+        "DA": "confirm(food=turkish)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "alright what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "alright thank you good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "food",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "any type",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "any part",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "french",
+        "DA": "inform(food=french)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "so i dont care whats the address",
+        "DA": "inform(=dontcare)|request(addr)"
+    },
+    {
+        "usr": "what area of town is it",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "alright thank you good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "i want to find moderately priced restaurant it should be",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i get the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant that serves",
+        "DA": "inform(type=restaurant,pricerange=expensive,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "seafood",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the east",
+        "DA": "inform(area=east,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the north of",
+        "DA": "inform(area=north,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves christmas food",
+        "DA": "inform(food=christmas,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what type of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "i want christmas food",
+        "DA": "inform(food=christmas)"
+    },
+    {
+        "usr": "food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "christmas food",
+        "DA": "inform(food=christmas)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "what about asian oriental",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "asian oriental food",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the center of town that serves",
+        "DA": "inform(type=restaurant,task=find,area=centre)"
+    },
+    {
+        "usr": "european",
+        "DA": "inform(food=european)"
+    },
+    {
+        "usr": "whats your phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves chinese food",
+        "DA": "inform(food=chinese,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is their address and telephone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "the north part of town",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "restaurant",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "in the west part of town",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "corsica food",
+        "DA": "inform(food=corsica)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "italian food",
+        "DA": "inform(food=italian)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "restaurant in south part of town serves",
+        "DA": "inform(type=restaurant,area=south)"
+    },
+    {
+        "usr": "creative food",
+        "DA": "inform(food=creative)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "address and price range",
+        "DA": "request(addr,pricerange)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "restaurant in the north part of town serv",
+        "DA": "inform(type=restaurant,area=north)"
+    },
+    {
+        "usr": "scottish",
+        "DA": "inform(food=scottish)"
+    },
+    {
+        "usr": "scottish",
+        "DA": "inform(food=scottish)"
+    },
+    {
+        "usr": "how about french food",
+        "DA": "reqalts(food=french)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what is the address and telephone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "and the telephone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "yes im looking for an expensive restaurant and it should serve",
+        "DA": "affirm(type=restaurant,pricerange=expensive,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "australian",
+        "DA": "inform(food=australian)"
+    },
+    {
+        "usr": "is there an expensive restaurant that serves french",
+        "DA": "inform(pricerange=expensive,type=restaurant,food=french)"
+    },
+    {
+        "usr": "how about french food",
+        "DA": "reqalts(food=french)"
+    },
+    {
+        "usr": "what is the telephone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find a moderately priced restaurant in the east part of town",
+        "DA": "inform(pricerange=moderate,type=restaurant,area=east)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "uh thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find an expensive restaurant that serves hungarian food",
+        "DA": "inform(pricerange=expensive,type=restaurant,food=hungarian)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "hungarian",
+        "DA": "inform(food=hungarian)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "im looking for",
+        "DA": "inform(task=find)"
+    },
+    {
+        "usr": "im looking for",
+        "DA": "inform(task=find)"
+    },
+    {
+        "usr": "does it serve hungarian food",
+        "DA": "confirm(food=hungarian)"
+    },
+    {
+        "usr": "im looking for an expensive restaurant that serves hungarian",
+        "DA": "inform(food=hungarian,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "does it serve hungarian food",
+        "DA": "confirm(food=hungarian)"
+    },
+    {
+        "usr": "how about british food",
+        "DA": "reqalts(food=british)"
+    },
+    {
+        "usr": "i want to find an expensive restaurant that",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "what is the pri what is the telephone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "system",
+        "DA": "null()"
+    },
+    {
+        "usr": "the center of town",
+        "DA": "inform(area=centre)"
+    },
+    {
+        "usr": "spanish",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "could you give the address phone number and post code",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "hello welcome to the cambridge system",
+        "DA": "null()"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "any type",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "could i have their phone number and the type of food",
+        "DA": "request(phone,food)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "malaysian food in the south part of town",
+        "DA": "inform(food=malaysian,area=south)"
+    },
+    {
+        "usr": "how about chinese",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "can you give me the address and price range",
+        "DA": "request(addr,pricerange)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "basque food in the east part of town",
+        "DA": "inform(food=basque,area=east)"
+    },
+    {
+        "usr": "basque",
+        "DA": "inform(food=basque)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "what about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced restaurant",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "that serves traditional food",
+        "DA": "inform(food=traditional)"
+    },
+    {
+        "usr": "how about spanish food",
+        "DA": "reqalts(food=spanish)"
+    },
+    {
+        "usr": "how about spanish food",
+        "DA": "reqalts(food=spanish)"
+    },
+    {
+        "usr": "spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "okay address phone number and post code please",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced restaurant that serves fusion food",
+        "DA": "inform(pricerange=moderate,type=restaurant,food=fusion)"
+    },
+    {
+        "usr": "turkish food",
+        "DA": "inform(food=turkish)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "restaurant in the north part of town that serves",
+        "DA": "inform(type=restaurant,area=north)"
+    },
+    {
+        "usr": "british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "um hm",
+        "DA": "null()"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address phone number and price range",
+        "DA": "request(addr,phone,pricerange)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "the south part of town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "mexican",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "chinese",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves belgian food",
+        "DA": "inform(food=belgian,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "chinese food",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced in the west part of town",
+        "DA": "inform(pricerange=moderate,area=west)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for world food",
+        "DA": "inform(food=world,task=find)"
+    },
+    {
+        "usr": "vietnamese food",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "what are the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for gastropub food",
+        "DA": "inform(food=gastropub,task=find)"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "gastropub",
+        "DA": "inform(food=gastropub)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what are the address and post code",
+        "DA": "request(addr,postcode)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "yes hi im looking for a restaurant in the north",
+        "DA": "affirm(area=north,type=restaurant,task=find)"
+    },
+    {
+        "usr": "cantonese food",
+        "DA": "inform(food=cantonese)"
+    },
+    {
+        "usr": "how about asian oriental food",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "i want the address and ph",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "looking for a cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "may i get the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like a cheap restaurant in the north part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=north)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "looking for a place that serves whole worl",
+        "DA": "null()"
+    },
+    {
+        "usr": "what",
+        "DA": "null()"
+    },
+    {
+        "usr": "is there any serving vietnamese",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "what about vietnamese food",
+        "DA": "reqalts(food=vietnamese)"
+    },
+    {
+        "usr": "whats the addre",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for cuban food",
+        "DA": "inform(food=cuban,task=find)"
+    },
+    {
+        "usr": "im looking for asian oriental",
+        "DA": "inform(food=\"asian oriental\",task=find)"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "no price",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "is it asian oriental",
+        "DA": "confirm(food=\"asian oriental\")"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the east part of town",
+        "DA": "inform(area=east,type=restaurant,task=find)"
+    },
+    {
+        "usr": "gastropub",
+        "DA": "inform(food=gastropub)"
+    },
+    {
+        "usr": "the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "expensive restaurant",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "south noise",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "expen",
+        "DA": "null()"
+    },
+    {
+        "usr": "french",
+        "DA": "inform(food=french)"
+    },
+    {
+        "usr": "italian",
+        "DA": "inform(food=italian)"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "than",
+        "DA": "null()"
+    },
+    {
+        "usr": "noise thank you goodbye",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "noise im looking for a restaurant that serves scottish food",
+        "DA": "inform(food=scottish,type=restaurant,task=find)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "uh is there a restaurant that serves international food",
+        "DA": "reqalts(food=international)"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "um moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "what is the phone number an post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "noise can you repeat the post code please",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the west part",
+        "DA": "inform(area=west,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is their address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant",
+        "DA": "inform(type=restaurant,pricerange=cheap,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "australian food",
+        "DA": "inform(food=australian)"
+    },
+    {
+        "usr": "what about european food",
+        "DA": "reqalts(food=european)"
+    },
+    {
+        "usr": "what european food",
+        "DA": "inform(food=european)"
+    },
+    {
+        "usr": "is it european",
+        "DA": "confirm(food=european)"
+    },
+    {
+        "usr": "does it serve european type food",
+        "DA": "confirm(food=european,type=restaurant)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "the east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "moderately priced",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the west part of town",
+        "DA": "inform(area=west,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "mediterranean",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "american",
+        "DA": "inform(food=\"north american\")"
+    },
+    {
+        "usr": "italian",
+        "DA": "inform(food=italian)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "looking for a restaurant in west part of town serving cantonese",
+        "DA": "inform(type=restaurant,area=west,food=cantonese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "italian food",
+        "DA": "inform(food=italian)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "food",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "seafood",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "whats the phone number and price range",
+        "DA": "request(phone,pricerange)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the",
+        "DA": "inform(type=restaurant,pricerange=cheap,task=find)"
+    },
+    {
+        "usr": "east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "mexican food",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a expensive restaurant in the",
+        "DA": "inform(type=restaurant,pricerange=expensive,task=find)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "see phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the west part of town that serves italian food",
+        "DA": "inform(food=italian,type=restaurant,area=west,task=find)"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "may i have the phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "looking for a singaporean restaurant in the center",
+        "DA": "inform(food=singaporean,type=restaurant,area=centre)"
+    },
+    {
+        "usr": "im looking for singaporean food",
+        "DA": "inform(food=singaporean,task=find)"
+    },
+    {
+        "usr": "singaporean food",
+        "DA": "inform(food=singaporean)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i am looking for a moderately priced restaurant in the south",
+        "DA": "inform(area=south,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i have the phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find an expensive restaurant on the east part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=east)"
+    },
+    {
+        "usr": "american",
+        "DA": "inform(food=\"north american\")"
+    },
+    {
+        "usr": "can i have an address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what type of food is that",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves european food",
+        "DA": "inform(food=european,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address phone number and area",
+        "DA": "request(addr,phone,area)"
+    },
+    {
+        "usr": "and what area",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in any area that serves",
+        "DA": "inform(area=dontcare,type=restaurant,task=find)"
+    },
+    {
+        "usr": "im sorry",
+        "DA": "null()"
+    },
+    {
+        "usr": "unusual food",
+        "DA": "inform(food=unusual)"
+    },
+    {
+        "usr": "um spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "could you repeat that",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "ok yeah",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "whats the addre",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "hi im looking for moderately priced",
+        "DA": "inform(pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "bistro food",
+        "DA": "inform(food=bistro)"
+    },
+    {
+        "usr": "how about asian oriental",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "i would like asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant serving russian food",
+        "DA": "inform(food=russian,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "uh what about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "does it serve chinese food",
+        "DA": "confirm(food=chinese)"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves",
+        "DA": "inform(type=restaurant,pricerange=cheap,task=find)"
+    },
+    {
+        "usr": "russian",
+        "DA": "inform(food=russian)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves",
+        "DA": "inform(type=restaurant,pricerange=cheap,task=find)"
+    },
+    {
+        "usr": "chinese",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "world food",
+        "DA": "inform(food=world)"
+    },
+    {
+        "usr": "uh how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "type of food does pizza hut serve",
+        "DA": "request(food,name=\"pizza hut city centre\")"
+    },
+    {
+        "usr": "im looking for chinese food",
+        "DA": "inform(food=chinese,task=find)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in east part of town",
+        "DA": "inform(area=east,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "whats the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "okay let me try this again",
+        "DA": "repeat()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves romanian food",
+        "DA": "inform(food=romanian,type=restaurant,task=find)"
+    },
+    {
+        "usr": "okay how about",
+        "DA": "null()"
+    },
+    {
+        "usr": "place that serves portuguese food",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "how about a place that serves portuguese food",
+        "DA": "reqalts(food=portuguese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "whats the address to that please",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "um im trying to find a restaurant in the unintelligible of town",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "greek food",
+        "DA": "inform(food=greek)"
+    },
+    {
+        "usr": "uh indian",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "uh whats the address and the phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "looking for a restaurant in the center part of town",
+        "DA": "inform(type=restaurant,area=centre)"
+    },
+    {
+        "usr": "spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "uh whats the phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "south part of town",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "mexican",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "whats the price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "in the east part of town that serves spanish food",
+        "DA": "inform(area=east,food=spanish)"
+    },
+    {
+        "usr": "does it serve spanish food",
+        "DA": "confirm(food=spanish)"
+    },
+    {
+        "usr": "i need a restaurant in the",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "i need",
+        "DA": "null()"
+    },
+    {
+        "usr": "i need a place that serves spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "i need a restaurant that",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "how about a chinese restaurant",
+        "DA": "reqalts(food=chinese,type=restaurant)"
+    },
+    {
+        "usr": "the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need an expensive restaurant that serves afghan food",
+        "DA": "inform(pricerange=expensive,type=restaurant,food=afghan)"
+    },
+    {
+        "usr": "how about korean food",
+        "DA": "reqalts(food=korean)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the area",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need a moderately priced restaurant in the part of town",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need something in the east part of town that serves",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "indonesian",
+        "DA": "inform(food=indonesian)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "what kind of food is it",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "whats the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need a cheap restaurant that serves international food",
+        "DA": "inform(pricerange=cheap,type=restaurant,food=international)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need a cheap restaurant in the south part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=south)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need a restaurant in the east part of town that serves creative",
+        "DA": "inform(type=restaurant,area=east,food=creative)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the north part of town",
+        "DA": "inform(area=north,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "alright whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what type of food is there",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "looking for a cheap restaurant serving portuguese food",
+        "DA": "inform(pricerange=cheap,type=restaurant,food=portuguese)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what area is it in",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "whats a cheap restaurant on the east part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=east)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "the west part of town id like a cheap restaurant",
+        "DA": "inform(area=west,pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "any kind of food",
+        "DA": "inform(food=dontcare)"
+    },
+    {
+        "usr": "are there any other cheap restaurants in the west part of town",
+        "DA": "reqalts(pricerange=cheap,type=restaurant,area=west)"
+    },
+    {
+        "usr": "is there another restaurant in the west of town",
+        "DA": "reqalts(type=restaurant,area=west)"
+    },
+    {
+        "usr": "can i get their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and what kind of food do they have",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like to find a cheap restaurant in the west part of t",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=west)"
+    },
+    {
+        "usr": "any kind of food",
+        "DA": "inform(food=dontcare)"
+    },
+    {
+        "usr": "are there any other cheap restaurants in the west part of town",
+        "DA": "reqalts(pricerange=cheap,type=restaurant,area=west)"
+    },
+    {
+        "usr": "is there a different cheap restaurant in the west part of town",
+        "DA": "reqalts(pricerange=cheap,type=restaurant,area=west)"
+    },
+    {
+        "usr": "can i have the address please",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant that serves",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "any part of town",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "bistro food",
+        "DA": "inform(food=bistro)"
+    },
+    {
+        "usr": "is there a moderately priced restaurant that serves british food",
+        "DA": "confirm(pricerange=moderate,type=restaurant,food=british)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "could i get their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the south part of town that serves",
+        "DA": "inform(area=south,type=restaurant,task=find)"
+    },
+    {
+        "usr": "austrian",
+        "DA": "inform(food=austrian)"
+    },
+    {
+        "usr": "austrian",
+        "DA": "inform(food=austrian)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "is there a restaurant in the south part of town that serves indian food",
+        "DA": "reqalts(area=south,food=indian)"
+    },
+    {
+        "usr": "indian food",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "could i get their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves african food",
+        "DA": "inform(food=african,type=restaurant,task=find)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and what is the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the west part of town",
+        "DA": "inform(area=west,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "um",
+        "DA": "null()"
+    },
+    {
+        "usr": "can i get a phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what kind of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "what kind of food do they have",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "what kind of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the east part of town that serves traditional food",
+        "DA": "inform(food=traditional,type=restaurant,area=east,task=find)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "what about chinese",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "can i have the address phone number and post code",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "you good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "an expensive restaurant in the east part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=east)"
+    },
+    {
+        "usr": "expensive food",
+        "DA": "inform(pricerange=expensive,type=restaurant)"
+    },
+    {
+        "usr": "how about a different restaurant",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i get their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "okay thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "hello im looking for a cheap restaurant in the west part of town",
+        "DA": "hello(area=west,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "what is la margheritas address",
+        "DA": "request(addr,name=\"la margherita\")"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "hello im looking for a cheap",
+        "DA": "hello(pricerange=cheap,task=find)"
+    },
+    {
+        "usr": "unintelligible restaurant",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "do they serve unintelligible food",
+        "DA": "confirm(type=restaurant)"
+    },
+    {
+        "usr": "what kind of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "how about unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "do they serve unintelligible food",
+        "DA": "confirm(type=restaurant)"
+    },
+    {
+        "usr": "what do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "what does rice house",
+        "DA": "inform(name=\"rice house\")"
+    },
+    {
+        "usr": "serve",
+        "DA": "null()"
+    },
+    {
+        "usr": "what kind of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "okay what is their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and what kind of food do they serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for moderately priced restaurant in the north part",
+        "DA": "inform(area=north,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i do not care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "what is their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is their post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "uh expensive restaurant in the south",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=south)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "belgium",
+        "DA": "inform(food=belgian)"
+    },
+    {
+        "usr": "belgium",
+        "DA": "inform(food=belgian)"
+    },
+    {
+        "usr": "belgium",
+        "DA": "inform(food=belgian)"
+    },
+    {
+        "usr": "no i want belgium food",
+        "DA": "negate(food=belgian)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "belgium food",
+        "DA": "inform(type=restaurant,food=belgian)"
+    },
+    {
+        "usr": "korean food",
+        "DA": "inform(food=korean)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "restaurant in the south part of town",
+        "DA": "inform(type=restaurant,area=south)"
+    },
+    {
+        "usr": "portuguese",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant serving scandinavian food",
+        "DA": "inform(pricerange=cheap,type=restaurant,food=scandinavian)"
+    },
+    {
+        "usr": "cheap restaurant serving asian oriental",
+        "DA": "inform(pricerange=cheap,type=restaurant,food=\"asian oriental\")"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "restaurant in the west part of town serving moroccan food",
+        "DA": "inform(type=restaurant,area=west,food=moroccan)"
+    },
+    {
+        "usr": "moroccan",
+        "DA": "inform(food=moroccan)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "how about moroccan food",
+        "DA": "reqalts(food=moroccan)"
+    },
+    {
+        "usr": "how about moroccan food",
+        "DA": "reqalts(food=moroccan)"
+    },
+    {
+        "usr": "how about moroccan food",
+        "DA": "reqalts(food=moroccan)"
+    },
+    {
+        "usr": "moroccan food",
+        "DA": "inform(food=moroccan)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a welsh restaurant in the west part of town",
+        "DA": "inform(area=west,food=welsh,type=restaurant,task=find)"
+    },
+    {
+        "usr": "how about indian",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant that serves canapes",
+        "DA": "inform(food=canapes,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "does it serve canapes",
+        "DA": "confirm(food=canapes)"
+    },
+    {
+        "usr": "what kind of food does it serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "how about a turkish restaurant",
+        "DA": "reqalts(food=turkish,type=restaurant)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the west part of town",
+        "DA": "inform(area=west,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "mexican food",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "and the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "hi im looking for a restaurant in the",
+        "DA": "hello(type=restaurant,task=find)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "christmas food",
+        "DA": "inform(food=christmas)"
+    },
+    {
+        "usr": "how about asian oriental type of food",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "is there a restaurant",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "im looking for a restaurant",
+        "DA": "inform(type=restaurant,task=find)"
+    },
+    {
+        "usr": "in the north part of town",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "hi im looking for a place that serves scandinavian food",
+        "DA": "hello(food=scandinavian,task=find)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "scandinavian",
+        "DA": "inform(food=scandinavian)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "a restaurant that serves scandinavian food",
+        "DA": "inform(type=restaurant,food=scandinavian)"
+    },
+    {
+        "usr": "restaurant with scandin",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "scandinavian food",
+        "DA": "inform(food=scandinavian)"
+    },
+    {
+        "usr": "how bout thai",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "how bout thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "ye",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "correct",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "how bout thai",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "how bout thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the addre",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant",
+        "DA": "inform(type=restaurant,pricerange=expensive,task=find)"
+    },
+    {
+        "usr": "east part",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a barbecue restaurant in the east part of town",
+        "DA": "inform(area=east,type=restaurant,task=find,food=barbeque)"
+    },
+    {
+        "usr": "how about an indian restaurant",
+        "DA": "reqalts(food=indian,type=restaurant)"
+    },
+    {
+        "usr": "how about an indian type food restaurant",
+        "DA": "reqalts(food=indian,type=restaurant)"
+    },
+    {
+        "usr": "whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want a polynesian restaurant in the west part of town",
+        "DA": "inform(food=polynesian,type=restaurant,area=west)"
+    },
+    {
+        "usr": "how about portuguese",
+        "DA": "reqalts(food=portuguese)"
+    },
+    {
+        "usr": "how about one that serves portuguese food",
+        "DA": "reqalts(food=portuguese)"
+    },
+    {
+        "usr": "whats the phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want a cheap restaurant in the east part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=east)"
+    },
+    {
+        "usr": "whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "id like a barbecue restaurant",
+        "DA": "inform(type=restaurant,food=barbeque)"
+    },
+    {
+        "usr": "how about vietnamese",
+        "DA": "reqalts(food=vietnamese)"
+    },
+    {
+        "usr": "how about vietnamese food",
+        "DA": "reqalts(food=vietnamese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "what the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want a russian restaurant",
+        "DA": "inform(food=russian,type=restaurant)"
+    },
+    {
+        "usr": "how about a korean restaurant",
+        "DA": "reqalts(food=korean,type=restaurant)"
+    },
+    {
+        "usr": "korean",
+        "DA": "inform(food=korean)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want an expensive irish restaurant",
+        "DA": "inform(pricerange=expensive,food=irish,type=restaurant)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "how about",
+        "DA": "null()"
+    },
+    {
+        "usr": "an expensive italian restaurant",
+        "DA": "inform(pricerange=expensive,food=italian,type=restaurant)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the address phone number and area",
+        "DA": "request(addr,phone,area)"
+    },
+    {
+        "usr": "what part of town",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant serving kosher food",
+        "DA": "inform(food=kosher,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "how about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in any area",
+        "DA": "inform(area=dontcare,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "jamaican",
+        "DA": "inform(food=jamaican)"
+    },
+    {
+        "usr": "jamaican food",
+        "DA": "inform(food=jamaican)"
+    },
+    {
+        "usr": "what about thai food",
+        "DA": "reqalts(food=thai)"
+    },
+    {
+        "usr": "what about thai food",
+        "DA": "reqalts(food=thai)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "what is the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the north",
+        "DA": "inform(area=north,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find a cheap restaurant in the south part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "okay could you give me the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "okay and what about the address",
+        "DA": "ack()|request(addr)"
+    },
+    {
+        "usr": "okay thank you and good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant that serves cuban food",
+        "DA": "inform(food=cuban,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "is there on serving chineese",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "what about chineese",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "what about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "yes do you have one with chinese",
+        "DA": "affirm(food=chinese)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "okay i need the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the north part of town",
+        "DA": "inform(area=north,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "kind i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant that serves uh",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "persian",
+        "DA": "inform(food=persian)"
+    },
+    {
+        "usr": "what kind of food is it",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "what about persian food",
+        "DA": "reqalts(food=persian)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves corsica food",
+        "DA": "inform(food=corsica,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what about vietnamese",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "vietnamese food",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "hi",
+        "DA": "hello()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "um",
+        "DA": "null()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "english please",
+        "DA": "inform(food=english)"
+    },
+    {
+        "usr": "no im looking for a unintelligible that serves english food",
+        "DA": "negate(food=english,task=find)"
+    },
+    {
+        "usr": "no english food",
+        "DA": "negate(food=english)"
+    },
+    {
+        "usr": "spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "what about spanish food",
+        "DA": "reqalts(food=spanish)"
+    },
+    {
+        "usr": "spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "no any area",
+        "DA": "negate(area=dontcare)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for polynesian food",
+        "DA": "inform(food=polynesian,task=find)"
+    },
+    {
+        "usr": "how about vietnamese",
+        "DA": "reqalts(food=vietnamese)"
+    },
+    {
+        "usr": "vietnamese",
+        "DA": "inform(food=vietnamese)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "can i okay thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the north part of town",
+        "DA": "inform(area=north,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "can i get a",
+        "DA": "null()"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "east part of town serving swedish food",
+        "DA": "inform(area=east,food=swedish)"
+    },
+    {
+        "usr": "chinese food",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "could i have the address phone number and post code",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "what is the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "yes danish food",
+        "DA": "affirm(food=danish)"
+    },
+    {
+        "usr": "no danish",
+        "DA": "negate(food=danish)"
+    },
+    {
+        "usr": "danish",
+        "DA": "inform(food=danish)"
+    },
+    {
+        "usr": "danish",
+        "DA": "inform(food=danish)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "do you have any asian oriental food",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what area",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "expensive restaurant south part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=south)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "could i have the address please",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "could i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what is the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "a cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "a cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "lebanese",
+        "DA": "inform(food=lebanese)"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "can i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "can i get the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "venetian food",
+        "DA": "inform(food=venetian)"
+    },
+    {
+        "usr": "asian oriental food",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "asian oriental",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "food",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "may i",
+        "DA": "null()"
+    },
+    {
+        "usr": "may i have the phone number and address",
+        "DA": "request(phone,addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "danish food in the south part of town",
+        "DA": "inform(food=danish,area=south)"
+    },
+    {
+        "usr": "may i have a phone number and postcode",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "may i have the postcode",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced restaurant in the north part of town",
+        "DA": "inform(pricerange=moderate,type=restaurant,area=north)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "may i get the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "may i get the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "im looking for a restaurant in the west part of town and it sh",
+        "DA": "inform(area=west,type=restaurant,task=find)"
+    },
+    {
+        "usr": "thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "uh whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant on the north side of town",
+        "DA": "inform(area=north,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "yeah can i um",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "a restaurant in the west part of town should serve crossover food",
+        "DA": "inform(type=restaurant,area=west,food=crossover)"
+    },
+    {
+        "usr": "um how about italian food",
+        "DA": "reqalts(food=italian)"
+    },
+    {
+        "usr": "is there a restaurant serving italian food",
+        "DA": "reqalts(food=italian)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "any area",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "caribbean food",
+        "DA": "inform(food=caribbean)"
+    },
+    {
+        "usr": "is there mediterranean food",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "i want mediterranean food",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "id like to know the address phone number and post code",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "and the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "uh im looking for a moderately priced restaurant serving",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes that serves corsica food",
+        "DA": "affirm(food=corsica)"
+    },
+    {
+        "usr": "okay how about a moderately prices restaurant that serves",
+        "DA": "reqalts(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "what about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "what kind of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "im looking for indian food",
+        "DA": "inform(food=indian,task=find)"
+    },
+    {
+        "usr": "whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "and the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "for an expensive restaurant in the east part of town",
+        "DA": "inform(pricerange=expensive,type=restaurant,area=east)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "uh yes i want to find a restaurant in the north part of town that serves",
+        "DA": "affirm(type=restaurant,area=north)"
+    },
+    {
+        "usr": "uh the north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "mediterranean food",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "okay how about any area",
+        "DA": "reqalts(area=dontcare)"
+    },
+    {
+        "usr": "okay how about any part of town",
+        "DA": "reqalts(area=dontcare)"
+    },
+    {
+        "usr": "okay and uh can i get the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "okay and whats the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "okay and uh the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "okay thank you and good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "ah can i find a unintelligible restaurant serving scotch food",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "ah scottish food",
+        "DA": "inform(food=scottish)"
+    },
+    {
+        "usr": "okay uh how bout british food",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "uh no im loo ah change it to british",
+        "DA": "negate(food=british)"
+    },
+    {
+        "usr": "ah how bout an expensive one",
+        "DA": "reqalts(pricerange=expensive)"
+    },
+    {
+        "usr": "kay can i get their phone number please",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "okay ah i think thatll do it thank you and goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "uh yes can i find an expensive restaurant that serves italian food",
+        "DA": "affirm(pricerange=expensive,type=restaurant,food=italian)"
+    },
+    {
+        "usr": "center",
+        "DA": "inform(area=centre)"
+    },
+    {
+        "usr": "okay and can i get their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "okay uh thank you and good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "ah yes can i get ah expensive restaurant in the south part of town",
+        "DA": "affirm(pricerange=expensive,type=restaurant,area=south)"
+    },
+    {
+        "usr": "ah it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "kay can i get the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "kay and ah where is it located",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "okay and ah wheres it located",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "okay and whats the addre",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "okay thank you and goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "ah yes can i get a restaurant that serves french food",
+        "DA": "affirm(type=restaurant,food=french)"
+    },
+    {
+        "usr": "ah centre",
+        "DA": "inform(area=centre)"
+    },
+    {
+        "usr": "ah yes that serves french food",
+        "DA": "affirm(food=french)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "kay",
+        "DA": "ack()"
+    },
+    {
+        "usr": "ah whats the price ran",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "okay and ah whats the price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "okay and ah",
+        "DA": "ack()"
+    },
+    {
+        "usr": "what the addre",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "kay",
+        "DA": "ack()"
+    },
+    {
+        "usr": "and ah",
+        "DA": "null()"
+    },
+    {
+        "usr": "kay",
+        "DA": "ack()"
+    },
+    {
+        "usr": "whats his addre",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "kay um",
+        "DA": "ack()"
+    },
+    {
+        "usr": "thank you and goodbye",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "ah yes im looking for persian food and i dont care about the pri",
+        "DA": "affirm(=dontcare,food=persian,task=find)"
+    },
+    {
+        "usr": "um it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "ah yes im looking for persian food though",
+        "DA": "affirm(food=persian,task=find)"
+    },
+    {
+        "usr": "persian food",
+        "DA": "inform(food=persian)"
+    },
+    {
+        "usr": "okay ah how bout portuguese",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "okay ah how bout portuguese food",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "okay um well how bout portuguese",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "ah yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "no portuguese",
+        "DA": "negate(food=portuguese)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "okay and ah can i get their phone number please",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "okay and they serve portuguese food correct",
+        "DA": "affirm(food=portuguese)"
+    },
+    {
+        "usr": "okay uh thank you and goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find",
+        "DA": "null()"
+    },
+    {
+        "usr": "a restaurant",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "mexican food",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "okay",
+        "DA": "null()"
+    },
+    {
+        "usr": "noise taquita restaurant",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "uh whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the south part of town",
+        "DA": "inform(area=south,type=restaurant,task=find)"
+    },
+    {
+        "usr": "moderately priced",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the east",
+        "DA": "inform(area=east,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "in the east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves",
+        "DA": "inform(type=restaurant,task=find)"
+    },
+    {
+        "usr": "catalan food",
+        "DA": "inform(food=catalan)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "catalan",
+        "DA": "inform(food=catalan)"
+    },
+    {
+        "usr": "can i",
+        "DA": "null()"
+    },
+    {
+        "usr": "gastropub food",
+        "DA": "inform(food=gastropub)"
+    },
+    {
+        "usr": "okay what about another restaurant",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "how about gastropub food",
+        "DA": "reqalts(food=gastropub)"
+    },
+    {
+        "usr": "can i find a restaurant with gastropub food",
+        "DA": "inform(type=restaurant,food=gastropub)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i would like to find a restaurant",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "indian",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "and the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the west part of town",
+        "DA": "inform(area=west,type=restaurant,task=find)"
+    },
+    {
+        "usr": "mediterranean",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "indian",
+        "DA": "inform(food=indian)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "i dont care noise",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "venetian",
+        "DA": "inform(food=venetian)"
+    },
+    {
+        "usr": "mediterranean",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a turkish restaurant",
+        "DA": "inform(type=restaurant,food=turkish,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the north part of town",
+        "DA": "inform(area=north,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "address phone number and post code",
+        "DA": "request(addr,phone,postcode)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the west part of town",
+        "DA": "inform(area=west,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i need the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the west part of",
+        "DA": "inform(area=west,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a restaurant in the south part of town serving",
+        "DA": "inform(area=south,type=restaurant,task=find)"
+    },
+    {
+        "usr": "chinese food",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "right",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "phone number and price range",
+        "DA": "request(phone,pricerange)"
+    },
+    {
+        "usr": "price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "looking for a cheap restaurant in the north part of town",
+        "DA": "inform(pricerange=cheap,type=restaurant,area=north)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "address phone number and type of food",
+        "DA": "request(addr,phone,food)"
+    },
+    {
+        "usr": "address and type of food",
+        "DA": "request(addr,food)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "im looking",
+        "DA": "null()"
+    },
+    {
+        "usr": "im looking",
+        "DA": "null()"
+    },
+    {
+        "usr": "looking for a moderately priced restaurant in the east part of town",
+        "DA": "inform(pricerange=moderate,type=restaurant,area=east)"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "yes good afternoon im looking for a restaurant in the north",
+        "DA": "affirm(area=north,type=restaurant,task=find)"
+    },
+    {
+        "usr": "the north part of town",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "belgium",
+        "DA": "inform(food=belgian)"
+    },
+    {
+        "usr": "is there an asian oriental restaurant in the north part of town",
+        "DA": "inform(food=\"asian oriental\",type=restaurant,area=north)"
+    },
+    {
+        "usr": "how about asian food",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "can i have the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "and phone number please",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant that serves english food",
+        "DA": "inform(food=english,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what about mediterranean food",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "what about mediterranean food",
+        "DA": "inform(food=mediterranean)"
+    },
+    {
+        "usr": "whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant that serves",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "any part",
+        "DA": "inform(area=dontcare)"
+    },
+    {
+        "usr": "lebanese food",
+        "DA": "inform(food=lebanese)"
+    },
+    {
+        "usr": "what is the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "cough",
+        "DA": "null()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i need to find a moderately priced restaurant",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "mexican food",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "international type food",
+        "DA": "inform(food=international,type=restaurant)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "west part of town",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant",
+        "DA": "inform(type=restaurant,pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "it doesnt matter",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "um is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "ok how about a restaurant and phone number",
+        "DA": "request(phone,type=restaurant)"
+    },
+    {
+        "usr": "thats fine",
+        "DA": "null()"
+    },
+    {
+        "usr": "i want to know",
+        "DA": "null()"
+    },
+    {
+        "usr": "i want to know the address and the",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "great thank you goodbye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "im looking for a restaurant that serves",
+        "DA": "inform(type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "bistro food",
+        "DA": "inform(food=bistro)"
+    },
+    {
+        "usr": "how about asian oriental food",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "um i dont care about the price",
+        "DA": "inform(pricerange=dontcare)"
+    },
+    {
+        "usr": "may i have the address and post code",
+        "DA": "request(addr,postcode)"
+    },
+    {
+        "usr": "what is their post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "great thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find a cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "in the north part",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "in the north part of town",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "okay might i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "how about the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise i want to find a restaurant that ser",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "umh i dont care noise",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "eritrean food noise",
+        "DA": "inform(food=eritrean)"
+    },
+    {
+        "usr": "noise no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "eritrean food",
+        "DA": "inform(food=eritrean)"
+    },
+    {
+        "usr": "i dont want vietnamese food",
+        "DA": "deny(food=vietnamese)"
+    },
+    {
+        "usr": "noise i dont care about the price range",
+        "DA": "inform(pricerange=dontcare)"
+    },
+    {
+        "usr": "breath noise how about french food",
+        "DA": "reqalts(food=french)"
+    },
+    {
+        "usr": "noise i want to find a restaurant that serve french food",
+        "DA": "inform(type=restaurant,food=french)"
+    },
+    {
+        "usr": "noise may i have its address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "noise breath whats their phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "noise thank you goodbye",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "hi im looking for a restaurant in the east art of town",
+        "DA": "hello(area=east,type=restaurant,task=find)"
+    },
+    {
+        "usr": "and what is the price range",
+        "DA": "request(pricerange)"
+    },
+    {
+        "usr": "okay im looking for moderate price range",
+        "DA": "inform(pricerange=moderate,task=find)"
+    },
+    {
+        "usr": "i dont know",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "okay can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "and can i have the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "okay thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for restaurants in the east part of town",
+        "DA": "inform(area=east,type=restaurant,task=find)"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "how about chinese",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "chinese",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "thank you can i have the address phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "and the postal code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "what about the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "can you give me the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "food",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "type of food served",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "good bye",
+        "DA": "bye()"
+    },
+    {
+        "usr": "im looking for a moderate priced restaurant in the south part",
+        "DA": "inform(area=south,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "the south part",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant with venetian food",
+        "DA": "inform(food=venetian,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "is there one with thai food",
+        "DA": "inform(food=thai)"
+    },
+    {
+        "usr": "how about one with thai food",
+        "DA": "reqalts(food=thai)"
+    },
+    {
+        "usr": "is there a restaurant serving thai food",
+        "DA": "reqalts(food=thai)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "im looking for a restaurant with thai type",
+        "DA": "inform(food=thai,type=restaurant,task=find)"
+    },
+    {
+        "usr": "can i have the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "can i have the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "what type of food does it serve",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "corsica food",
+        "DA": "inform(food=corsica)"
+    },
+    {
+        "usr": "british",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "moderate",
+        "DA": "inform(pricerange=moderate)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "international food",
+        "DA": "inform(food=international)"
+    },
+    {
+        "usr": "center",
+        "DA": "inform(area=centre)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "mexican",
+        "DA": "inform(food=mexican)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the west part",
+        "DA": "inform(area=west,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "chinese",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "british",
+        "DA": "inform(food=british)"
+    },
+    {
+        "usr": "great whats the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for",
+        "DA": "inform(task=find)"
+    },
+    {
+        "usr": "crossover food in the north part of town",
+        "DA": "inform(food=crossover,area=north)"
+    },
+    {
+        "usr": "what about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "what about chinese food",
+        "DA": "reqalts(food=chinese)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "chinese food",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "chinese food im looking for sea food",
+        "DA": "inform(task=find,food=seafood)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "sea food",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "sea food",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "sea food",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap spanish restaurant",
+        "DA": "inform(type=restaurant,pricerange=cheap,food=spanish,task=find)"
+    },
+    {
+        "usr": "the adra",
+        "DA": "null()"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "the postcode",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you goodbye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for european food",
+        "DA": "inform(food=european,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "what about portuguese food",
+        "DA": "reqalts(food=portuguese)"
+    },
+    {
+        "usr": "portuguese food",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "can i find a expensive restaurant that serves welsh food",
+        "DA": "inform(pricerange=expensive,type=restaurant,food=welsh)"
+    },
+    {
+        "usr": "how about asian oriental",
+        "DA": "reqalts(food=\"asian oriental\")"
+    },
+    {
+        "usr": "asian oriental food",
+        "DA": "inform(food=\"asian oriental\")"
+    },
+    {
+        "usr": "can i get the phone number and area",
+        "DA": "request(phone,area)"
+    },
+    {
+        "usr": "what is the area",
+        "DA": "request(area)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for vietnamese food in the north part of town",
+        "DA": "inform(area=north,food=vietnamese,task=find)"
+    },
+    {
+        "usr": "how about the west area",
+        "DA": "reqalts(area=west)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "can i have the phone number please",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for an expensive restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=expensive,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any food",
+        "DA": "inform(food=dontcare)"
+    },
+    {
+        "usr": "anything house",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "may i have the phone number and post code",
+        "DA": "request(phone,postcode)"
+    },
+    {
+        "usr": "can i have the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for unintelligible food",
+        "DA": "inform(type=restaurant,task=find)"
+    },
+    {
+        "usr": "in the east part of town",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "unintelligible",
+        "DA": "null()"
+    },
+    {
+        "usr": "how about indian",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "can i have the address and phone number",
+        "DA": "request(addr,phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "the north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "something cheap",
+        "DA": "inform(pricerange=cheap)"
+    },
+    {
+        "usr": "uh i dont mind",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "okay is there another option",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "okay what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "okay thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "yea im looking for a restaurant that serves basque food",
+        "DA": "inform(food=basque,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what about indian",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "how about indian food",
+        "DA": "reqalts(food=indian)"
+    },
+    {
+        "usr": "correct",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "the west",
+        "DA": "inform(area=west)"
+    },
+    {
+        "usr": "okay whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "moderately priced restaurant in the east",
+        "DA": "inform(pricerange=moderate,type=restaurant,area=east)"
+    },
+    {
+        "usr": "east",
+        "DA": "inform(area=east)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the phone number there",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and what type of food is that",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "okay thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant in the south part of town",
+        "DA": "inform(area=south,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "sil",
+        "DA": "null()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the east part of town",
+        "DA": "inform(area=east,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "spanish restaurant",
+        "DA": "inform(food=spanish,type=restaurant)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "uh",
+        "DA": "null()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant in the south of town",
+        "DA": "inform(area=south,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i dont care",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "okay whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and",
+        "DA": "null()"
+    },
+    {
+        "usr": "the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i want to find a moderately priced restaurant",
+        "DA": "inform(pricerange=moderate,type=restaurant)"
+    },
+    {
+        "usr": "north",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "uh no preference",
+        "DA": "negate()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "and what type of food",
+        "DA": "request(food)"
+    },
+    {
+        "usr": "thank you",
+        "DA": "thankyou()"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "expensive expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "yes",
+        "DA": "affirm()"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "what is their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "cheap restaurant",
+        "DA": "inform(pricerange=cheap,type=restaurant)"
+    },
+    {
+        "usr": "sea food",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "sea food",
+        "DA": "inform(food=seafood)"
+    },
+    {
+        "usr": "portuguese food",
+        "DA": "inform(food=portuguese)"
+    },
+    {
+        "usr": "whats their address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "south",
+        "DA": "inform(area=south)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "expensive",
+        "DA": "inform(pricerange=expensive)"
+    },
+    {
+        "usr": "is there anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "noise",
+        "DA": "null()"
+    },
+    {
+        "usr": "im looking for a cheap restaurant it should serve japanese food",
+        "DA": "inform(food=japanese,pricerange=cheap,type=restaurant,task=find)"
+    },
+    {
+        "usr": "i want spanish food",
+        "DA": "inform(food=spanish)"
+    },
+    {
+        "usr": "no",
+        "DA": "negate()"
+    },
+    {
+        "usr": "what about spanish food",
+        "DA": "reqalts(food=spanish)"
+    },
+    {
+        "usr": "how about spanish food",
+        "DA": "reqalts(food=spanish)"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the signature dish",
+        "DA": "request(signature)"
+    },
+    {
+        "usr": "what is the signature dish",
+        "DA": "request(signature)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "im looking for a moderately priced restaurant and it should be in the west part of town",
+        "DA": "inform(area=west,pricerange=moderate,type=restaurant,task=find)"
+    },
+    {
+        "usr": "any",
+        "DA": "inform(=dontcare)"
+    },
+    {
+        "usr": "anything else",
+        "DA": "reqalts()"
+    },
+    {
+        "usr": "whats the address",
+        "DA": "request(addr)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "whats the post code",
+        "DA": "request(postcode)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    },
+    {
+        "usr": "i am looking fora restaurant that should serve",
+        "DA": "inform(type=restaurant)"
+    },
+    {
+        "usr": "north town",
+        "DA": "inform(area=north)"
+    },
+    {
+        "usr": "no north part of town",
+        "DA": "negate(area=north)"
+    },
+    {
+        "usr": "world food",
+        "DA": "inform(food=world)"
+    },
+    {
+        "usr": "chinese food",
+        "DA": "inform(food=chinese)"
+    },
+    {
+        "usr": "whats the phone number",
+        "DA": "request(phone)"
+    },
+    {
+        "usr": "thank you good bye",
+        "DA": "thankyou()|bye()"
+    }
+]

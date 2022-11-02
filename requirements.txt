@@ -1,0 +1,13 @@
+pyyaml
+cloudpickle
+sklearn
+unidecode
+regex
+scipy
+requests
+tqdm
+logzero
+tensorflow
+neptune-client
+plaidml-keras
+todoist-python 

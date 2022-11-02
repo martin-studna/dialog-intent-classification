@@ -1,0 +1,18 @@
+Create meeting and schedule it on 12.3	create_task(name=<name>, time=<time>)
+Create the event party and schedule it on 12:30	create_task(name=<name>, time=<time>)
+Create the task consultation and schedule it on 14:15	create_task(name=<name>, time=<time>)
+Create the plan meeting and schedule it on <time>	create_task(name=<name>, time=<time>)
+
+Delete meeting	delete_task(name=<name>)
+Delete the event party	delete_task(name=<name>)
+Delete the task consultation	delete_task(name=<name>)
+Delete the plan skiing	delete_task(name=<name>)
+
+Get all events for 12.30	get_tasks(time=<time>)
+Get all tasks for Monday	get_tasks(time=<time>)
+Get all plans for tomorrow	get_tasks(time=<time>)
+
+Give me more information about meeting	get_task(name=<name>)
+Tell me some details about consultation	get_task(name=<name>)
+Get information about party	get_task(name=<name>)
+Get all meetings for tomorrow	get_tasks(time=<time>)

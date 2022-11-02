@@ -1,0 +1,17 @@
+# A config useful for testing NLU systems -- now set up with the
+# dummy NLU. Replace the NLU model with your NLU to test it on
+# the console.
+---
+logging_level: "WARN"
+user_stream_type: "dialmonkey.input.text.SimpleJSONInput"
+#output_stream_type: "dialmonkey.output.text.FileOutput"
+#user_stream: "dialmonkey.output.text.ConsoleOutput" # not strictly required
+#input_file: "data/nlu_dstc2_data.json"
+#output_file: "data/dstc2_outputs.txt"
+components:
+  - "dialmonkey.nlu.dstc2.DSTC2NLU"
+  - "dialmonkey.dst.rule_generic.GenericRuleDST"
+  - "dialmonkey.policy.dummy.ReplyWithSystemAction"
+break_words:
+  - "quit"
+  - "exit"

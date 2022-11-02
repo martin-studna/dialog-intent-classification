@@ -1,0 +1,29 @@
+USER INPUT> Hello Alfred
+SYSTEM:  Hello, is there anything I can help with?
+USER INPUT> Do I have any tasks scheduled for today?
+SYSTEM:  These tasks: party, exam, d, d, d, meeting and consultation have been scheduled for today.
+USER INPUT> thank you
+SYSTEM:  Is there anything else I can do for you, Sir?
+USER INPUT> No, good bye Alfred
+SYSTEM:  Good bye, Sir.
+
+
+USER INPUT> Hello
+SYSTEM:  Hello, is there anything I can help with?
+USER INPUT> create a meeting on Thursday
+SYSTEM:  All done, Sir. I have scheduled the meeting at thursday.
+USER INPUT> thank you
+SYSTEM:  Is there anything else I can do for you, Sir?
+USER INPUT> No
+SYSTEM:   I apologize, Sir, I have not understood to your question.
+USER INPUT> No, good bye.
+SYSTEM:  Good bye, Sir.
+
+USER INPUT> Hi
+SYSTEM:  Hello, is there anything I can help with?
+USER INPUT> delete meeting on Thursday
+SYSTEM:  Ok, Sir. I have just deleted the meeting.
+USER INPUT> thank you
+SYSTEM:  Is there anything else I can do for you, Sir?
+USER INPUT> No, good bye
+SYSTEM:  Good bye, Sir.

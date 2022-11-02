@@ -1,0 +1,58 @@
+[
+  {
+    "usr": "Create meeting and schedule it on 12.3",
+    "DA": "create_task(name=meeting, time=12.3)"
+  },
+  {
+    "usr": "Create the event party and schedule it on 12:30",
+    "DA": "create_task(name=party, time=12:30)"
+  },
+  {
+    "usr": "Create the task consultation and schedule it on 14:15",
+    "DA": "create_task(name=consultation, time=14:15)"
+  },
+  {
+    "usr": "Create the plan meeting and schedule it on tomorrow",
+    "DA": "create_task(name=meeting, time=tomorrow)"
+  },
+  {
+    "usr": "Delete meeting",
+    "DA": "delete_task(name=meeting)"
+  },
+  {
+    "usr": "Delete the event party",
+    "DA": "delete_task(name=party)"
+  },
+  {
+    "usr": "Delete the task consultation",
+    "DA": "delete_task(name=<name>)"
+  },
+  {
+    "usr": "Delete the plan skiing",
+    "DA": "delete_task(name=skiing)"
+  },
+  {
+    "usr": "Get all events for 12:30",
+    "DA": "get_tasks(time=12:30)"
+  },
+  {
+    "usr": "Get all tasks for Monday",
+    "DA": "get_tasks(time=Monday)"
+  },
+  {
+    "usr": "Get all plans for tomorrow",
+    "DA": "get_tasks(time=tomorrow)"
+  },
+  {
+    "usr": "Tell me some details about consultation",
+    "DA": "get_task(name=consultation)"
+  },
+  {
+    "usr": "Get information about party",
+    "DA": "get_task(name=party)"
+  },
+  {
+    "usr": "Get all meetings for tomorrow",
+    "DA": "get_tasks(time=tomorrow)"
+  }
+]
